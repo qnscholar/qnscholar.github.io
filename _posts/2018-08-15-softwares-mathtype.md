@@ -36,7 +36,7 @@ tags:
 
 1. 打开下载的文件，得到如下窗口，包含dmg文件和用于破解的MTkey。点击如下所示的dmg文件。
 
-   ![](/assets/images/posts/software/mathtype01.png)
+   ![](https://iseexuhs.github.io/assets/images/posts/Software/mathtype01.png)
 
 2. 出现下图，点击MathType 6.7b installer.mpkg进行安装。
    ![](/assets/images/posts/software/mathtype02.png)
