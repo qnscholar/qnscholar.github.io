@@ -79,7 +79,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "猫Q, 猫xiao"
+keywords: "ISEEX, x.h.s"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -362,7 +362,7 @@ highlight_theme: normal
 
 # MathJax Support
 mathjax:
-  enable: false
+  enable: true
   per_page: false
   cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
 
