@@ -215,6 +215,8 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   GitHub: https://github.com/iseexuhs
+  Scholar: https://www.researchgate.net/profile/Hongsheng_Xu2
+
 
 
 # Social Links Icons
@@ -229,6 +231,7 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
+  Scholar: graduation-cap
 
 
 # Sidebar Avatar
