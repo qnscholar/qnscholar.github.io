@@ -1,9 +1,8 @@
 ---
 title: 公式编辑 | MathType for Windows & Mac 破解版
 date: 2018-08-15 20:22:00
-categories:
-- 软件大全
 tags:
+- 软件大全
 - Windows
 - MacOS
 
