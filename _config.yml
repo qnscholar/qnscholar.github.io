@@ -549,7 +549,7 @@ calendar:
 
 # Algolia Search
 algolia_search:
-  enable: true
+  enable: false
   hits:
     per_page: 10
   labels:
@@ -563,7 +563,7 @@ local_search:
   enable: true
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
-  trigger: auto
+  trigger: manual
   # show top n results per article, show all results by setting to -1
   top_n_per_article: 1
 
