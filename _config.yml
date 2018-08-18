@@ -330,7 +330,7 @@ post_wordcount:
 wechat_subscriber:
   enabled: true
   qcode: https://iseexuhs.github.io/assets/images/payment.jpg #/path/to/your/wechatqcode ex. /uploads/wechat-qcode.jpg
-  description: <font style="font-size:18px;color:red;font-weight:bold">赞赏</font> #ex. subscribe to my blog by scanning my public wechat account
+  description: <font style="font-size:18px;color:red;font-weight:bold">稀罕作者</font> #ex. subscribe to my blog by scanning my public wechat account
 
 # Declare license on posts
 post_copyright:
