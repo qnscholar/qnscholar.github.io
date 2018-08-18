@@ -229,7 +229,7 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
+  GitHub: suitcase
   Twitter: twitter
   Weibo: weibo
   Scholar: graduation-cap
