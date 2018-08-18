@@ -7,6 +7,15 @@ tags:
 - Zotero
 ---
 
+```matlab
+a=1;
+b=1;
+syms c;
+c=a+b;
+```
+
+
+
 假定你是一个Zotero用户，现在问你这样一个问题：“你眼中的Zotero最大的缺点在哪？（特别是相对于Endnote）”
 
 
