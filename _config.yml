@@ -6,7 +6,7 @@
 # Site
 title: ISEEX
 subtitle:
-description: 科研技巧\超赞工具\程序员进阶\电子DIY\自媒体。运营公众号：猫Q学术派。
+description: 科研技巧\超赞工具\程序员进阶\电子DIY\自媒体。运营公众号：ISEEX。
 author: x.h.s
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -229,11 +229,11 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: suitcase
+  GitHub: github
   Twitter: twitter
   Weibo: weibo
   Scholar: graduation-cap
-  Projects: user
+  Projects: suitcase
 
 
 # Sidebar Avatar
