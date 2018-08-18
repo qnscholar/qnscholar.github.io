@@ -2,7 +2,7 @@
 title: 追求完美！这款插件让Zotero具备文献预览功能！
 date: 2018-08-15 13:55:00
 categories:
-- References
+- 文献管理
 tags:
 - Zotero
 ---
