@@ -1,4 +1,4 @@
-# ---------------------------------------------------------------
+﻿# ---------------------------------------------------------------
 # Jekyll & Global Configuration
 ## Docs: https://jekyllrb.com/docs/configuration/
 # ---------------------------------------------------------------
@@ -214,7 +214,7 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-  github: https://github.com/iseexuhs
+  GitHub: https://github.com/iseexuhs
 
 
 # Social Links Icons
@@ -325,7 +325,7 @@ post_wordcount:
 wechat_subscriber:
   enabled: true
   qcode: https://iseexuhs.github.io/assets/images/payment.jpg #/path/to/your/wechatqcode ex. /uploads/wechat-qcode.jpg
-  description: #<font size='4'color="red">赞赏</font> #ex. subscribe to my blog by scanning my public wechat account
+  description: <font style="font-size:18px;color:red;font-weight:bold">赞赏</font> #ex. subscribe to my blog by scanning my public wechat account
 
 # Declare license on posts
 post_copyright:
