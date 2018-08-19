@@ -4,7 +4,7 @@ date: 2018-08-15 20:22:00
 tags:
 - 软件大全
 - Windows
-- MacOS
+- Mac
 
 ---
 
