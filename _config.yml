@@ -425,6 +425,7 @@ gitalk:
 # Available value:
 #    button | slide
 # Warning: Baidu Share does not support https.
+# try: //bdimg.share.baidu.com/ -> / in baidushare.html
 baidushare:
  type: button
 
