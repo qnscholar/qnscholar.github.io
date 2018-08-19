@@ -125,7 +125,7 @@
             <div class="links-of-blogroll-title">
               <i class="fa  fa-fw fa-{{ site.links_icon | default: 'globe' | downcase }}"></i>
               {{ site.links_title }}
-            </div> </div> </div>
+            </div> </div> </div> <div>
             <ul class="links-of-blogroll-list">
               {% for name_link in site.links %}
                 {% assign name = name_link[0] %}
@@ -135,7 +135,7 @@
                 </li>
               {% endfor %}
             </ul>
-          
+          </div>
         {% endif %}
 
         {% include _custom/sidebar.html %}
