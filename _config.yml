@@ -431,8 +431,8 @@ gitalk:
 #    button | slide
 # Warning: Baidu Share does not support https.
 # solution: replace static file folder, modify baidushare.html, check zotero saving records.
-#baidushare:
- #type: button
+baidushare:
+ type: button
 
 # Share
 #jiathis:
