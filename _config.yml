@@ -152,8 +152,8 @@ menu_icons:
 
 # Schemes
 #cheme: Muse
-scheme: Mist
-#scheme: Pisces
+#scheme: Mist
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -286,7 +286,7 @@ sidebar:
 
 
 # Blog rolls  友链
-links_title: 友链
+links_title: Links
 #links_layout: block
 links_layout: inline  # recommended
 links:
