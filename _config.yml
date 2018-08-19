@@ -317,7 +317,7 @@ post_meta:
   item_text: true
   created_at: true
   updated_at: false
-  categories: false
+  categories: true
 
 # Post wordcount display settings
 post_wordcount:
@@ -441,7 +441,7 @@ gitalk:
 #google_site_verification:
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-124182047-1
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
