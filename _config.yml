@@ -215,9 +215,11 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   GitHub: https://github.com/iseexuhs
-  Twitter: https://twitter.com/iseexuhs
   Scholar: https://www.researchgate.net/profile/Hongsheng_Xu2
   Projects: https://iseexuhs.github.io/research
+  Twitter: https://twitter.com/iseexuhs
+  简书: https://www.jianshu.com/u/5902bc489072
+  Weibo: https://weibo.com/iseexuhs
 
 
 
@@ -232,9 +234,10 @@ social_icons:
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
   Twitter: twitter
-  Weibo: weibo
   Scholar: graduation-cap
   Projects: suitcase
+  简书: heartbeat
+  Weibo: weibo
 
 
 # Sidebar Avatar
