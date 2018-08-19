@@ -289,8 +289,8 @@ sidebar:
 #links_title: Links
 #links_layout: block
 #links_layout: inline
-#links:
-  #Title: http://example.com/
+links:
+  Q-cat: http://baidu.com/
 
 
 # ---------------------------------------------------------------
