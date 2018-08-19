@@ -560,7 +560,7 @@ calendar:
 
 # Algolia Search
 algolia_search:
-  enable: true
+  enable: false
   hits:
     per_page: 10
   labels:
