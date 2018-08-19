@@ -287,7 +287,7 @@ sidebar:
 
 
 # Blog rolls  友链
-links_title: <div style="text-align:center;">Links</div> #Links
+links_title: Links
 #links_layout: block
 links_layout: inline  # recommended
 links:
