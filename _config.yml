@@ -560,7 +560,7 @@ calendar:
 
 # Algolia Search
 algolia_search:
-  enable: false
+  enable: true
   hits:
     per_page: 10
   labels:
@@ -615,8 +615,8 @@ pace: false
 # pace_theme: pace-theme-center-simple
 pace_theme: pace-theme-minimal
 
-# Canvas-nest
-canvas_nest: false
+# Canvas-nest 动态背景
+canvas_nest: true
 
 # three_waves
 three_waves: false
