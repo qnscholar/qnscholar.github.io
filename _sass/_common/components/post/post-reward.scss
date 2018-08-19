@@ -40,6 +40,7 @@
       display: inline-block;
       margin: 0.8em 2em 0 2em;
   }
+  /*
   #wechat:hover p{
       animation: roll 0.1s infinite linear;
       -webkit-animation: roll 0.1s infinite linear;
@@ -49,7 +50,7 @@
       animation: roll 0.1s infinite linear;
       -webkit-animation: roll 0.1s infinite linear;
       -moz-animation: roll 0.1s infinite linear;
-  }
+  }*/
   @include keyframes(roll) {
       from {
         @include transform(rotateZ(30deg));
