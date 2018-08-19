@@ -287,14 +287,10 @@ sidebar:
 
 # Blog rolls
 links_title: Links
-links_layout: block
-#links_layout: inline
+#links_layout: block
+links_layout: inline  # recommended
 links:
   Asdfv1929: https://asdfv1929.github.io/
-  Bsdfv1929: https://asdfv1929.github.io/
-  Csdfv1929: https://asdfv1929.github.io/
-  Dsdfv1929: https://asdfv1929.github.io/
-  Esdfv1929: https://asdfv1929.github.io/
 
 
 # ---------------------------------------------------------------
