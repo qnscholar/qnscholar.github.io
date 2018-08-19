@@ -425,9 +425,9 @@ gitalk:
 # Available value:
 #    button | slide
 # Warning: Baidu Share does not support https.
-# try: //bdimg.share.baidu.com/ -> / in baidushare.html
-baidushare:
- type: button
+# solution: replace static file folder, modify baidushare.html, check zotero saving records.
+#baidushare:
+ #type: button
 
 # Share
 #jiathis:
