@@ -459,7 +459,7 @@ google_analytics: UA-124182047-1
 # user_id must NOT be null when admin_enable is true!
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 duoshuo_info:
-  ua_enable: true
+  ua_enable: false
   admin_enable: false
   user_id: 0
   #admin_nickname: Author
