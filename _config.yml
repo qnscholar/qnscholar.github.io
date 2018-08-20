@@ -335,7 +335,7 @@ post_wordcount:
 # Wechat Subscriber
 wechat_subscriber:
   enabled: false
-  qcode: https://iseexuhs.github.io/assets/images/payment.jpg #/path/to/your/wechatqcode ex. /uploads/wechat-qcode.jpg
+  qcode: /assets/images/payment.jpg #/path/to/your/wechatqcode ex. /uploads/wechat-qcode.jpg
   description: <font style="font-size:15px;color:white;font-weight:bold; border:5px;background:red; border-radius:6px; padding-left:12px; padding-top:6px; padding-right:12px; padding-bottom:6px">赞赏</font> #ex. subscribe to my blog by scanning my public wechat account
 
 # Declare license on posts
@@ -345,8 +345,8 @@ post_copyright:
   license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
 # post-reward 打赏
-alipay: https://iseexuhs.github.io/assets/images/alipay.jpg #qr-code的地址
-wechatpay: https://iseexuhs.github.io/assets/images/wechatpay.jpg #qr-code地址
+alipay: /assets/images/alipay.jpg #qr-code的地址
+wechatpay: /assets/images/wechatpay.jpg #qr-code地址
 
 # ---------------------------------------------------------------
 # Misc Theme Settings
