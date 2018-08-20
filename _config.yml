@@ -424,10 +424,19 @@ han: false
 
 
 
+
 wildfire:
+  ## 开启Wildfire支持
   enable: true
+  ## 主题颜色，目前可选值为light/dark两种，默认为light
   theme: light
+  ## 系统语言，目前可选值为en/zh-CN两种，默认为en
   locale: zh-CN
+  ## Wilddog配置
+  #database_provider: wilddog
+  #site_id: site_id
+  avatarURL: https://image.flaticon.com/icons/svg/621/621863.svg
+  ## Firebase配置
   database_provider: firebase
   api_key: AIzaSyDtQbAuTxqw_TTVHDddj17ivTB_tbYIgxI
   auth_domain: iseex-cec72.firebaseapp.com
@@ -435,8 +444,6 @@ wildfire:
   project_id: iseex-cec72
   storage_bucket:
   messaging_sender_id: 212392288509
-
-
 
 
 # Support for gitalk comments system.
