@@ -419,7 +419,7 @@ han: false
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
 # 注意：安装livere必须关闭gitalk，不然会配置出错。
-livere_uid: MTAyMC8zOTA1OS8xNTU4Ng==
+#livere_uid: MTAyMC8zOTA1OS8xNTU4Ng==
 
 
 # Wildfire Support
