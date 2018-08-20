@@ -69,3 +69,15 @@
 @if (jekyll-config('facebook_sdk.enable') and jekyll-config('facebook_sdk.like_button')) or (jekyll-config('vkontakte_api.enable') and jekyll-config('vkontakte_api.like')) or jekyll-config('rating.enable') {
   @include post-widgets;
 }
+
+// 文章内链接文本样式
+.post-body p a{
+  color: #0593d3;
+  border-bottom: none;
+  border-bottom: 1px solid #0593d3;
+  &:hover {
+    color: #fc6423;
+    border-bottom: none;
+    border-bottom: 1px solid #fc6423;
+  }
+}
