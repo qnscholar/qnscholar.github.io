@@ -392,13 +392,13 @@ han: false
 #duoshuo_shortname:
 
 # Disqus
-disqus:
-  enable: false
-  shortname:
-  count: true
-  # hide comments (visitors need to click to load the comments)
-  # count need to be false when hide is true
-  hide: false
+#disqus:
+#  enable: false
+#  shortname:
+#  count: true
+#  # hide comments (visitors need to click to load the comments)
+#  # count need to be false when hide is true
+# hide: false
 
 # Hypercomments
 #hypercomments_id:
@@ -407,10 +407,10 @@ disqus:
 #gentie_productKey:
 
 # changyan
-changyan:
-  enable: false
-  appid:
-  appkey:
+#changyan:
+#  enable: false
+#  appid:
+# appkey:
 
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
@@ -432,8 +432,8 @@ wildfire:
   api_key: AIzaSyDtQbAuTxqw_TTVHDddj17ivTB_tbYIgxI
   auth_domain: iseex-cec72.firebaseapp.com
   database_url: https://iseex-cec72.firebaseio.com
-  project_id: yiseex-cec72
-  storage_bucket: iseex-cec72.appspot.com
+  project_id: iseex-cec72
+  storage_bucket:
   messaging_sender_id: 212392288509
 
 
