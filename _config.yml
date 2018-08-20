@@ -14,7 +14,7 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:
+url: https://iseexuhs.github.io
 baseurl:
 permalink: /:year/:month/:title/  #pretty
 
@@ -345,8 +345,8 @@ post_copyright:
   license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
 # post-reward 打赏
-alipay: https://iseexuhs.github.io/assets/images/alipay.jpg
-wechatpay: https://iseexuhs.github.io/assets/images/wechatpay.jpg
+alipay: https://iseexuhs.github.io/assets/images/alipay.jpg #qr-code的地址
+wechatpay: https://iseexuhs.github.io/assets/images/wechatpay.jpg #qr-code地址
 
 # ---------------------------------------------------------------
 # Misc Theme Settings
