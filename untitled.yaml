@@ -419,7 +419,7 @@ han: false
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
 # 注意：安装livere必须关闭gitalk，不然会配置出错。
-livere_uid: MTAyMC8zOTA1OS8xNTU4Ng==
+#livere_uid: MTAyMC8zOTA1OS8xNTU4Ng==
 
 
 # Wildfire Support
@@ -445,13 +445,13 @@ livere_uid: MTAyMC8zOTA1OS8xNTU4Ng==
 
 # Support for gitalk comments system.
 # 注意：安装gitalk必须关闭livere，不然会配置出错。
-#gitalk:
-  #enable: enable
-  #clientID: 1b706c9492c172f08b31 # 54730ddf7b9420460c03
-  #clientSecret: cb06afe23835df902a7084e7557e49259f4857ea # c05684701b25ff1c19ea0c01ce4d80c125e0707d
-  #repo: iseexuhs.github.io # colingpt.github.io
-  #owner: iseexuhs # colingpt
-  #admin: iseexuhs # colingpt
+gitalk:
+  enable: enable
+  clientID: 1b706c9492c172f08b31 # 54730ddf7b9420460c03
+  clientSecret: cb06afe23835df902a7084e7557e49259f4857ea # c05684701b25ff1c19ea0c01ce4d80c125e0707d
+  repo: iseexuhs.github.io # colingpt.github.io
+  owner: iseexuhs # colingpt
+  admin: iseexuhs # colingpt
 
 # Baidu Share
 # Available value:
