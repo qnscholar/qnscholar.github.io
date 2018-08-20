@@ -429,7 +429,7 @@ wildfire:
   ## 主题颜色，目前可选值为light/dark两种，默认为light
   theme: light
   ## 系统语言，目前可选值为en/zh-CN两种，默认为en
-  locale: zh-CN
+  locale: en
   ## Wilddog配置
   #database_provider: wilddog
   #site_id: site_id
