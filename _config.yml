@@ -419,32 +419,7 @@ han: false
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
 # 注意：安装livere必须关闭gitalk，不然会配置出错。
- livere_uid: MTAyMC8zOTA1OS8xNTU4Ng==
-
-
-
-
-
-#wildfire:
-  ## 开启Wildfire支持
- # enable: true
-  ## 主题颜色，目前可选值为light/dark两种，默认为light
- # theme: light
-  ## 系统语言，目前可选值为en/zh-CN两种，默认为en
- # locale: zh-CN
-  ## Wilddog配置
-  #database_provider: wilddog
-  #site_id: site_id
- # avatarURL: https://image.flaticon.com/icons/svg/621/621863.svg
- # ## Firebase配置
- # database_provider: firebase
- # api_key: AIzaSyDtQbAuTxqw_TTVHDddj17ivTB_tbYIgxI
- # auth_domain: iseex-cec72.firebaseapp.com
- # database_url: https://iseex-cec72.firebaseio.com
- # project_id: iseex-cec72
- # storage_bucket: iseex-cec72.appspot.com
- # messaging_sender_id: 212392288509
-
+livere_uid: MTAyMC8zOTA1OS8xNTU4Ng==
 
 # Support for gitalk comments system.
 # 注意：安装gitalk必须关闭livere，不然会配置出错。
