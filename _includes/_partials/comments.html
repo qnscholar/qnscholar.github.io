@@ -32,6 +32,31 @@
       <div id="lv-container" data-id="city" data-uid="{{ site.livere_uid }}"></div>
     {% elsif site.changyan.appid and site.changyan.appkey %}
       <div id="SOHUCS"></div>
+    {% elseif site.wildfire.enable %}
+      <style type="text/css">
+        .wildfire_thread a {border-bottom: none}
+      </style>
+      <div class="wildfire_thread"></div>
+      <script type="text/javascript">
+        var wildfireConfig = () => ({
+          databaseProvider: '{{ site.wildfire.database_provider }}',
+          databaseConfig: {
+          {% if (site.wildfire.database_provider) === 'wilddog' %}
+            siteId: '{{ site.wildfire.site_id }}'
+          {% elseif (site.wildfire.database_provider) === 'firebase' %}
+            apiKey: '{{ site.wildfire.api_key }}',
+            authDomain: '{{ site.wildfire.auth_domain }}',
+            databaseURL: '{{ site.wildfire.database_url }}',
+            projectId: '{{ site.wildfire.project_id }}',
+            storageBucket: '{{site.wildfire.storage_bucket}}',
+            messagingSenderId: '{{site.wildfire.messaging_sender_id}}'
+          {% endif %}
+          },
+          theme: '{{site.wildfire.theme}}',
+          locale: '{{site.wildfire.locale}}'
+        })
+      </script>
+      <script src='https://unpkg.com/wildfire/dist/wildfire.auto.js'></script>
     {% endif %}
   </div>
 {% endif %}
