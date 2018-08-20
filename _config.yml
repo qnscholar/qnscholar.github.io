@@ -344,8 +344,9 @@ post_copyright:
   license: CC BY-NC-SA 3.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
-alipay: https://iseexuhs.github.io/assets/images/payment.jpg
-wechatpay: https://iseexuhs.github.io/assets/images/payment.jpg
+# post-reward 打赏
+alipay: https://iseexuhs.github.io/assets/images/alipaym.jpg
+wechatpay: https://iseexuhs.github.io/assets/images/wechatpay.jpg
 
 # ---------------------------------------------------------------
 # Misc Theme Settings
