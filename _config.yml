@@ -423,13 +423,35 @@ han: false
 
 # Support for gitalk comments system.
 # 注意：安装gitalk必须关闭livere，不然会配置出错。
-gitalk:
-  enable: enable
-  clientID: 1b706c9492c172f08b31 # 54730ddf7b9420460c03
-  clientSecret: cb06afe23835df902a7084e7557e49259f4857ea # c05684701b25ff1c19ea0c01ce4d80c125e0707d
-  repo: iseexuhs.github.io # colingpt.github.io
-  owner: iseexuhs # colingpt
-  admin: iseexuhs # colingpt
+#gitalk:
+#  enable: enable
+#  clientID: 1b706c9492c172f08b31 # 54730ddf7b9420460c03
+#  clientSecret: cb06afe23835df902a7084e7557e49259f4857ea # c05684701b25ff1c19ea0c01ce4d80c125e0707d
+#  repo: iseexuhs.github.io # colingpt.github.io
+#  owner: iseexuhs # colingpt
+#  admin: iseexuhs # colingpt
+
+
+# Wildfire Support
+wildfire:
+  ## 开启Wildfire支持
+  enable: true
+  ## 主题颜色，目前可选值为light/dark两种，默认为light
+  theme: light
+  ## 系统语言，目前可选值为en/zh-CN两种，默认为en
+  locale: zh-CN
+  ## Wilddog配置
+  #database_provider: wilddog
+  #site_id: site_id
+  avatarURL: https://image.flaticon.com/icons/svg/621/621863.svg
+  ## Firebase配置
+  database_provider: firebase
+  api_key: AIzaSyDtQbAuTxqw_TTVHDddj17ivTB_tbYIgxI
+  auth_domain: iseex-cec72.firebaseapp.com
+  database_url: https://iseex-cec72.firebaseio.com
+  project_id: iseex-cec72
+  storage_bucket: iseex-cec72.appspot.com
+  messaging_sender_id: 212392288509
 
 # Baidu Share
 # Available value:
