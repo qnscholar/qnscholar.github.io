@@ -442,7 +442,7 @@ wildfire:
   auth_domain: iseex-cec72.firebaseapp.com
   database_url: https://iseex-cec72.firebaseio.com
   project_id: iseex-cec72
-  storage_bucket:
+  storage_bucket: iseex-cec72.appspot.com
   messaging_sender_id: 212392288509
 
 
