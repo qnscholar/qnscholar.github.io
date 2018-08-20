@@ -418,9 +418,29 @@ changyan:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-livere_uid: MTAyMC8zOTA1OS8xNTU4Ng==
+# 注意：安装livere必须关闭gitalk，不然会配置出错。
+# livere_uid: MTAyMC8zOTA1OS8xNTU4Ng==
+
+
+
+
+wildfire:
+  enable: true
+  theme: light
+  locale: zh-CN
+  database_provider: firebase
+  api_key: AIzaSyDtQbAuTxqw_TTVHDddj17ivTB_tbYIgxI
+  auth_domain: iseex-cec72.firebaseapp.com
+  database_url: https://iseex-cec72.firebaseio.com
+  project_id: yiseex-cec72
+  storage_bucket: iseex-cec72.appspot.com
+  messaging_sender_id: 212392288509
+
+
+
 
 # Support for gitalk comments system.
+# 注意：安装gitalk必须关闭livere，不然会配置出错。
 #gitalk:
   #enable: enable
   #clientID: 1b706c9492c172f08b31 # 54730ddf7b9420460c03
