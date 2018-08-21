@@ -23,12 +23,66 @@ GitHub pages提供绑定域名的功能（custom domain），在仓库的setting
 
 ### 域名申请
 
-首先得申请个自己喜欢的域名，在知名的国际域名供应商[Godaddy](https://www.godaddy.com/)上申请是个不错的选择，GoDaddy支持用支付宝付款，这点对中国用户比较友好。不过GitHub大法有个[GitHub Education](https://education.github.com/
-)，对学生有教育优惠，如果申请成功，GitHub会送你一个教育礼包（pack），包括一年的CNAME（域名供应商）免费域名、Atom编辑器、Digital Ocean（主机）供应商的优惠券等福利。
+首先得申请个自己喜欢的域名，不建议在国内申请域名，因为要需要备案。在国际知名的域名供应商[Godaddy](https://www.godaddy.com/)上申请是个不错的选择，GoDaddy支持用支付宝付款，这点对中国用户比较友好。需要提一下，GitHub大法有个[GitHub Education](https://education.github.com/
+)，对学生有教育优惠，如果申请成功，GitHub会送你一个教育礼包（pack），包括一年的namecheap（域名供应商）免费域名、Atom编辑器、Digital Ocean（主机）供应商的优惠券等福利。
 
-![github-education](/assets/images/posts/GitHub-Pages/github-education.jpg)
+![GitHub Education](/assets/images/posts/GitHub-Pages/github-education.jpg)
 
-我这次就是申请的教育优惠，因此用的就是一年的CNAME域名，不过需要注意的是CNAME免费域名只包含.me，不含.com以及.io等，比如我的域名iseex.me。申请教育优惠和CNAME域名不是今天的内容，具体步骤可参考文章[我的 Github 个人博客是怎样炼成的](https://www.jianshu.com/p/4fd3cb0a11da)。
+我这次就是申请的教育优惠，因此用的就是一年免费的namecheap域名，不过需要注意的是namecheap免费域名只限定为.me的域名，不含.com以及.io等，比如我的域名iseex.me一年免费，一年之后需要续费。申请教育优惠和CNAME域名不是今天要讲的内容，具体步骤可参考文章[我的 Github 个人博客是怎样炼成的](https://www.jianshu.com/p/4fd3cb0a11da)。
 
+### DNS设置
 
+DNS用于域名解析，即将主机空间和域名建立定向关系，是搭建网站非常重要的一个环节。一般来说，主机空间价格较贵，域名比较便宜（除非是那些非常好的域名）。之所以GitHub Pages这么受欢迎，原因之一便是GitHub Pages提供免费的主机空间。
+
+DNSPod是主流的域名解析平台，不过这里用的是namecheap自带的域名解析服务。登陆CNAME，进入控制台，点击Domain List，可以查看到自己的域名，再点击 Manage，如下图。
+
+![](/assets/images/posts/GitHub-Pages/namecheap-1.jpg)
+
+进入下图，点击Advanced DNS，可以看到namecheap控制台已经自动为你添加了记录。其中两条A记录指向的ip地址是GitHub Pages提供的ip，www指定的记录是你在github注册的仓库。![](/assets/images/posts/GitHub-Pages/namecheap-2.jpg)
+
+需要注意的是，上图中的ip是我修改过的，是为了https配置。默认情况下namecheap指向的ip是：
+
+- 192.30.252.153
+- 192.30.252.154
+
+虽然利用上述两个ip也能正常进行域名解析，网站也能正常打开，但是不支持https。https更加安全，越来越多的网站也加持了https，在Chrome中用http而非https的网站会提示不安全。
+
+我在配置过程中，GitHub Pages的settings中就提示绑定的两个ip比较老，现在不能支持https，因此根据GitHub提供的[帮助文档](https://help.github.com/articles/troubleshooting-custom-domains/#https-errors)中的信息：
+
+![](/assets/images/posts/GitHub-Pages/ip.jpg)
+
+可以知道，支持https的ip地址必须指向以下ip其中一个。
+
+- 185.199.108.153
+- 185.199.109.153
+- 185.199.110.153
+- 185.199.111.153
+
+如上图所示，我在namecheap控制台配置的就是其中两个。到此DNS的设置就完成了，如果是用DNSPod进行域名解析可以参考资料[如何搭建一个独立博客——简明Github Pages与Hexo教程](https://www.jianshu.com/p/141abf1700da)。
+
+### GitHub Pages域名绑定及https支持配置
+
+下面进行GitHub的设置，打开GitHub仓库的settings，在custom domain 中填上刚申请的域名（如果是用namecheap的域名，GitHub Pages会自动填充域名）,勾选enforce https，使能https支持，如下图所示。
+
+![](/assets/images/posts/GitHub-Pages/enforce-https.jpg)
+
+按照GitHub Pages的[帮助文档](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)，绑定域名需要在仓库中新建一个CNAME的文件，文件内容为绑定的域名（比如iseex.me），如下图所示。![](/assets/images/posts/GitHub-Pages/cname.jpg)
+
+不过第一次GitHub Pages也会自动建立好CNAME文件，不需要我们操作什么。到这里看似该完成的都完成了，可是打开settings，发现还是有警告⚠️。接着，我根据GitHub Pages的[Help页面](https://help.github.com/articles/securing-your-github-pages-site-with-https/)提供的帮助，如下图。
+
+![](/assets/images/posts/GitHub-Pages/url-setting.jpg)
+
+大致意思是让html中的链接（src）都使用https的形式，因此我想到的解决办法是在Jekyll或者Hexo的配置文件.config.yml的url项写上带https的域名，如下所示。
+
+![](/assets/images/posts/GitHub-Pages/url.jpg)
+
+修改完push一下，再次到仓库的settngs一看发现一切正常，如下图所示。
+
+![](/assets/images/posts/GitHub-Pages/finish.jpg)
+
+再Chrome中打开网站[iseex.me](iseex.me)，也显示安全，如下图。
+
+![](/assets/images/posts/GitHub-Pages/site-https.jpg)
+
+> 大功告成，如果有疑问🤔️欢迎在下方留言。
 
