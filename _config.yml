@@ -216,7 +216,7 @@ font:
 social:
   GitHub: https://github.com/iseexuhs
   Scholar: https://www.researchgate.net/profile/Hongsheng_Xu2
-  Projects: https://iseexuhs.github.io/research
+  Projects: https://iseex.github.io/research
   Twitter: https://twitter.com/iseexuhs
   简书: https://www.jianshu.com/u/5902bc489072
   Weibo: https://weibo.com/iseexuhs
@@ -424,7 +424,7 @@ han: false
 # Support for gitalk comments system.
 # 注意：安装gitalk必须关闭livere，不然会配置出错。
 gitalk:
-  enable: enable
+  enable: false
   clientID: 1b706c9492c172f08b31 # 54730ddf7b9420460c03
   clientSecret: cb06afe23835df902a7084e7557e49259f4857ea # c05684701b25ff1c19ea0c01ce4d80c125e0707d
   repo: iseexuhs.github.io # colingpt.github.io
@@ -452,7 +452,7 @@ gitalk:
 #google_site_verification:
 
 # Google Analytics
-google_analytics: UA-124182047-1
+# google_analytics: UA-124182047-1
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
@@ -513,7 +513,7 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: true
+  enable: false
   app_id: jiDl8jESPHtQGdYybqTv22Jy-gzGzoHsz #<app_id>
   app_key: pHPxFhesQ7ENN1LHtSXVrlIQ #<app_key>
 
@@ -539,7 +539,7 @@ busuanzi_count:
 
 
 # Online contact 
-daovoice: true
+daovoice: false
 daovoice_app_id: 287e05f5 #这里填你的刚才获得的 app_i
 
 # Tencent analytics ID
