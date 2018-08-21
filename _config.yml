@@ -122,7 +122,6 @@ menu:
   archives: /archives/
   categories: /categories/
   tags: /tags/
-  products: /products/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -143,7 +142,6 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
-  products: book
 
 
 
