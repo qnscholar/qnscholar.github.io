@@ -118,7 +118,7 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  #categories: /categories/
+  categories: /categories/
   #about: /about/
   archives: /archives/
   tags: /tags/
@@ -539,8 +539,8 @@ busuanzi_count:
 
 
 # Online contact 
-daovoice: false
-daovoice_app_id: 287e05f5 #这里填你的刚才获得的 app_i
+daovoice: true
+daovoice_app_id: 80b13f12 #这里填你的刚才获得的 app_i
 
 # Tencent analytics ID
 # tencent_analytics:
@@ -633,7 +633,7 @@ canvas_nest: true
 three_waves: false
 
 # canvas_lines
-canvas_lines: false
+canvas_lines: true
 
 # canvas_sphere
 canvas_sphere: false
