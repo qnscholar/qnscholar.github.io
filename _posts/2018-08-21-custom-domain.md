@@ -62,7 +62,7 @@ DNSPod是主流的域名解析平台，不过这里用的是namecheap自带的�
 
 ### GitHub Pages域名绑定及https支持配置
 
-下面进行GitHub的设置，打开GitHub仓库的settings，在custom domain 中填上刚申请的域名（如果是用namecheap的域名，GitHub Pages会自动填充域名）,勾选enforce https，使能https支持，如下图所示。
+下面进行GitHub的设置，打开GitHub仓库的settings，在custom domain 中填上刚申请的域名（如果是用namecheap的域名，GitHub Pages会自动填充域名），勾选enforce https，使能https支持，如下图所示。
 
 ![](/assets/images/posts/GitHub-Pages/enforce-https.jpg)
 
