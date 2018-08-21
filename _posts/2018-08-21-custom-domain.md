@@ -9,7 +9,7 @@ tags:
 typora-root-url: ../../iseexuhs.github.io
 ---
 
-GitHub pages提供绑定域名的功能（custom domain），在仓库的setting中可以设置，GitHub也提供了[帮助页面](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)说明相关步骤和注意事项。一旦成功绑定自己的域名，就可以使用该域名来访问博客了，比如我绑定的域名是iseex.me，那么在浏览器中输入iseex.me就可以了。当然，输入GitHub pages的原地址（username.github.io）会自动跳转到iseex.me。
+GitHub pages提供绑定域名的功能（custom domain），在仓库的setting中可以设置，GitHub也提供了[帮助页面](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)说明相关步骤和注意事项。一旦成功绑定自己的域名，就可以使用该域名来访问博客了，比如我绑定的域名是iseex.me，那么在浏览器中输入iseex.me就可以了。当然，输入GitHub Pages的原地址（username.github.io）会自动跳转到iseex.me。
 
 
 
