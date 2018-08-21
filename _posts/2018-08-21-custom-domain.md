@@ -34,7 +34,7 @@ GitHub pages提供绑定域名的功能（custom domain），在仓库的setting
 
 DNS用于域名解析，即将主机空间和域名建立定向关系，是搭建网站非常重要的一个环节。一般来说，主机空间价格较贵，域名比较便宜（除非是那些非常好的域名）。之所以GitHub Pages这么受欢迎，原因之一便是GitHub Pages提供免费的主机空间。
 
-DNSPod是主流的域名解析平台，不过这里用的是namecheap自带的域名解析服务。登陆CNAME，进入控制台，点击Domain List，可以查看到自己的域名，再点击 Manage，如下图。
+DNSPod是主流的域名解析平台，不过这里用的是namecheap自带的域名解析服务。登陆namecheap，进入控制台，点击Domain List，可以查看到自己的域名，再点击 Manage，如下图。
 
 ![](/assets/images/posts/GitHub-Pages/namecheap-1.jpg)
 
