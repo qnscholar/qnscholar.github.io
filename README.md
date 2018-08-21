@@ -7,3 +7,7 @@
 ## 网站主题
 
 本网站主题在[NexT](http://jekyllthemes.org/themes/jekyll-theme-next/)的基础上修改。
+
+## 内容更新
+
+绑定了自己的域名iseex.me，不过由于微信访问没有备案的域名会显示“非微信官方网页，继续访问将转换成手机预览模式”，影响体验。再者，新政策规定，域名备案需要实名制，iseex.me域名因为实在国外的namecheap购买的，无法在国内实名备案。因此停止域名绑定，恢复iseexuhs.github.io访问。
