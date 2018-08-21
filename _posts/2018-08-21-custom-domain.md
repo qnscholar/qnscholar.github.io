@@ -28,7 +28,7 @@ GitHub pages提供绑定域名的功能（custom domain），在仓库的setting
 
 ![GitHub Education](/assets/images/posts/GitHub-Pages/github-education.jpg)
 
-我这次就是申请的教育优惠，因此用的就是一年免费的namecheap域名，不过需要注意的是namecheap免费域名只限定为.me的域名，不含.com以及.io等，比如我的域名iseex.me一年免费，一年之后需要续费。申请教育优惠和CNAME域名不是今天要讲的内容，具体步骤可参考文章[我的 Github 个人博客是怎样炼成的](https://www.jianshu.com/p/4fd3cb0a11da)。
+我这次就是申请的教育优惠，因此用的就是一年免费的namecheap域名，不过需要注意的是namecheap免费域名只限定为.me的域名，不含.com以及.io等，比如我的域名iseex.me一年免费，一年之后需要续费。申请教育优惠和namecheap域名不是今天要讲的内容，具体步骤可参考文章[我的 Github 个人博客是怎样炼成的](https://www.jianshu.com/p/4fd3cb0a11da)。
 
 ### DNS设置
 
