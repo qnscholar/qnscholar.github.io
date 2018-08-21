@@ -5,7 +5,6 @@ categories:
 - 文献管理
 tags:
 - Zotero
-typora-root-url: ../../iseexuhs.github.io
 ---
 
 
@@ -30,13 +29,10 @@ Zotero作为一款如此受欢迎的开源文献管理软件，广大的开发�
 
 由于`Windows`电脑暂时不在身边，下面就以在`Mac`上安装quicklook为例就行介绍。
 
-1. 在上面给出的quicklook下载链接下载用于Mac的quicklook插件，如下图所示。 
-
-   ![](/assets/images/posts/zotero/pdf-preview01.jpg)
+1. 在上面给出的quicklook下载链接下载用于Mac的quicklook插件，如下图所示。  ![](https://iseexuhs.github.io/assets/images/posts/zotero/pdf-preview01.jpg)
 
 2. 打开Zotero，tools->add-ons，打开插件安装界面，安装上面下载的zoteroquicklook.xpi，安装完如下图所示。
-
-   ![](/assets/images/posts/zotero/pdf-preview02.jpg)
+   ![](https://iseexuhs.github.io/assets/images/posts/zotero/pdf-preview02.jpg)
 
 3. 到这里配置工作就搞定了，很简单吧。下面就是具体使用方法了。一旦安装了quicklook，在Zotero中选定一个文献条目，按下空格键，就能快速甚至极速打开文献，在弹出的预览窗口中可以翻页、放大查看，再按下空格键即可快速关闭预览窗口。如果配合上下箭头键，就能通过键盘在一堆文献中快速查找到需要的文献。此处需要注意的是，如果选定文献条目并按下Enter键，则是用Mac自带的预览软件打开文献。
 
