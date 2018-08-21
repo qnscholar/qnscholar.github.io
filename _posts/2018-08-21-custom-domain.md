@@ -92,9 +92,8 @@ DNSPod是主流的域名解析平台，不过这里用的是namecheap自带的�
 
 ![](/assets/images/posts/GitHub-Pages/finish.jpg)
 
-在Chrome中打开网站[iseex.me](iseex.me)，也显示安全，如下图。
+在Chrome中打开网站[iseex.me](https://iseex.me)，也显示安全，如下图。
 
 ![](/assets/images/posts/GitHub-Pages/site-https.jpg)
 
 > 大功告成，如果有疑问🤔️欢迎在下方留言。
-
