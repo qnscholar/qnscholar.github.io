@@ -7,7 +7,7 @@
 title: ISEEX
 subtitle:
 description: 科研技巧\超赞工具\程序员进阶\电子DIY\自媒体。运营公众号：ISEEX。
-author: x.h.s
+author: ISEEX
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -79,7 +79,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "ISEEX, x.h.s"
+keywords: "ISEEX, ISEEX"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -425,11 +425,11 @@ han: false
 # 注意：安装gitalk必须关闭livere，不然会配置出错。
 gitalk:
   enable: false
-  clientID: 1b706c9492c172f08b31 # 54730ddf7b9420460c03
-  clientSecret: cb06afe23835df902a7084e7557e49259f4857ea # c05684701b25ff1c19ea0c01ce4d80c125e0707d
-  repo: iseexuhs.github.io # colingpt.github.io
-  owner: iseexuhs # colingpt
-  admin: iseexuhs # colingpt
+  clientID: 9cc85294515eed2e31fe # 54730ddf7b9420460c03
+  clientSecret: e8491efc431d76ebfe7dbfef3b9d8d97b05e35bd # c05684701b25ff1c19ea0c01ce4d80c125e0707d
+  repo: iseex.github.io # colingpt.github.io
+  owner: iseex # colingpt
+  admin: iseex # colingpt
 
 # Baidu Share
 # Available value:
