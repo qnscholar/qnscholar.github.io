@@ -541,7 +541,7 @@ busuanzi_count:
 
 
 # Online contact 
-daovoice: true
+daovoice: false
 daovoice_app_id: 287e05f5 #这里填你的刚才获得的 app_i
 
 # Tencent analytics ID
