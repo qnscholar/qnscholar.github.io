@@ -38,7 +38,7 @@ DNSPod是主流的域名解析平台，不过这里用的是namecheap自带的�
 
 ![](/assets/images/posts/GitHub-Pages/namecheap-1.jpg)
 
-进入下图，点击Advanced DNS，可以看到namecheap控制台已经自动为你添加了记录。其中两条A记录指向的ip地址是GitHub Pages提供的ip，www指定的记录是你在github注册的仓库。![](/assets/images/posts/GitHub-Pages/namecheap-2.jpg)
+进入下图，点击Advanced DNS，可以看到namecheap控制台已经自动为你添加了记录。其中两条A记录指向的ip地址是GitHub Pages提供的ip，www指定的记录是你在GitHub注册的仓库。![](/assets/images/posts/GitHub-Pages/namecheap-2.jpg)
 
 需要注意的是，上图中的ip是我修改过的，是为了https配置。默认情况下namecheap指向的ip是：
 
