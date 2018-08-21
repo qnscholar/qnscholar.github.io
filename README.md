@@ -8,7 +8,7 @@
 
 本网站主题在[NexT](http://jekyllthemes.org/themes/jekyll-theme-next/)的基础上修改。
 
-##版本更新
+## 版本更新
 
 - 动态背景enable了线条效果
 - 更换了gif的动漫女孩头像
