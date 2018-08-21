@@ -39,9 +39,12 @@ typora-root-url: ../../iseexuhs.github.io
    ![](/assets/images/posts/Software/mathtype01.png)
 
 2. 出现下图，点击MathType 6.7b installer.mpkg进行安装。
+
    ![](/assets/images/posts/Software/mathtype02.png)
 
 3. 因为`Mac`系统限制，可能会出现如下窗口，解决办法是：打开设置->安全性和隐私，在下方点击“仍要打开”，如下。
+
+
    ![](/assets/images/posts/Software/mathtype03.jpeg)
 
    ![](/assets/images/posts/Software/mathtype04.jpeg)
@@ -55,6 +58,7 @@ typora-root-url: ../../iseexuhs.github.io
    ![](/assets/images/posts/Software/mathtype06.png)
 
 6. 弹出下面窗口。
+
    ![](/assets/images/posts/Software/mathtype07.jpeg)
 
 7. 打开第一步的MTkey，得到下图，点击make，生成序列号并复制。
@@ -62,9 +66,12 @@ typora-root-url: ../../iseexuhs.github.io
    ![](/assets/images/posts/Software/mathtype08.png)
 
 8. 填好第6步窗口中的内容，并粘贴上一步得到的序列号，点击OK，即可完成破解，如下所示。
+
    ![](/assets/images/posts/Software/mathtype09.jpeg)
 
-9. 破解后MathType的完整界面如下，可以放心使用。![](/assets/images/posts/Software/mathtype10.jpeg)
+9. 破解后MathType的完整界面如下，可以放心使用。
+
+   ![](https://iseexuhs.github.io/assets/images/posts/Software/mathtype10.jpeg)
 
 > 今天的内容就介绍到这里，更多实用信息可移步微信公众号“猫Q学术派”。
 

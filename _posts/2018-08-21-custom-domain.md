@@ -38,7 +38,9 @@ DNSPod是主流的域名解析平台，不过这里用的是namecheap自带的�
 
 ![](/assets/images/posts/GitHub-Pages/namecheap-1.jpg)
 
-进入下图，点击Advanced DNS，可以看到namecheap控制台已经自动为你添加了记录。其中两条A记录指向的ip地址是GitHub Pages提供的ip，www指定的记录是你在GitHub注册的仓库。![](/assets/images/posts/GitHub-Pages/namecheap-2.jpg)
+进入下图，点击Advanced DNS，可以看到namecheap控制台已经自动为你添加了记录。其中两条A记录指向的ip地址是GitHub Pages提供的ip，www指定的记录是你在GitHub注册的仓库。
+
+![](/assets/images/posts/GitHub-Pages/namecheap-2.jpg)
 
 需要注意的是，为了https配置，上图中的ip是我修改过的。默认情况下namecheap指向的ip是：
 
@@ -66,7 +68,11 @@ DNSPod是主流的域名解析平台，不过这里用的是namecheap自带的�
 
 ![](/assets/images/posts/GitHub-Pages/enforce-https.jpg)
 
-按照GitHub Pages的[帮助文档](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)，绑定域名需要在仓库中新建一个CNAME的文件，文件内容为绑定的域名（比如iseex.me），如下图所示。![](/assets/images/posts/GitHub-Pages/cname.jpg)
+按照GitHub Pages的[帮助文档](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)，绑定域名需要在仓库中新建一个CNAME的文件，文件内容为绑定的域名（比如iseex.me），如下图所示。
+
+![](/assets/images/posts/GitHub-Pages/cname.jpg)
+
+
 
 不过第一次GitHub Pages也会自动建立好CNAME文件，不需要我们操作什么。
 
@@ -91,3 +97,4 @@ DNSPod是主流的域名解析平台，不过这里用的是namecheap自带的�
 ![](/assets/images/posts/GitHub-Pages/site-https.jpg)
 
 > 大功告成，如果有疑问🤔️欢迎在下方留言。
+
