@@ -9,6 +9,16 @@ tags:
 typora-root-url: ../../iseex.github.io
 ---
 
+
+
+----------------------
+
+*补充说明：由于在微信端访问没有备案的域名受限，会弹出⚠️，非常影响体验。最新的政策规定域名备案需要实名制，而我的国外域名iseex.me很难在国内备案，因此我取消了域名绑定，还是用域名iseex.github.io*访问博客。
+
+--------------
+
+
+
 GitHub pages提供绑定域名的功能（custom domain），在仓库的setting中可以设置，GitHub也提供了[帮助页面](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)说明相关步骤和注意事项。一旦成功绑定自己的域名，就可以使用该域名来访问博客了，比如我绑定的域名是iseex.me，那么在浏览器中输入iseex.me就可以了。当然，输入GitHub Pages的原地址（username.github.io）会自动跳转到iseex.me。
 
 
@@ -26,7 +36,7 @@ GitHub pages提供绑定域名的功能（custom domain），在仓库的setting
 首先得申请个自己喜欢的域名，不建议在国内申请域名，因为要需要备案。在国际知名的域名供应商[Godaddy](https://www.godaddy.com/)上申请是个不错的选择，GoDaddy支持用支付宝付款，这点对中国用户比较友好。需要提一下，GitHub大法有个[GitHub Education](https://education.github.com/
 )，对学生有教育优惠，如果申请成功，GitHub会送你一个教育礼包（pack），包括一年的namecheap（域名供应商）免费域名、Atom编辑器、Digital Ocean（主机）供应商的优惠券等福利。
 
-![GitHub Education](/assets/images/posts/GitHub-Pages/github-education.jpg)
+![](/assets/images/posts/GitHub-Pages/github-education.jpg)
 
 我这次就是申请的教育优惠，因此用的就是一年免费的namecheap域名，不过需要注意的是namecheap免费域名只限定为.me的域名，不含.com以及.io等，比如我的域名iseex.me一年免费，一年之后需要续费。申请教育优惠和namecheap域名不是今天要讲的内容，具体步骤可参考文章[我的 Github 个人博客是怎样炼成的](https://www.jianshu.com/p/4fd3cb0a11da)。
 
