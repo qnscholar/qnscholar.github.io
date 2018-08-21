@@ -1,5 +1,5 @@
 ---
-title: GitHub pages域名绑定及https支持的配置步骤
+title: GitHub Pages域名绑定及https支持的配置步骤
 date: 2018-08-21 08-30-59
 categories:
 - 网站搭建
