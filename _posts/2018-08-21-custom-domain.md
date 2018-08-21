@@ -68,7 +68,13 @@ DNSPod是主流的域名解析平台，不过这里用的是namecheap自带的�
 
 按照GitHub Pages的[帮助文档](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)，绑定域名需要在仓库中新建一个CNAME的文件，文件内容为绑定的域名（比如iseex.me），如下图所示。![](/assets/images/posts/GitHub-Pages/cname.jpg)
 
-不过第一次GitHub Pages也会自动建立好CNAME文件，不需要我们操作什么。到这里看似该完成的都完成了，可是打开settings，发现还是有警告⚠️。接着，我根据GitHub Pages的[Help页面](https://help.github.com/articles/securing-your-github-pages-site-with-https/)提供的帮助，如下图。
+不过第一次GitHub Pages也会自动建立好CNAME文件，不需要我们操作什么。
+
+接下来很重要的一步，由于前面我们更新了ip地址，根据GitHub 提供的[帮助文档](https://help.github.com/articles/troubleshooting-custom-domains/)，我们需要删除CNAME并重新添加，以触发https支持，如下图所示。
+
+![](/assets/images/posts/GitHub-Pages/cname-readd.jpg)
+
+到这里看似该完成的都完成了，可是打开settings，发现还是有警告⚠️。接着，我根据GitHub Pages的[Help页面](https://help.github.com/articles/securing-your-github-pages-site-with-https/)提供的帮助，如下图。
 
 ![](/assets/images/posts/GitHub-Pages/url-setting.jpg)
 
@@ -85,4 +91,3 @@ DNSPod是主流的域名解析平台，不过这里用的是namecheap自带的�
 ![](/assets/images/posts/GitHub-Pages/site-https.jpg)
 
 > 大功告成，如果有疑问🤔️欢迎在下方留言。
-
