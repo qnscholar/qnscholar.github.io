@@ -30,9 +30,9 @@ Zotero作为一款如此受欢迎的开源文献管理软件，广大的开发�
 
 由于`Windows`电脑暂时不在身边，下面就以在`Mac`上安装quicklook为例就行介绍。
 
-1. 在上面给出的quicklook下载链接下载用于Mac的quicklook插件，如下图所示。
+1. 在上面给出的quicklook下载链接下载用于Mac的quicklook插件，如下图所示。 
 
-     ![](/assets/images/posts/zotero/pdf-preview01.jpg)
+   ![](/assets/images/posts/zotero/pdf-preview01.jpg)
 
 2. 打开Zotero，tools->add-ons，打开插件安装界面，安装上面下载的zoteroquicklook.xpi，安装完如下图所示。
 
