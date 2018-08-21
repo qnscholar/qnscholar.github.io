@@ -214,7 +214,7 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-  GitHub: https://github.com/iseexuhs
+  GitHub: https://github.com/iseex
   Scholar: https://www.researchgate.net/profile/Hongsheng_Xu2
   Projects: https://iseex.github.io/research
   Twitter: https://twitter.com/iseexuhs
@@ -521,7 +521,7 @@ leancloud_visitors:
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
 busuanzi_count:
   # count values only if the other configs are false
-  enable: true
+  enable: false
   # custom uv span for the whole site
   site_uv: true
   site_uv_header: <i class="fa fa-user"></i>
