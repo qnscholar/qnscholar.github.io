@@ -122,6 +122,7 @@ menu:
   #about: /about/
   archives: /archives/
   tags: /tags/
+  books: /books/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -142,6 +143,7 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
+  books: book
 
 
 
