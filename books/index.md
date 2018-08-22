@@ -4,7 +4,7 @@ type: books
 title: ￣ω￣=
 ---
 
-<blockquote class="blockquote-center"><font size="10">梦想没了行动，只会变成一场空想</font></blockquote>
+<blockquote class="blockquote-center"><font size="8">梦想没了行动，只会变成一场空想</font></blockquote>
 
 
 
