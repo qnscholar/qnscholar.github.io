@@ -10,7 +10,7 @@ typora-root-url: /Users/iseexuhs/Documents/GitHub/iseex.github.io
 
 今天推荐几个我接触过的不错的图片网站和工具，不论你是为了仅仅是为了写文章配图，还是搞UI设计，相信都会很有用。
 
-# favicon 图标
+# Favicon 图标
 
 favicon图标般用于作为缩略的网站标志,它显示位于浏览器的地址栏或者在标签上，用于显示网站的logo，如GitHub的标志性的黑色猫咪网站图标。
 
@@ -18,7 +18,7 @@ favicon图标般用于作为缩略的网站标志,它显示位于浏览器的地
 
 favicon图标通常为.ico格式，即favicon.ico。搞UI设计和前端的肯定经常用。今天就推荐一个下载精致.ico图标的网站，以及将其他格式的图标转换为.ico格式的网站。
 
-### a. 网站Icofont
+### 网站Icofont
 
 [Icofont网站](http://www.iconfont.cn/)提供了丰富且精致的ico图标供你选择，而且是免费下载的，非常良心。网站界面如下：
 
@@ -28,7 +28,7 @@ favicon图标通常为.ico格式，即favicon.ico。搞UI设计和前端的肯�
 
 ![](/assets/images/posts/Tools/ico-download.jpg)
 
-### b. ico格式转换网站
+### ico格式转换网站
 
 [点击链接](http://www.bitbug.net/)进入下图所示网站，上传自己的图片，就方便地进行转换，这里也可以选择目标尺寸。
 
