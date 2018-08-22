@@ -18,7 +18,7 @@ favicon图标般用于作为缩略的网站标志,它显示位于浏览器的地
 
 favicon图标通常为.ico格式，即favicon.ico。搞UI设计和前端的肯定经常用。今天就推荐一个下载精致.ico图标的网站，以及将其他格式的图标转换为.ico格式的网站。
 
-#### 网站Icofont
+### a. 网站Icofont
 
 [Icofont网站](http://www.iconfont.cn/)提供了丰富且精致的ico图标供你选择，而且是免费下载的，非常良心。网站界面如下：
 
@@ -28,7 +28,7 @@ favicon图标通常为.ico格式，即favicon.ico。搞UI设计和前端的肯�
 
 ![](/assets/images/posts/Tools/ico-download.jpg)
 
-#### ico格式转换网站
+### b. ico格式转换网站
 
 [点击链接](http://www.bitbug.net/)进入下图所示网站，上传自己的图片，就方便地进行转换，这里也可以选择目标尺寸。
 
