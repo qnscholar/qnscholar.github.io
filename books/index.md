@@ -8,7 +8,7 @@ title: ￣ω￣=
 
 
 
-<blockquote style="position: relative; margin: 40px 0; padding: 0;  border-left: none; text-align: center;"><font size="8">梦想没了行动，只会变成一场空想</font></blockquote>
+<blockquote style="position: relative; margin: 40px 0; padding: 0;  border-left: none; text-align: center;"><font size="6">梦想没了行动，只会变成一场空想</font></blockquote>
 
 
 
