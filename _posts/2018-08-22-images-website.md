@@ -8,7 +8,7 @@ tags:
 typora-root-url: /Users/iseexuhs/Documents/GitHub/iseex.github.io
 ---
 
-今天推荐几个我接触过的不错的图标网站和工具，不论你是为了仅仅是为了写文章配图，还是搞UI设计，相信都会很有用。
+今天推荐几个我接触过的不错的图片网站和工具，不论你是为了仅仅是为了写文章配图，还是搞UI设计，相信都会很有用。
 
 ### favicon 图标
 
