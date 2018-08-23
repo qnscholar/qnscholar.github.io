@@ -6,11 +6,11 @@ typora-root-url: ../../iseex.github.io
 
 emmm，暑假里经过一段时间的闭关折腾（搞skr人），终于倒腾出了艾新可思的官方网站（地址：[https://iseex.github.io/](https://iseex.github.io/)），😊直接上图。
 
-![](/assets/images/posts/GitHub-Pages/catq-site.jpg)
+![](/assets/images/posts/GitHub-Pages/ISEEX-site.jpg)
 
 怎么，不够看，那就来张动图。
 
-![](/assets/images/posts/GitHub-Pages/catq-gif.gif)
+![](/assets/images/posts/GitHub-Pages/ISEEX-gif.gif)
 
 什么，怎么都是在电脑端看的…好吧，再上个自动适配移动端的艾新可思网站截图（点击公众号菜单栏**线上小站**也可以访问）。
 
