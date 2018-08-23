@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+Sitemap: http://iseex.github.io/sitemap.xml
+Sitemap: http://iseex.github.io/baidusitemap.xml
