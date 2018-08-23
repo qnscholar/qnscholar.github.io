@@ -436,18 +436,18 @@ gitalk:
 
 
 
-wildfire:
-  enable: true
-  theme: light
-  locale: zh-CN
-  
-  database_provider: firebase
-  api_key: AIzaSyDtQbAuTxqw_TTVHDddj17ivTB_tbYIgxI
-  auth_domain: iseex-cec72.firebaseapp.com
-  database_url: https://iseex-cec72.firebaseio.com
-  project_id: iseex-cec72
-  storage_bucket: iseex-cec72.appspot.com
-  messaging_sender_id: 212392288509
+#wildfire:
+  #enable: true
+  #theme: light
+  #locale: zh-CN
+
+  #database_provider: firebase
+  #api_key: AIzaSyDtQbAuTxqw_TTVHDddj17ivTB_tbYIgxI
+  #auth_domain: iseex-cec72.firebaseapp.com
+  #database_url: https://iseex-cec72.firebaseio.com
+  #project_id: iseex-cec72
+  #storage_bucket: iseex-cec72.appspot.com
+  #messaging_sender_id: 212392288509
 
 # Baidu Share
 # Available value:
