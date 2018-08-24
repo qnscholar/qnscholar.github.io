@@ -118,9 +118,9 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
+  archives: /archives/
   categories: /categories/
   #about: /about/
-  archives: /archives/
   tags: /tags/
   books: /books/
   #sitemap: /sitemap.xml
@@ -443,7 +443,7 @@ wildfire:
   enable: true
   # version - It's recommended to use the following versions.
   loaderVersion: 1.2.5 # https://www.npmjs.com/package/wildfire-comment
-  useDev: true
+  useDev: false
   version: 0.5.6 
   # database config
   databaseProvider: firebase # or wilddog
