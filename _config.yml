@@ -459,7 +459,7 @@ wildfire:
   # other configs
   theme: light # light or dark
   locale: zh-CN # or other locales, e.g. zh-CN
-  defaultAvatarURL: https://s1.ax1x.com/2018/08/24/P7fTdf.jpg
+  defaultAvatarURL: https://cdn.rawgit.com/cheng-kang/wildfire/088cf3de/resources/wildfire-avatar.svg
 # Any question? 
 # Raise an issue here: https://github.com/cheng-kang/wildfire/issues
 # </wildfire>
