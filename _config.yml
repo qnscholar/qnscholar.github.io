@@ -448,12 +448,12 @@ wildfire:
   # database config
   databaseProvider: firebase # or wilddog
   firebase: # your firebase config goes here ↓
-    apiKey: AIzaSyCRnMZ39Fvqx0GA-E-02zIqIwE-RlSTS0s
-    authDomain: iseex-e80e9.firebaseapp.com
-    databaseURL: https://iseex-e80e9.firebaseio.com
-    projectId: iseex-e80e9
-    storageBucket: iseex-e80e9.appspot.com
-    messagingSenderId: 833663812929
+    apiKey: AIzaSyCNqroS109rphqBeyOmDEY6FVnrowtPAPI
+    authDomain: https://iseex-new-dbd88.firebaseio.com
+    databaseURL: https://iseex-new-dbd88.firebaseio.com
+    projectId: iseex-new-dbd88
+    storageBucket: iseex-new-dbd88.appspot.com
+    messagingSenderId: 619524497577
   wilddog: # your wilddog config goes here ↓
     siteId:
   # other configs
