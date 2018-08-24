@@ -436,6 +436,35 @@ gitalk:
 
 
 
+
+
+# <wildfire>
+wildfire:
+  enable: true
+  # version - It's recommended to use the following versions.
+  loaderVersion: 1.2.5 # https://www.npmjs.com/package/wildfire-comment
+  useDev: true
+  version: 0.5.6 
+  # database config
+  databaseProvider: firebase # or wilddog
+  firebase: # your firebase config goes here ↓
+    apiKey: AIzaSyCRnMZ39Fvqx0GA-E-02zIqIwE-RlSTS0s
+    authDomain: iseex-e80e9.firebaseapp.com
+    databaseURL: https://iseex-e80e9.firebaseio.com
+    projectId: iseex-e80e9
+    storageBucket: iseex-e80e9.appspot.com
+    messagingSenderId: 833663812929
+  wilddog: # your wilddog config goes here ↓
+    siteId:
+  # other configs
+  theme: light # light or dark
+  locale: zh-CN # or other locales, e.g. zh-CN
+  defaultAvatarURL: https://s1.ax1x.com/2018/08/24/P7fTdf.jpg
+# Any question? 
+# Raise an issue here: https://github.com/cheng-kang/wildfire/issues
+# </wildfire>
+
+
 #wildfire:
   #enable: true
   #theme: light
