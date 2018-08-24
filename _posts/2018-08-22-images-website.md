@@ -34,5 +34,47 @@ favicon图标通常为.ico格式，即favicon.ico。搞UI设计和前端的肯�
 
 ![](/assets/images/posts/Tools/ico-convert.jpg)
 
+# Unsplash
+
+[Unsplash](https://unsplash.com/)是我个人非常喜欢的一个图片网站，它是最受欢迎的**免授权**图片平台之一。Unsplash上的图片很高清，且风格偏欧美风，很有感觉。Unsplash将图片进行了分类，直接到对应的相册集找自己喜欢的图片就可以了，或者搜索。登陆自己的账号，可以收藏自己看到的不错的照片，也可以直接下载。
+
+![](/assets/images/posts/Tools/images-website-unsplash.jpg)
+
+# Wallhaven
+
+[Wallhaven](https://alpha.wallhaven.cc/)算是我使用最多的一个图片网站了，其中的照片何止高清，可以用超清形容了，像素非常高，很适合做壁纸或文章的配图。每张图片都有一个标签（tag），便于搜索。不过访问Wallhaven建议开vpn，不然可能比较慢。通Unsplash一样，可以收藏自己喜欢的图片，便于后期需要时下载。
+
+![](/assets/images/posts/Tools/images-website-wallhaven.jpg)
+
+# Flaticon
+
+[Flaticon](https://www.flaticon.com/)是一个含有丰富而精致图标（icon）的平台，适合美学和UI设计。我在设计logo和做ppt时经常用它。下载图片支持矢量图和位图格式，比如svg、psd、png、eps等。不多说，去体验下就知道了。
+
+![](/assets/images/posts/Tools/images-website-flaticon.jpg)
+
+# Font Awesome
+
+Font Awesome是一套绝佳的图标字体库和CSS框架，用网站[Font Awesome](http://fontawesome.dashgame.com)上的介绍语描述就是：
+
+>Font Awesome为您提供可缩放的矢量图标，您可以使用CSS所提供的所有特性对它们进行更改，包括：大小、颜色、阴影或者其它任何支持的效果。
+
+下图描述了Font Awesome的特点。
+
+![](/assets/images/posts/Tools/images-website-fontawesome.jpg)
+
+简单地说，Font Awesome不仅仅是一套可无限放大的矢量图，还支持`CSS`控制，从而嵌入到网页设计的源码中（`HTML`、`CSS`等），这在网页设计、App的UI设计、PPT制作等各个方面都发挥着巨大作用。
+
+推荐以下两个网站：
+
+1. 第一个网站请[点击这里](http://fontawesome.dashgame.com)，它清楚了所有图标的外观以及CSS控制代码，极力推荐。如下图。
+
+   ![](/assets/images/posts/Tools/images-website-icons.jpg)
 
 
+2. 第二个是Font Awesome的[官方网站](https://fontawesome.com/icons?d=gallery&m=free)，其第一时间发布最新扩容的图标。可免费下载大量图标，也可以查看CSS代码。
+
+   ![](/assets/images/posts/Tools/images-website-font-awesome.jpg)
+
+-----
+
+持续更新中...
