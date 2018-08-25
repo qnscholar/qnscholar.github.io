@@ -39,8 +39,6 @@ $a^2 + b^2 = c^2$
 
 $$a^2+b^2=c^2$$
 
-![编译输出](http://upload-images.jianshu.io/upload_images/2787497-154809dda827ec72.jpg )
-
 什么！这么简单，等等，没你想得那么简单：）
 
 因为$LaTeX$也算是一种编程语言，所有内容都需要通过代码实现，从上面勾股定理的实现代码可以看出都是由**字母搭配各种符号**构成。这里有两点：
@@ -65,6 +63,8 @@ $$a^2+b^2=c^2$$
 ```
 
 效果如下：
+
+$$频率f等于速度v除以波长\lambda$$
 
 ![行内公式](http://upload-images.jianshu.io/upload_images/2787497-0f2add439759d81a.jpg?)
 
