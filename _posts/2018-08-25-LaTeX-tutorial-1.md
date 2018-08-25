@@ -1,7 +1,7 @@
 ---
 title: LaTeX | 为学术论文排版而生【文本篇】
 date: 2018-08-25 10-00-00
-catergories:
+categories:
 - LaTeX
 tags:
 - LaTeX
@@ -32,10 +32,10 @@ $LaTeX$本身非常复杂，涉及的细节非常多，不可能全部介绍，�
     ![操作环境](http://upload-images.jianshu.io/upload_images/2787497-ec0de1416878920b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)   
      编译器和编辑器的下载可以参考上一篇推送【入门篇】。操作环境不一样没关系，`Windows`用户推荐`TeXlive 2016 + TeXstudio`。
  - 打开`TeXstudio`，界面如下。新建文件，并保存为`Hello World.tex`。注意$LaTeX$文件的格式为`.TeX`。
-  ![TeXstudio界面](http://upload-images.jianshu.io/upload_images/2787497-d90c61b703ea87da.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+    ![TeXstudio界面](http://upload-images.jianshu.io/upload_images/2787497-d90c61b703ea87da.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
  - 为了对中英文有更好的支持，编码方式采用`UTF8`，如下图红色方框所示处。`TeXstudio`默认已经设置好，我们不需要管。只是如果采用其他编辑器，保存时可能需要设置编码方式，不然中文可能无法显示。
-  ![编码方式设置](http://upload-images.jianshu.io/upload_images/2787497-8c49f659a50663b6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+    ![编码方式设置](http://upload-images.jianshu.io/upload_images/2787497-8c49f659a50663b6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 2. 敲代码
 
