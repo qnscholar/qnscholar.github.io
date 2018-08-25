@@ -120,7 +120,7 @@ menu:
   home: /
   archives: /archives/
   categories: /categories/
-  #about: /about/
+  about: /about/
   tags: /tags/
   books: /books/
   #sitemap: /sitemap.xml
