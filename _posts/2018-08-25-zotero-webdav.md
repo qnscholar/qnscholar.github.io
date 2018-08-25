@@ -21,7 +21,7 @@ tags:
 
 ![](http://upload-images.jianshu.io/upload_images/2787497-5d69714cea78fc0f?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
-![](http://upload-images.jianshu.io/upload_images/2787497-2c138979401abfac?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 "密码") 
+![](http://upload-images.jianshu.io/upload_images/2787497-2c138979401abfac?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 *   打开Zotero，选择【工具】-【首选项】
 
