@@ -66,8 +66,6 @@ $$a^2+b^2=c^2$$
 
 $$频率f等于速度v除以波长\lambda$$
 
-![行内公式](http://upload-images.jianshu.io/upload_images/2787497-0f2add439759d81a.jpg?)
-
 
 是不是很简单的呢：）
 
@@ -87,9 +85,7 @@ $$ f(x)= ax^2 + bx + c $$
 ```
 运行得到效果：
 
-![行间公](http://upload-images.jianshu.io/upload_images/2787497-170e1834b38ae4fb.jpg)
-
-
+$$ f(x)= ax^2 + bx + c$$
 
 怎么，是不是依然很简单，：）继续往下看。
 
@@ -140,3 +136,4 @@ $$ f(x)= ax^2 + bx + c $$
 到这里，可以发现用$LaTeX$编辑公式是这么简单高效。
 
 > 就讲到这里！
+
