@@ -120,9 +120,9 @@ menu:
   home: /
   archives: /archives/
   categories: /categories/
-  about: /about/
   tags: /tags/
   books: /books/
+  about: /about/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
