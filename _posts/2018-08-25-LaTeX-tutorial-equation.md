@@ -162,8 +162,8 @@ $$ f(x)= ax^2 + bx + c $$
 
 - 在$LaTeX$编辑器（比如`TeXstudio`）粘贴，得到：
 
-```
-\[x = \frac{{ - b \pm \sqrt {{b^2} - 4ac} }}{{2a}}\]
+```latex
+\[x = \frac{{ - b\pm \sqrt{{b^2} - 4ac} }}{{2a}}\]
 ```
 
 这里可以看出，默认情况下`MathType`采用**行间公式**`\[...\]`。
