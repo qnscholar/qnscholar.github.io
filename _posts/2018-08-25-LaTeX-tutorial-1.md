@@ -11,7 +11,7 @@ tags:
 
 这几天一直在想该按照什么样的结构去写这个$LaTeX$栏目，才能让大家更快的上手，甚至培养对$LaTeX$的兴趣。
 
-$LaTeX​$本身非常复杂，涉及的细节非常多，不可能全部介绍，笔者能力有限，也难以做到面面俱到。因此，几经思考之后，决定突出重点，按照**入门篇**、**文本篇**、**公式篇**、**浮动体篇**、**自动化工具篇**展开本次的$LaTeX​$系列。
+$LaTeX$本身非常复杂，涉及的细节非常多，不可能全部介绍，笔者能力有限，也难以做到面面俱到。因此，几经思考之后，决定突出重点，按照**入门篇**、**文本篇**、**公式篇**、**浮动体篇**、**自动化工具篇**展开本次的$LaTeX$系列。
 
 下面就开始$LaTeX$系列的第二篇**文本篇**，所谓**文本篇**，主要涉及文字、段落、字体、页面设置等。
 # 从 Hello World 说起
@@ -29,7 +29,10 @@ $LaTeX​$本身非常复杂，涉及的细节非常多，不可能全部介绍�
 系统：`Mac OS X Sierra 10.12.2`
 编译器：`MacTeX`
 编辑器：`TeXstudio 2.12.2`
-![操作环境](http://upload-images.jianshu.io/upload_images/2787497-ec0de1416878920b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)    编译器和编辑器的下载可以参考上一篇推送【入门篇】。操作环境不一样没关系，`Windows`用户推荐`TeXlive 2016 + TeXstudio`。
+
+![操作环境](http://upload-images.jianshu.io/upload_images/2787497-ec0de1416878920b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)   
+
+编译器和编辑器的下载可以参考上一篇推送【入门篇】。操作环境不一样没关系，`Windows`用户推荐`TeXlive 2016 + TeXstudio`。
 
 - 打开`TeXstudio`，界面如下。新建文件，并保存为`Hello World.tex`。注意$LaTeX$文件的格式为`.TeX`。
   ![TeXstudio界面](http://upload-images.jianshu.io/upload_images/2787497-d90c61b703ea87da.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
