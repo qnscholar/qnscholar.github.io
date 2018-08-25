@@ -72,7 +72,6 @@ wildfire:
                         data-disqus-identifier="{{ post.url }}" itemprop="commentCount"></span>
                  </a>
                </span>
- 添加代码到这里
              {% elsif site.hypercomments_id %}
              <!--noindex-->
                <span class="post-comments-count">
