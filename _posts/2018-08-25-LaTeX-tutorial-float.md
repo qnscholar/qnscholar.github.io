@@ -35,7 +35,7 @@ $LaTeX$中可以用``tabular``或``array``环境来录入表格，其中``tabula
 
 ``tabular``与``array``环境的一般格式为：
 
-```
+```latex
 \begin{tabular}[垂直对齐]{列格式说明}
 表项 & 表项 & ... & 表项  \\
 ......
@@ -50,7 +50,7 @@ $LaTeX$中可以用``tabular``或``array``环境来录入表格，其中``tabula
 
 
 其中，表格每一行后面用``\\``换行，不同列之间用``&``分开。**垂直对齐**可以理解为表格在文档中的对齐方式，一般用的较少。**列格式说明**指列内容的对齐方式，有左、中、右，分别用``l``、``c``、``r``表示。下面代码包含了文本和数学公式，可以加深理解。
-```
+```latex
  \begin{tabular}{lcr}
  $x^{2}$  & 文本 & $y^{2}$  \\
  本列公式 & 本列文本 & 本列公式
@@ -61,7 +61,7 @@ $LaTeX$中可以用``tabular``或``array``环境来录入表格，其中``tabula
 ![编译效果](http://upload-images.jianshu.io/upload_images/2787497-30a3566e57b9a787.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 再看下面的代码：
-```
+```latex
 \begin{tabular}{|c|c|c|}
 \hline
 1 & 0 & 0 \\ \hline
@@ -74,7 +74,7 @@ $LaTeX$中可以用``tabular``或``array``环境来录入表格，其中``tabula
 上述代码中，列格式说明中的``|``表示画一条竖线，即列表格线。``\hline``表示画一条行表格线。
 
 利用下面代码看看**垂直对齐**的用法。
-```
+```latex
 \begin{tabular}{|c|c|c|}
 \hline
 1 & 0 & 0  \\ \hline
@@ -107,7 +107,7 @@ $LaTeX$中，插入功能由宏包``graphicx``中的``\includegraphics``命令�
 
 ### 浮动体
 $LaTeX$中两种浮动体环境：``figure``和``table``，通常分别用于图和表的排版。``figure``环境的语法格式如下：
-```
+```latex
 \begin{figure}[允许位置]
 内容
 \end{figure}
@@ -120,7 +120,7 @@ $LaTeX$中两种浮动体环境：``figure``和``table``，通常分别用于图
 - **p** 独立一页（page），一个或多个浮动体被放在单独的页面中，这个页面被称为浮动页。
 
 浮动体最常见的应用就是直接在``table``环境中放置``tabular``，或者是在``figure``环境中放置``\includegraphics``命令插入的图形。经常还在前面使用``\centering``命令让图表居中放置。看下面代码：
-```
+```latex
 \begin{figure}[htbp]
 \centering
 \includegraphics{figure_name.jpg}
@@ -137,7 +137,7 @@ $LaTeX$中两种浮动体环境：``figure``和``table``，通常分别用于图
 需要再次说明的是，无论是``figure``还是``table``环境，浮动环境的名称和内容并没有必然联系，其内容可以任意放置，如程序算法（后续会介绍）。
 
 浮动体的另一个重要动能是使用``\caption``命令加标题，其语法格式如下为``\caption{标题}``。看下面代码。
-```
+```latex
 \begin{figure}[htbp]
 \centering
 \includegraphics{figure_name.jpg}
@@ -147,7 +147,7 @@ $LaTeX$中两种浮动体环境：``figure``和``table``，通常分别用于图
 关于浮动体，提出最多的一个问题是：怎么样让图表不要乱跑？习惯于**所见即所得**环境下拖拽鼠标放置图形的人尤其不适应浮动环境的“奇怪”效果。浮动图表的目的是用浮动的位置避免糟糕的分页，但如果不在乎因为图表太大而产生的分页，而要有确定的位置，那么这其实是要求不使用“浮动”环境。
 
 $LaTeX$为此提供了``float``宏包来解决这个问题，即用一个新的``H``位置选项来产生没有浮动效果的图表环境，它的使用非常简单，和一般的浮动环境没有什么区别。看下面代码。
-```
+```latex
 \usepackage{float}
 \begin{figure}[H]
 \centering
