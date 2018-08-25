@@ -107,7 +107,7 @@ $$ f(x)= ax^2 + bx + c$$
 ```
 运行得到效果：
 
-![编译输出](http://upload-images.jianshu.io/upload_images/2787497-dfb3de00e71458f1.jpg)
+$$f(x)= ax^2 + bx + c  \qquad  (1) $$
 
 但是，单单做到这一步还不够，因为往往文档都是有章节的，且经常碰到公式编号跟随章节序号变化的要求。这一点$LaTeX$早就为我们考虑了，而且实现方法非常简单（绝对秒杀`Word`和`MathType`）。
 
@@ -130,10 +130,8 @@ $$ f(x)= ax^2 + bx + c$$
 ```
 运行得到效果：
 
-
-![编译输出](http://upload-images.jianshu.io/upload_images/2787497-ed95fa74629b8746.jpg)
+$$ f(x)= ax^2 + bx + c  \qquad  (1.1)$$
 
 到这里，可以发现用$LaTeX$编辑公式是这么简单高效。
 
 > 就讲到这里！
-
