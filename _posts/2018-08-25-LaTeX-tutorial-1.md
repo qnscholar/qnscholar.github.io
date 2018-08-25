@@ -30,7 +30,7 @@ $LaTeX$本身非常复杂，涉及的细节非常多，不可能全部介绍，�
 编译器：`MacTeX`
 编辑器：`TeXstudio 2.12.2`
 
-![操作环境](http://upload-images.jianshu.io/upload_images/2787497-ec0de1416878920b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)   
+![操作环境](http://upload-images.jianshu.io/upload_images/2787497-ec0de1416878920b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
 
 编译器和编辑器的下载可以参考上一篇推送【入门篇】。操作环境不一样没关系，`Windows`用户推荐`TeXlive 2016 + TeXstudio`。
 
@@ -186,18 +186,15 @@ $LaTeX$中，在一行的末尾使用`\\`表示换行，即**另起一行**。�
 ### 字体设置
 #### 字体选择
 
-
-~~~latex
 $LaTeX$的字体蔟非常复杂，这里不多叙述，大家可以查查资料。下面代码是用于设置正文部分中英文的默认字体分别为`Roman Times New`和`楷体-简`（`Windows`上写**楷体**即可）。其中，`xeCJK`宏包用于设置中文字体，`fontspec`宏包用于设置英文字体，将其添加到导言区即可。
 
-```
+```latex
 \usepackage{xeCJK}
 \setCJKmainfont[BoldFont={黑体-简}]{楷体-简}
 
 \usepackage{fontspec}
 \setmainfont{Times New Roman}
 ```
-~~~
 
 #### 字体大小
 
@@ -232,12 +229,11 @@ $LaTeX$中设置字体大小的方式比较多。在文档类型为**中文论�
 ### 页面设置
 #### 纸张设置
 
+$LaTeX$中可以通过**可选项**来设置页面纸张的大小（默认为`A4`）。代码如下：
 
-    $LaTeX$中可以通过**可选项**来设置页面纸张的大小（默认为`A4`）。代码如下：
-    
-    ```
-    \documentclass[UTF8,a4paper]{ctexart}   
-    ```
+```latex
+\documentclass[UTF8,a4paper]{ctexart}   
+```
 
 #### 页边距
 
@@ -262,4 +258,4 @@ $LaTeX$中用`\pagestyle`来设置**页眉页脚**，默认为页眉显示**章�
 \pagestyle{empty}
 ```
 
-> $LaTeX$的【文本篇】就到这里啦，更多丰富的格式设置需要大家多**查阅资料**来学习，这里推荐大家看看**刘洋海**的《LaTeX 入门》，一本很经典的$LaTeX$参考资料！
+> $LaTeX$的【文本篇】就到这里啦，更多丰富的格式设置需要大家多**查阅资料**来学习，这里推荐大家看看**刘洋海**的《LaTeX 入门》，一本很经典的$LaTeX​$参考资料！
