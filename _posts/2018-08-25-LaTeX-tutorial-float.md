@@ -17,7 +17,7 @@ tags:
 
 存在的必然是合理的。反过来想想，既然$LaTeX$在排版方面有这么大的优势，那么除了在学术界受欢迎，在其他行业是否能够发挥她的价值呢？
 
-经过我的初步了解，在国外，有不少专注于提供$LaTeX$排版服务的小型公司，在国内，一家叫做`LaTeX Studio`（LaTeX工作室）的公司做的挺不错，公司位于杭州萧山。
+经过我的初步了解，在国外，有不少专注于提供$LaTeX$排版服务的小型公司，在国内，一家叫做LaTeX Studio（LaTeX工作室）的公司做的挺不错，公司位于杭州萧山。
 
 而我最近因为无意发现了个有关$LaTeX$的私活，就接了下来。这个兼职是教育公司提供的，具体就是用$LaTeX$排版题库，特别是带有很多数学公式的题库（比如高中奥赛题库）。所以可见，$LaTeX$以其专业的排版水准在教育行业也能发挥重要作用。
 
@@ -37,11 +37,11 @@ $LaTeX$中可以用``tabular``或``array``环境来录入表格，其中``tabula
 
 ```latex
 \begin{tabular}[垂直对齐]{列格式说明}
-表项 & 表项 & ... & 表项  \\
+表项 & 表项 & ... & 表项  \\\\
 ......
 \end{tabular}
 \begin{array}[垂直对齐]{列格式说明}
-表项 & 表项 & ... & 表项  \\ 
+表项 & 表项 & ... & 表项  \\\\ 
 ......
 \end{array}
 ```
@@ -52,7 +52,7 @@ $LaTeX$中可以用``tabular``或``array``环境来录入表格，其中``tabula
 其中，表格每一行后面用``\\``换行，不同列之间用``&``分开。**垂直对齐**可以理解为表格在文档中的对齐方式，一般用的较少。**列格式说明**指列内容的对齐方式，有左、中、右，分别用``l``、``c``、``r``表示。下面代码包含了文本和数学公式，可以加深理解。
 ```latex
  \begin{tabular}{lcr}
- $x^{2}$  & 文本 & $y^{2}$  \\
+ $x^{2}$  & 文本 & $y^{2}$  \\\\
  本列公式 & 本列文本 & 本列公式
  \end{tabular}
 ```
@@ -64,9 +64,9 @@ $LaTeX$中可以用``tabular``或``array``环境来录入表格，其中``tabula
 ```latex
 \begin{tabular}{|c|c|c|}
 \hline
-1 & 0 & 0 \\ \hline
-0 & 1 & 0 \\ \hline
-0 & 0 & 1 \\ \hline
+1 & 0 & 0 \\\\ \hline
+0 & 1 & 0 \\\\ \hline
+0 & 0 & 1 \\\\ \hline
 \end{tabular}
 ```
 
@@ -77,9 +77,9 @@ $LaTeX$中可以用``tabular``或``array``环境来录入表格，其中``tabula
 ```latex
 \begin{tabular}{|c|c|c|}
 \hline
-1 & 0 & 0  \\ \hline
-0 & 1 & 0  \\ \hline
-0 & 0 & 1  \\ \hline
+1 & 0 & 0  \\\\ \hline
+0 & 1 & 0  \\\\ \hline
+0 & 0 & 1  \\\\ \hline
 \end{tabular}
 表格外的文字与表格底部对齐
 ```
@@ -129,8 +129,8 @@ $LaTeX$中两种浮动体环境：``figure``和``table``，通常分别用于图
   \centering
   \begin{tabular}{c|c}
   \hline
-  a & b  \\ \hline
-  c & d  \\ \hline
+  a & b  \\\\ \hline
+  c & d  \\\\ \hline
   \end{tabular}
 \end{table}
 ```
