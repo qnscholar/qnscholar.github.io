@@ -74,11 +74,11 @@ $LaTeX$本身非常复杂，涉及的细节非常多，不可能全部介绍，�
 \end{document}
 ```
 上述三行代码代表了一个$LaTeX$文件`必不可少`的三个部分。
-    
+
 `\documentclass{article}`表示该文档的类型是`期刊（aiticle）`，$LaTeX$还支持`report（报告）`、`book（书籍）`、`beamer（幻灯片）`等多种类型。
-    
+
 `\begin{document}`和`\end{document}`表示文档内容的**开始**和**结束**，也就是说，所有正文内容都写在其中。`\begin{document}`前的部分我们称为**导言区**，**宏包**我们都是写在导言区，后面会具体介绍。
-    
+
 此外，$LaTeX$中，我们用`%`表示注释，如：
     
 
@@ -106,6 +106,7 @@ $LaTeX$本身非常复杂，涉及的细节非常多，不可能全部介绍，�
 编译输出，效果如下：
 ![中文支持](http://upload-images.jianshu.io/upload_images/2787497-15a44f84888a2b4a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
     
+
 这里需要提一下，上面代码中的`\LaTeX`是专门用于显示$LaTeX$的logo。又如`\TeX`可以显示`TeX`的logo，大家可以自己试试。
 
 #### 行与段落
@@ -193,26 +194,25 @@ $LaTeX$的字体蔟非常复杂，这里不多叙述，大家可以查查资料�
 ~~~
 
 2. 字体大小
-    $LaTeX$中设置字体大小的方式比较多。在文档类型为**中文论文**的情况下，我通常使用`\zihao{数字}`的方式来改变字体大小，**数字**的大小表示该部分文字为**几号字体**。如下所示：
+   $LaTeX$中设置字体大小的方式比较多。在文档类型为**中文论文**的情况下，我通常使用`\zihao{数字}`的方式来改变字体大小，**数字**的大小表示该部分文字为**几号字体**。如下所示：
 
-    ```latex
-    \documentclass[UTF8]{ctexart}
-    \CTEXsetup[name={第,章}]{section}
-    \CTEXsetup[format={\zihao{-3}\raggedright\bfseries}]{section}
-    \begin{document}
-         \section{这是第一章节}
-         \zihao{2}
-         Hello World
-         \subsection{这是次级章节}
-         Hello World
-         \section{这是第二章节}
-         Hello World
-     \end{document}
-    ```
-    效果如下所示：
+```latex
+\documentclass[UTF8]{ctexart}
+\CTEXsetup[name={第,章}]{section}
+\CTEXsetup[format={\zihao{-3}\raggedright\bfseries}]{section}
+\begin{document}
+     \section{这是第一章节}
+     \zihao{2}
+     Hello World
+     \subsection{这是次级章节}
+     Hello World
+     \section{这是第二章节}
+     Hello World
+ \end{document}
+```
+	效果如下所示：
 
-![字体大小设置](http://upload-images.jianshu.io/upload_images/2787497-c69db956f5e2538b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
- 如果只想改变某部分文字的大小，可以用一对大括号`{}`括住`\zihao{数字}`和**文字**，$LaTeX$中一对大括号`{}`表示一个**环境**，环境内的**格式控制语句**只对环境中的文字起作用。如：
+![字体大小设置](http://upload-images.jianshu.io/upload_images/2787497-c69db956f5e2538b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 如果只想改变某部分文字的大小，可以用一对大括号`{}`括住`\zihao{数字}`和**文字**，$LaTeX$中一对大括号`{}`表示一个**环境**，环境内的**格式控制语句**只对环境中的文字起作用。如：
     
 
 ~~~latex
@@ -253,7 +253,4 @@ $LaTeX$的字体蔟非常复杂，这里不多叙述，大家可以查查资料�
     \pagestyle{empty}
     ```
 
-$LaTeX$的【文本篇】就到这里啦，更多丰富的格式设置需要大家多**查阅资料**来学习，这里推荐大家看看**刘洋海**的`《LaTeX 入门》`[^1]，一本很经典的$LaTeX$参考资料！
-
-
-[^1]: 刘海洋，《LaTeX 入门》
+$LaTeX$的【文本篇】就到这里啦，更多丰富的格式设置需要大家多**查阅资料**来学习，这里推荐大家看看**刘洋海**的`《LaTeX 入门》`，一本很经典的$LaTeX$参考资料！
