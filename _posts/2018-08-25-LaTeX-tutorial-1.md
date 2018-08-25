@@ -52,7 +52,7 @@ $LaTeX$本身非常复杂，涉及的细节非常多，不可能全部介绍，�
    ![编译设置](http://upload-images.jianshu.io/upload_images/2787497-994d9f1806a47b6b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
    然后，点击下图所示**编译并预览按钮**，可以看到编译成功，没有出现错误，右侧输出效果的**预览**视图。
 
-![编译输出](http://upload-images.jianshu.io/upload_images/2787497-dae43388fd51f4be.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+   ![编译输出](http://upload-images.jianshu.io/upload_images/2787497-dae43388fd51f4be.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 4. 输出`PDF`
 
