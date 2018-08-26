@@ -8,7 +8,7 @@ tags:
 typora-root-url: /Users/iseexuhs/Documents/GitHub/iseex.github.io
 ---
 
-> 终于解决了困扰昨天一晚上的问题，先表达一下自己的开心😄！
+> 终于解决了困扰昨天一晚上的问题，先表达一下自己的激动！😄
 
 昨晚在写博客[《在Jekyll NexT主题中部署wildfire评论系统》](https://iseex.github.io/2018-08/Jekyll-NexT-wildfire/)的时候遇到一个问题，就是我在博客中用markdown命令` ``` `插入代码的时候发现，总是编译出错，具体错误信息如下：
 
@@ -32,16 +32,15 @@ typora-root-url: /Users/iseexuhs/Documents/GitHub/iseex.github.io
 
 通过在谷歌和百度上搜索，终于找到了答案，[见这里](https://blog.csdn.net/jireren/article/details/52197045)。
 
-所以解决方案是，用：
+所以解决方案是，用下列形式写代码块：
 
-```
-{% highlight liquid linenos%}
-{% raw %}
-```
+![](/assets/images/posts/GitHub-Pages/codeblock-raw.jpg)
 
-代码所在处....
-```
-{% endraw %}
-{% endhighlight %}
-```
+其中的html指的是语言类型，如果是$LaTeX$代码就写latex。
+
+所以前面代码的正确写法是：
+
+![](/assets/images/posts/GitHub-Pages/codeblock-raw-example.jpg)
+
+> 就讲到这里，希望能够帮到你！
 
