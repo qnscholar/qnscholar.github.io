@@ -18,23 +18,23 @@ typora-root-url: ../../iseex.github.io
 - [英文官网](https://wildfire.js.org/)。
 - [中文官网](https://wildfire.js.org/#/zh-cn/)。
 
-wildfire是一款通过邮箱注册进行评论的系统，目前页支持匿名评论。GitHub上有个版块[我们正在使用wildfire野火评论系统](https://github.com/cheng-kang/wildfire/wiki/%E6%88%91%E4%BB%AC%E6%AD%A3%E5%9C%A8%E4%BD%BF%E7%94%A8-Wildfire-%E9%87%8E%E7%81%AB%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%EF%BC%81)展示了一些已经接入wildfire的博客网站。
+wildfire是一款通过邮箱注册进行评论的系统，目前也支持匿名评论。GitHub上有个版块[我们正在使用wildfire野火评论系统](https://github.com/cheng-kang/wildfire/wiki/%E6%88%91%E4%BB%AC%E6%AD%A3%E5%9C%A8%E4%BD%BF%E7%94%A8-Wildfire-%E9%87%8E%E7%81%AB%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%EF%BC%81)展示了一些已经接入wildfire的博客网站。
 
 看起来挺满足我对一个好的评论系统的期待的，要是能部署在我的博客中就好了。可是，wildfire开发者提供的资料都是讲如何将wildfire部署在基于Hexo框架的博客中。我到谷歌搜索“Jekyll + wildfire”也没找到任何资料（很大可能是因为wildfire诞生还不久）。
 
 眼看希望就要落空，只能自己先尝试了。因为之前为我的博客添加很多功能时，也是依照Hexo的教程进行移植的，基本都成功了。于是，我就照着wildfire在Hexo上部署的[教程](https://mrliao.cn/2017/12/25/%E5%9C%A8Hexo.NexT%E4%B8%BB%E9%A2%98%E4%B8%AD%E9%83%A8%E7%BD%B2Wildfire%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/)，尝试进行移植。然而，试了好久都失败了，总是提醒编译不通过（emmm，主要是我个人缺乏前端设计的基础，看来程序员进阶之路还很漫长啊，哈哈哈）
 
-绝望之时，我就尝试在wildfire的GitHub的issue版块提问（上面有很多问题，讨论的很热烈，我就猜测或许开发者能帮我解决这个问题），于是我提了如下问题。
+绝望之时，我就尝试在wildfire的GitHub的issues版块提问（上面有很多问题，讨论的很热烈，我就猜测或许开发者能帮我解决这个问题），于是我提了如下问题。
 
 ![](/assets/images/posts/GitHub-Pages/Jekyll-wildfire.jpg)
 
-本来没抱太大希望，不过没想到第二天我就收到了邮件，开发者cheng-kang回复issue的邮件，很是惊喜！
+本来没抱太大希望，不过没想到第二天我就收到了邮件，开发者cheng-kang回复issues的邮件，很是惊喜！
 
 经过几次邮件的交流，最后我就表达了真心希望在Jekyll NexT主题中部署wildfire的想法。
 
 更让人惊喜的是，第二天早上起来就收到一封来自cheng-kang的邮件，他帮助我将wildfire部署在Jekyll NexT中了，并给了我[源码](https://github.com/wildfirejs/jekyll-theme-next)以及他在Jekyll NexT上push 了希望将wildfire接入到发行版中的[request](https://github.com/Simpleyyt/jekyll-theme-next/pull/93)。
 
-[这里](https://github.com/wildfirejs/jekyll-theme-next/commit/f304f30d95af9f9f115f4813d41824c934e15747)中说明了该如何修改Jekyll NexT主题，分以下几个步骤：
+[这里](https://github.com/wildfirejs/jekyll-theme-next/commit/f304f30d95af9f9f115f4813d41824c934e15747)说明了该如何修改Jekyll NexT主题，分以下几个步骤：
 
 在_config.yml中添加如下代码，具体参数需要自己注册firebase或者wilddog，并[配置好数据库](https://wildfire.js.org/#/zh-cn/usage)，获取参数。
 
