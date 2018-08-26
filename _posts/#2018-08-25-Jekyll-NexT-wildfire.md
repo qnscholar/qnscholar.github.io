@@ -68,20 +68,115 @@ wildfire:
 
 进入`_includes/_macro/post.html`，在下面位置添加代码。
 
-{% highlight html linenos %}
-<html>
-   data-disqus-identifier="{{ post.url }}" itemprop="commentCount"></span>
+```html
+                        data-disqus-identifier="{{ post.url }}" itemprop="commentCount"></span>
                  </a>
                </span>
              {% elsif site.hypercomments_id %}
              <!--noindex-->
                <span class="post-comments-count">
-</html>
-{% endhighlight %}
+```
 
 添加代码后如下：
 
+```html
+                        data-disqus-identifier="{{ post.url }}" itemprop="commentCount"></span>
+                 </a>
+               </span>
+             {% elsif site.wildfire.enable %}
+               <span class="post-comments-count">
+                 <span class="post-meta-divider">|</span>
+                 <span class="post-meta-item-icon">
+                   <i class="fa fa-comment-o"></i>
+                 </span>
+                 <a href="{{ post.url | relative_url }}#comments" itemprop="discussionUrl">
+                   <span class="post-comments-count wf-count-unit" wf-page-url="{{ post.url | absolute_url }}" itemprop="commentCount"></span>
+                 </a>
+               </span>
+             {% elsif site.hypercomments_id %}
+             <!--noindex-->
+               <span class="post-comments-count">
+```
 
+进入`_includes/_partials/comments.html`，添加wildfire使能判断，比如以下位置：
+
+```html
+      <div id="lv-container" data-id="city" data-uid="{{ site.livere_uid }}"></div>
+     {% elsif site.changyan.appid and site.changyan.appkey %}
+       <div id="SOHUCS"></div>
+此处添加代码
+     {% endif %}
+   </div>
+ {% endif %}
+```
+
+添加如下代码：
+
+```html
+      <div id="lv-container" data-id="city" data-uid="{{ site.livere_uid }}"></div>
+     {% elsif site.changyan.appid and site.changyan.appkey %}
+       <div id="SOHUCS"></div>
+     {% elsif site.wildfire.enable %}
+       <div class="wildfire_thread"></div>
+     {% endif %}
+   </div>
+ {% endif %}
+```
+
+进入`_includes/third-party/comments/index.html`添加下面代码：
+
+```html
+{% include _third-party/comments/wildfire.html %}
+```
+
+新建文件`_includes/_third-party/comments/wildfire.html`，添加代码：
+
+```html
+{% if site.wildfire.enable %}
+  <script type="text/javascript">
+    var wildfireConfig = () => ({
+      {% if site.wildfire.useDev %}
+      useDev: {{site.wildfire.useDev}},
+      {% endif %}
+      {% if site.wildfire.version %}
+      version: '{{site.wildfire.version}}',
+      {% endif %}
+      databaseProvider: '{{site.wildfire.databaseProvider}}',
+      databaseConfig: {
+        {% if site.wildfire.databaseProvider == 'firebase' %}
+        apiKey: '{{site.wildfire.firebase.apiKey}}',
+        authDomain: '{{site.wildfire.firebase.authDomain}}',
+        databaseURL: '{{site.wildfire.firebase.databaseURL}}',
+        projectId: '{{site.wildfire.firebase.projectId}}',
+        storageBucket: '{{site.wildfire.firebase.storageBucket}}',
+        messagingSenderId: '{{site.wildfire.firebase.messagingSenderId}}'
+        {% else %}
+        siteId: '{{site.wildfire.wilddog.siteId}}'
+        {% endif %}
+      },
+      pageURL: '{{ page.url | absolute_url }}',
+      pageTitle: '{{ page.title| replace: "'", "\\'" }}',
+      {% if site.wildfire.theme %}
+      theme: '{{site.wildfire.theme}}',
+      {% endif %}
+      {% if site.wildfire.locale %}
+      locale: '{{site.wildfire.locale}}',
+      {% endif %}
+      {% if site.wildfire.defaultAvatarURL %}
+      defaultAvatarURL: '{{site.wildfire.defaultAvatarURL}}'
+      {% endif %}
+    });
+  </script>
+  {% if page.comments %}
+    {% if site.wildfire.loaderVersion %}
+    <script src="https://unpkg.com/wildfire-comment@{{site.wildfire.loaderVersion}}"></script>
+    {% else %}
+    <script src="https://unpkg.com/wildfire-comment"></script>
+    {% endif %}
+  {% endif %}
+  <script src="https://unpkg.com/wf-count"></script>
+{% endif %}
+```
 所有步骤到这里就结束了。
 
 ------
