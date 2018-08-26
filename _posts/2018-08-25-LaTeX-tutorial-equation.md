@@ -134,4 +134,41 @@ $$ f(x)= ax^2 + bx + c  \qquad  (1.1)$$
 
 到这里，可以发现用$LaTeX$编辑公式是这么简单高效。
 
+####  你可能不知道的 MathType 功能
+
+先设想一下：
+
+如果能先在`MathType`里编辑好公式，然后直接拷贝到`LaTeX`里进行排版，那该有多好！这样便能将`MathType`**可见即可得**的风格与`LaTeX`**所思即所想**的风格结合起来。
+
+事实是`MathType`确实能做到，下面具体说一下。
+
+- 首先在`MatyType`中编辑好自己需要的公式，比如二次函数根的表达式：
+
+  ![编辑公式](http://upload-images.jianshu.io/upload_images/2787497-2deafc57b09682d6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- 在菜单栏选择**剪切并拷贝预置**
+
+  ![MathType设置](http://upload-images.jianshu.io/upload_images/2787497-7d969dd47687a124.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- 选择`MathMl 或 TeX`，点击确定，完成设置。
+
+  ![MathType设置](http://upload-images.jianshu.io/upload_images/2787497-ce62ef8257c9fe13.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 然后全选编辑器好的公式，`Ctrl+C`复制。
+
+- 在`LaTeX`编辑器（比如`TeXstudio`）粘贴，得到：
+{% highlight latex linenos%}
+{% raw %}
+\[x = \frac{{ - b \pm \sqrt {{b^2} - 4ac} }}{{2a}}\]
+{% endraw %}
+{% endhighlight %}
+
+这里可以看出，默认情况下`MathType`采用**行间公式**`\[...\]`。
+- 编译代码得到：
+
+  ![编译输出](http://upload-images.jianshu.io/upload_images/2787497-49d04b0297a9892f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+到此完成。所以可以看到，通过上述方法，我们可以在`MathType`中先编辑好比较复杂的公式，特别是涉及很多符号的公式，然后拷贝到`LaTeX`中。当然，有时满足需要，可以稍微修改下粘贴到`LaTeX`的代码，以得到更好的公式排版效果。
+
+
 > 就讲到这里！
