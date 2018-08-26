@@ -69,12 +69,14 @@ wildfire:
 进入`_includes/_macro/post.html`，在下面位置添加代码。
 
 {% highlight html linenos %}
+<html>
    data-disqus-identifier="{{ post.url }}" itemprop="commentCount"></span>
                  </a>
                </span>
              {% elsif site.hypercomments_id %}
              <!--noindex-->
                <span class="post-comments-count">
+</html>
 {% endhighlight %}
 
 添加代码后如下：
