@@ -142,20 +142,18 @@ $$ f(x)= ax^2 + bx + c  \qquad  (1.1)$$
 
 事实是`MathType`确实能做到，下面具体说一下。
 
-- 首先在`MatyType`中编辑好自己需要的公式，比如二次函数根的表达式：
+首先在`MatyType`中编辑好自己需要的公式，比如二次函数根的表达式：
 
   ![编辑公式](http://upload-images.jianshu.io/upload_images/2787497-2deafc57b09682d6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-- 在菜单栏选择**剪切并拷贝预置**
+在菜单栏选择**剪切并拷贝预置**
 
   ![MathType设置](http://upload-images.jianshu.io/upload_images/2787497-7d969dd47687a124.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-- 选择`MathMl 或 TeX`，点击确定，完成设置。
+选择`MathMl 或 TeX`，点击确定，完成设置。
 
   ![MathType设置](http://upload-images.jianshu.io/upload_images/2787497-ce62ef8257c9fe13.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-- 然后全选编辑器好的公式，`Ctrl+C`复制。
-
-- 在`LaTeX`编辑器（比如`TeXstudio`）粘贴，得到：
+然后全选编辑器好的公式，`Ctrl+C`复制。在`LaTeX`编辑器（比如`TeXstudio`）粘贴，得到：
 {% highlight latex linenos%}
 {% raw %}
 \[x = \frac{{ - b \pm \sqrt {{b^2} - 4ac} }}{{2a}}\]
@@ -163,7 +161,8 @@ $$ f(x)= ax^2 + bx + c  \qquad  (1.1)$$
 {% endhighlight %}
 
 这里可以看出，默认情况下`MathType`采用**行间公式**`\[...\]`。
-- 编译代码得到：
+
+编译代码得到：
 
   ![编译输出](http://upload-images.jianshu.io/upload_images/2787497-49d04b0297a9892f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -172,3 +171,4 @@ $$ f(x)= ax^2 + bx + c  \qquad  (1.1)$$
 
 
 > 就讲到这里！
+
