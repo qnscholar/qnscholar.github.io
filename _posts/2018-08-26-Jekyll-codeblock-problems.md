@@ -35,7 +35,7 @@ typora-root-url: /Users/iseexuhs/Documents/GitHub/iseex.github.io
 所以解决方案是，需要用下列格式写代码块：
 
 ```html
-{% highlight html linenos%}
+{% highlight liquid linenos%}
 {% raw %}
 代码所在处....
 {% endraw %}
