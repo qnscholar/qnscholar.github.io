@@ -10,7 +10,7 @@ typora-root-url: /Users/iseexuhs/Documents/GitHub/iseex.github.io
 
 > 终于解决了困扰昨天一晚上的问题，先表达一下自己的激动！😄
 
-昨晚在写博客[《在Jekyll NexT主题中部署wildfire评论系统》](https://iseex.github.io/2018-08/Jekyll-NexT-wildfire/)的时候遇到一个问题，就是我在博客中用markdown命令` ``` `插入代码的时候发现，总是编译出错，具体错误信息如下：
+昨晚在写博客[《在Jekyll NexT主题中部署wildfire评论系统》](https://iseex.github.io/2018-08/Jekyll-NexT-wildfire/)的时候遇到一个问题，就是我在博客中用markdown命令```插入代码的时候发现，总是编译出错，具体错误信息如下：
 
 ![](/assets/images/posts/GitHub-Pages/codeblock-liquid-tags.jpg)
 
