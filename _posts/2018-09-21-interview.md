@@ -4,7 +4,7 @@ date: 2018-09-21 00:00:00
 typora-root-url: ../../iseex.github.io
 ---
 
-你现在看到的是我个人博客网站，为了方便大家观看，我就一个一篇post的形式来展示我个人的自媒体运营和个人创作方面的以往经验。就以这样一种比较自由的方式来呈现也比较符合我！
+搭建好，我叫许红升，信电学院博士二年级。你现在看到的是我个人博客网站，为了方便大家观看，我就一个一篇post的形式来展示我个人的自媒体运营和个人创作方面的以往经验。就以这样一种比较自由的方式来呈现也比较符合我！
 
 #### 公众号运营经验
 
@@ -29,7 +29,7 @@ typora-root-url: ../../iseex.github.io
 
 之前我办过辅导机构，从海报设计到宣传视频，全是自己完成。下面展现的是宣传视频。
 
-<embed src="https://imgcache.qq.com/tencentvideo_v1/playerv3/TPout.swf?max_age=86400&v=20161117&vid=c0502jruy2d&auto=0" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+<embed src="https://imgcache.qq.com/tencentvideo_v1/playerv3/TPout.swf?max_age=86400&v=20161117&vid=c0502jruy2d&auto=0" allowFullScreen="true" quality="high" width="680" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash">
 
 #### 更多能力
 
