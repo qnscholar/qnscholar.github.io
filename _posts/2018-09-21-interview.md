@@ -29,7 +29,7 @@ typora-root-url: ../../iseex.github.io
 
 之前我办过辅导机构，从海报设计到宣传视频，全是自己完成。下面展现的是宣传视频。
 
-<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=c0502jruy2d" allowFullScreen="true"></iframe>
+<embed src="https://imgcache.qq.com/tencentvideo_v1/playerv3/TPout.swf?max_age=86400&v=20161117&vid=c0502jruy2d&auto=0" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 
 #### 更多能力
 
