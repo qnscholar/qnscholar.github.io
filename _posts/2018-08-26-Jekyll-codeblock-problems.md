@@ -5,7 +5,7 @@ categories:
 - 网站搭建
 tags:
 - Jekyll
-typora-root-url: /Users/iseexuhs/Documents/GitHub/iseex.github.io
+typora-root-url: ../../iseex.github.io
 ---
 
 > 终于解决了困扰昨天一晚上的问题，先表达一下自己的激动！😄
