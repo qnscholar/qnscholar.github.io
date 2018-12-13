@@ -1,5 +1,5 @@
 ---
-title: COMSOL学习笔记 | 如何提取COMSOL数据图中的数据？（视频）
+title: COMSOL学习 | 如何提取COMSOL数据图中的数据？（视频）
 date: 2018-12-13 00:00:00
 published: true
 tags:
