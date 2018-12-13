@@ -13,5 +13,4 @@ COMSOL Multiphysics是一个多物理场仿真软件，在理工科领域具有�
 
 <iframe width="1280" height="656" src="https://www.youtube.com/embed/3HJTEYfqW5E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=z0812mx0ayi" allowFullScreen="true"></iframe>
-
+<iframe width="1280" height="656" src="https://v.qq.com/txp/iframe/player.html?vid=z0812mx0ayi" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
