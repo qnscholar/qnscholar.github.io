@@ -1,5 +1,5 @@
 ---
-title: 又来新问题！Zotero提示“请输入一个WebDAV地址”，告诉你怎么解决！
+title: 又来新问题！Zotero提示“请输入一个WebDAV地址”，这就告诉你怎么解决！
 date: 2018-12-14 00:00:00
 published: true
 tags:
