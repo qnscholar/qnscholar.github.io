@@ -428,7 +428,7 @@ baidu_analytics: b0ecab2411ae3fdb11b239f4a68ade48
 # Support for gitalk comments system.
 # 注意：安装gitalk必须关闭livere，不然会配置出错。
 gitalk:
-  enable: true
+  enable: false
   clientID: 9cc85294515eed2e31fe # 54730ddf7b9420460c03
   clientSecret: e8491efc431d76ebfe7dbfef3b9d8d97b05e35bd # c05684701b25ff1c19ea0c01ce4d80c125e0707d
   repo: iseex.github.io # colingpt.github.io
@@ -484,8 +484,8 @@ wildfire:
 #    button | slide
 # Warning: Baidu Share does not support https.
 # solution: replace static file folder, modify baidushare.html, check zotero saving records.
-#baidushare:
- #type: button
+baidushare:
+ type: button
 
 # Share
 #jiathis:
