@@ -1,5 +1,5 @@
 ---
-title: 深入探究下Zotero究竟是如何帮我们管理好文献的！
+title: 深入探究下Zotero是如何帮我们管理好文献的！
 date: 2019-01-06 00:00:00
 published: true
 tags:
