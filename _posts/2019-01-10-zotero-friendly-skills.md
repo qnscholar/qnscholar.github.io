@@ -49,7 +49,7 @@ Zotero就能帮助我们解决这个问题，不过得下载一个叫做Zotfile�
 
 ![](/../../../../Documents/GitHub/iseex.github.io/assets/images/posts/zotero/Zotfile-settings.png)
 
-进入Zotfile的设置窗口，选择Rename Rules，可以设置自动命名的规则，如下图方框处。默认的格式是`{%a_}{%y_}{%t}`，即`作者_年份_标题`。当然也可以自己修改。因为这种格式是普遍使用的，所以我没有做任何修改。
+进入Zotfile的设置窗口，选择Rename Rules，可以设置自动命名的规则，如下图方框处。默认的格式是`作者_年份_标题`。当然也可以自己修改。因为这种格式是普遍使用的，所以我没有做任何修改。
 
 ![](/../../../../Documents/GitHub/iseex.github.io/assets/images/posts/zotero/Zotfile-rename-settings.png)
 
