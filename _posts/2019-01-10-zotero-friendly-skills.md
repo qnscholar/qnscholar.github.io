@@ -19,13 +19,13 @@ Zotero的好用，不仅体现在它强大的功能，更得益于它人性化�
 
 那么，Zotero的历史版本都更新了哪些内容，这对我们用户而言也是很重要的，有助于我们了解Zotero最新的功能变化。在Zotero的官网，列出了Zotero历史版本的更新日志，[点击这里](https://www.zotero.org/support/changelog)可以访问，感兴趣的可以阅读下。
 
-![](/assets/images/posts/zotero/zotero-changelog.png)
+![](/../../../../Documents/GitHub/iseex.github.io/assets/images/posts/zotero/zotero-changelog.png)
 
 ## 活跃的论坛讨论
 
 如果你在配置Zotero的过程中遇到什么bug，如果你对Zotero的发展有什么提议，那么，请到Zotero论文发帖吧！在Zotero的官网，有专门的论文版块，[点击这里](https://forums.zotero.org/discussions)可以访问。Zotero的论文还是挺活跃的，提的问题一般也能得到解决。还记得当时在Zotero中配置坚果云的时候遇到的问题，就是搜索到Zotero论坛的帖子而得以解决。不多说，有时间就逛逛论坛，看大家都在讨论什么吧！
 
-![](/assets/images/posts/zotero/zotero-forums.png)
+![](/../../../../Documents/GitHub/iseex.github.io/assets/images/posts/zotero/zotero-forums.png)
 
 ## 在文件管理器中显示PDF
 
@@ -47,11 +47,11 @@ Zotero就能帮助我们解决这个问题，不过得下载一个叫做Zotfile�
 
 安装完Zotfile后，按照下图点击preferences，可以对Zotfile进行配置。
 
-![](/assets/images/posts/zotero/Zotfile-settings.png)
+![](/../../../../Documents/GitHub/iseex.github.io/assets/images/posts/zotero/Zotfile-settings.png)
 
 进入Zotfile的设置窗口，选择Rename Rules，可以设置自动命名的规则，如下图方框处。默认的格式是`{%a_}{%y_}{%t}`，即`作者_年份_标题`。当然也可以自己修改。因为这种格式是普遍使用的，所以我没有做任何修改。
 
-![](/assets/images/posts/zotero/Zotfile-rename-settings.png)
+![](/../../../../Documents/GitHub/iseex.github.io/assets/images/posts/zotero/Zotfile-rename-settings.png)
 
 ## 自动命名PDF
 
@@ -59,7 +59,7 @@ Zotero就能帮助我们解决这个问题，不过得下载一个叫做Zotfile�
 
 右击任意带PDF的文献条目，按照下图进行命名即可，非常简单！
 
-![](/assets/images/posts/zotero/PDF-rename.png)
+![](/../../../../Documents/GitHub/iseex.github.io/assets/images/posts/zotero/PDF-rename.png)
 
 ## View Online和Google Scholar Search
 
@@ -67,7 +67,7 @@ Zotero就能帮助我们解决这个问题，不过得下载一个叫做Zotfile�
 
 具体操作如下图所示：
 
-![](/assets/images/posts/zotero/refs-view-online.png)
+![](/../../../../Documents/GitHub/iseex.github.io/assets/images/posts/zotero/refs-view-online.png)
 
 ## 总结
 
