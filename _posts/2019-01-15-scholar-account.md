@@ -25,7 +25,7 @@ typora-root-url: ../../iseex.github.io
 
 ![](/assets/images/posts/scholar account/create-Google-scholar-account.png)
 
-需要提的是，建立谷歌学术账号时，可以添加主页名称、单位、主页链接、关键词等。关键词一般为自己的研究领域，这样当别人浏览你的主页时，便能立马知晓你从事的研究领域。以我的谷歌学术主页为例。
+需要提的是，建立谷歌学术账号时，可以添加主页名称、单位、主页链接、关键词等。关键词一般为自己的研究领域，这样当别人浏览你的主页时，便能立马知晓你从事的研究领域。下图是我的谷歌学术主页。
 
 ![](/assets/images/posts/scholar account/Google-scholar-information.png)
 
