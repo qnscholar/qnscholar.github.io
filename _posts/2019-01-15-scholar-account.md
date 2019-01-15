@@ -49,13 +49,13 @@ typora-root-url: ../../iseex.github.io
 
 > ResearchGate是一个科研社交网络服务网站，于2008年5月上线。网站旨在推动全球范围内的科研合作。用户可以联系联系同行，了解研究动态，分享科研方法以及交流想法。
 
-更准确地说，ResearchGate是一个学术社区，每个用户可以在这里创建学术主页，你可以在这个网站看到你关注的学者的最新动态。如果你在科研中遇到难题，你还可以在这里提问。总之ResearchGate将你和其他学者的联系拉得更近了。除此之外，ResearchGate还提供了很多学术职位，比如国内外大学的博士、博士后招聘信息。
+更准确地说，ResearchGate是一个学术社区，用户可以在这里创建学术主页，可以在这个网站看到你关注的学者的最新动态。如果你在科研中遇到难题，你还可以在这里提问。总之ResearchGate将你和其他学者的联系拉得更近了。除此之外，ResearchGate还提供了很多学术职位，比如国内外大学的博士、博士后招聘信息。
 
 到[ResearchGate](https://www.researchgate.net)的主页注册个账号，便可以创建ResearchGate个人主页了，下面是我个人的主页。
 
 ![](/assets/images/posts/scholar account/researchgate.png)
 
-和谷歌学术主页类似，可以看到引用量、推荐量、阅读次数等。这里提一下阅读次数，如果有任何人阅读了你在ResearchGate的成果，都可以在ResearchGate查看。每周ResearchGate会发布一个周报告，告诉你过去一周有多少人阅读了你的学术成果，都来自于哪些国家等。
+和谷歌学术主页类似，可以看到引用量、推荐量、阅读次数等。这里提一下阅读次数，如果有任何人阅读了你在ResearchGate展示的成果，都可以在ResearchGate查看。每周ResearchGate会发布一个周报告，告诉你过去一周有多少人阅读了你的学术成果，都来自于哪些国家等。
 
 ResearchGate功能很多，大家自己摸索。
 
