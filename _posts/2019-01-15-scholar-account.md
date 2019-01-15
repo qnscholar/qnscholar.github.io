@@ -43,3 +43,10 @@ typora-root-url: ../../iseex.github.io
 
 ![](/assets/images/posts/scholar account/Google-scholar-follow.png)
 
+## Research Gate
+
+Research Gate是一个科研社交网络服务网站[^foot]，
+
+
+
+[^foot]: www.baidu.com
