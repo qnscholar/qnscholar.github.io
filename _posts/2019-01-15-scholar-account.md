@@ -51,7 +51,7 @@ typora-root-url: ../../iseex.github.io
 
 更准确地说，ResearchGate是一个学术社区，用户可以在这里创建学术主页，可以在这个网站看到你关注的学者的最新动态。如果你在科研中遇到难题，你还可以在这里提问。总之ResearchGate将你和其他学者的联系拉得更近了。除此之外，ResearchGate还提供了很多学术职位，比如国内外大学的博士、博士后招聘信息。
 
-到[ResearchGate](https://www.researchgate.net)的主页注册个账号，便可以创建ResearchGate个人主页了，下面是我个人的主页。
+到[ResearchGate](https://www.researchgate.net)注册个账号，便可以创建ResearchGate个人主页了，下面是我个人的主页。
 
 ![](/assets/images/posts/scholar account/researchgate.png)
 
