@@ -21,3 +21,25 @@ typora-root-url: ../../iseex.github.io
 
 #### 如何建立谷歌学术主页？
 
+首先你得拥有一个谷歌账号，然后登陆谷歌学术，便可以在My profle处建立自己谷歌学术账号了，如下图所示。自己摸索，不多说。
+
+![](/assets/images/posts/scholar account/create-Google-scholar-account.png)
+
+需要提的是，建立谷歌学术账号时，可以添加主页名称、单位、主页链接、关键词等。关键词一般为自己的研究领域，这样当别人浏览你的主页时，便能立马知晓你从事的研究领域。以我的谷歌学术主页为例。
+
+![](/assets/images/posts/scholar account/Google-scholar-information.png)
+
+#### 谷歌学术主页的主要功能
+
+下面这张图我分块说明了谷歌学术主页的主要功能，下面分别说明。
+
+1. 中间部分展现的是学术成果列表及其对应的引用量，可以按照引用量或者年限排序。一般而言，谷歌学术会自动将你最新发表的学术成果加到列表中。当然，也可以自己手动添加。
+2. 右上角区域是引用量统计和H因子的计算。可以看到总的引用量，过去五年内的引用量，引用量还通过柱状图绘制出来了，一目了然。
+3. 右下角显示的是与你合作过的学者列表。当你有了新的合作者（合作者也有谷歌学术主页的前提下）后，谷歌学术会提醒你是否需要添加。
+
+![](/assets/images/posts/scholar account/Google-scholar-functions.png)
+
+除了以上三个主要功能外，你还可以订阅其他学者们研究成果的动态。在每个学者主页的头像右侧，都有个follow按钮，点击它可以关注该学者的最新学术发表信息，订阅的信息会发送到指定的邮箱中，如下图所示。
+
+![](/assets/images/posts/scholar account/Google-scholar-follow.png)
+
