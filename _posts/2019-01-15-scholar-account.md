@@ -63,3 +63,4 @@ ResearchGate功能很多，大家自己摸索。
 
 ![](/assets/images/posts/scholar account/researchgate-app.png)
 
+今天就介绍到这里，赶紧去创建你的学术主页吧！
