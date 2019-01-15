@@ -11,7 +11,7 @@ typora-root-url: ../../iseex.github.io
 
 作为一个科研工作者，你是否想了解自己的学术成果被引用了多少次呢？是否想了解自己的哪篇文献引用量最高呢，一定是发表在最好的期刊的那篇吗？是否想要了解自己的引用量随年限的变化趋势呢？是否想要及时跟踪到最近谁又引用你了你的论文呢？又是否想要了解自己过去和哪个学者合作最多呢？
 
-如果你的答案为是，那么你很有必要建立自己的学术主页，这也就是今天的主题。下面介绍两个最常用的学术主页：谷歌学术个人主页和Research Gate学术主页。
+如果你的答案为是，那么你很有必要建立自己的学术主页，这也就是今天的主题。下面介绍两个最常用的学术主页：谷歌学术个人主页和ResearchGate学术主页。
 
 ## 谷歌学术主页
 
@@ -43,10 +43,23 @@ typora-root-url: ../../iseex.github.io
 
 ![](/assets/images/posts/scholar account/Google-scholar-follow.png)
 
-## Research Gate
+## ResearchGate
 
-Research Gate是一个科研社交网络服务网站[^foot]，
+先看下百度百科对ResearchGate的定义。
 
+> ResearchGate是一个科研社交网络服务网站，于2008年5月上线。网站旨在推动全球范围内的科研合作。用户可以联系联系同行，了解研究动态，分享科研方法以及交流想法。
 
+更准确地说，ResearchGate是一个学术社区，每个用户可以在这里创建学术主页，你可以在这个网站看到你关注的学者的最新动态。如果你在科研中遇到难题，你还可以在这里提问。总之ResearchGate将你和其他学者的联系拉得更近了。除此之外，ResearchGate还提供了很多学术职位，比如国内外大学的博士、博士后招聘信息。
 
-[^foot]: www.baidu.com
+到[ResearchGate](https://www.researchgate.net)的主页注册个账号，便可以创建ResearchGate个人主页了，下面是我个人的主页。
+
+![](/assets/images/posts/scholar account/researchgate.png)
+
+和谷歌学术主页类似，可以看到引用量、推荐量、阅读次数等。这里提一下阅读次数，如果有任何人阅读了你在ResearchGate的成果，都可以在ResearchGate查看。每周ResearchGate会发布一个周报告，告诉你过去一周有多少人阅读了你的学术成果，都来自于哪些国家等。
+
+ResearchGate功能很多，大家自己摸索。
+
+顺便提一下，ResearchGate除了有网站，还有IOS客户端，在App store中即可下载。App的功能和网站一样，方便我们随时查看自己主页动态，且访问速度比网站更快，值得下载体验。下图是App截图。
+
+![](/assets/images/posts/scholar account/researchgate-app.png)
+
