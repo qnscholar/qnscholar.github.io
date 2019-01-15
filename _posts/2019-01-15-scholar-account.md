@@ -1,5 +1,5 @@
 ---
-title: 那些你值得创建的学术主页！
+title: 每个科研工作者都值得创建的学术主页！
 date: 2019-01-15 00:00:00
 published: true
 tags:
