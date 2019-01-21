@@ -15,7 +15,7 @@ typora-root-url: ../../iseex.github.io
 
 ![](/assets/images/posts/Tools/mahua-app.png)
 
-点击ios客户端下载，跳转到下图界面。由于该客户端不是从App Store下载，因此需要一些设置才能安装成功，即需要在设置里添加信任，具体操作在下图里有说明，找这里就行。
+点击ios客户端下载，跳转到下图界面。由于该客户端不是从App Store下载，因此需要一些设置才能安装成功，即需要在设置里添加信任，具体操作在下图里有说明，照着来就行。
 
 ![](/assets/images/posts/Tools/mahua-app-download.png)
 
