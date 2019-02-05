@@ -9,7 +9,7 @@ typora-root-url: ../../iseex.github.io
 
 ## 书语者
 
-书语者，是我极力推荐的免费电子书下载网站，其网站为[https://book.shuyuzhe.com](https://book.shuyuzhe.com)。首先给出该网站的首页截图。
+书语者，是我极力推荐的免费电子书下载网站，其网址为[https://book.shuyuzhe.com](https://book.shuyuzhe.com)。首先给出该网站的首页截图。
 
 ![](/assets/images/posts/Tools/shuyuzhe.png)
 
