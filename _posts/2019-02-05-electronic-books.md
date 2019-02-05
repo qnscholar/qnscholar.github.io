@@ -29,7 +29,7 @@ typora-root-url: ../../iseex.github.io
 
 ## 周读
 
-周读同样也是一个非常优秀的免费电子书下载网站，其网址为[http://www.ireadweek.com/index.php/Index/index.html](http://www.ireadweek.com/index.php/Index/index.html)。而且该网站做得非常漂亮简介，截图如下。
+周读同样也是一个非常优秀的免费电子书下载网站，[点击这里访问](http://www.ireadweek.com/index.php/Index/index.html)。而且该网站做得非常漂亮简介，截图如下。
 
 ![](/assets/images/posts/Tools/zhoudu.png)
 
