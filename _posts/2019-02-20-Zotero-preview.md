@@ -67,7 +67,7 @@ Zotero作为一款如此受欢迎的开源文献管理软件，广大的开发�
 2. 下载软件QuickLook到Windows，在GitHub上提供了最新版本（以后使用过程中，为保证更好的使用体验，也要记得更新），[点击这里](https://github.com/QL-Win/QuickLook/releases)下载。说明下，其实打开QuikLook.exe即可使用，不用安装，只需要记住解压后的文件夹的路径即可。这里，我将其拷贝到了`C:\Program Files`中，方便查找。
 3. 接着很重要的一步，也是之前遗漏的一步。在Zotero的菜单栏，点击Edit-->Preferences-->Advanced-->Advanced Configuration-->Config Editor，接着出现一个警告窗口，选择I accept the risk，如下图：
    ![](/assets/images/posts/zotero/accept-the-risk.png)
-4. 在弹出的窗口中搜索`extensions.zoteroquicklook.customviewcommand`，双击修改value值为上一步安装的QuickLook软件的路径，比如我的路径为`C:\Program Files\QuickLook-3.6.4\QuickLook.exe`。如下图所示：
+4. 在弹出的窗口中搜索`extensions.zoteroquicklook.customviewcommand`，双击修改value值为上一步的QuickLook软件的路径，比如我的路径为`C:\Program Files\QuickLook-3.6.4\QuickLook.exe`。如下图所示：
    ![](/assets/images/posts/zotero/config-editor-value.png)
 5. 重新启动Zotero，选择一个文献条目，按下`空格键`即可预览PDF了，再按下空格键，关闭预览。结合键盘上的方向键，即可快速预览多篇文献，而且可以发现预览窗口的响应速度很快。
 
