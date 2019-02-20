@@ -55,6 +55,10 @@ Zotero作为一款如此受欢迎的开源文献管理软件，广大的开发�
 
 *更新于2019年2月20日*
 
+-----
+
+
+
 之前给大家介绍过一款叫做zoteroquicklook的插件，可以让Zotero具备文献预览功能，从而让Zotero变得更加便捷（见上文）。不过，后来有一位阅读了我这篇文章的网友告诉我，我对zoteroquicklook插件的使用方法介绍有误。为此，我再次阅读了GitHub对zoteroquicklook插件的使用方法。发现确实有问题，不过该问题针对Windows平台。在这里，感谢下这位不知名的网友提供的信息！
 
 下面我将zoteroquicklook插件在Windows 版本Zotero上的使用方法纠正下。
