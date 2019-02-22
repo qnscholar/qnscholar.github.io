@@ -2,6 +2,10 @@
 title: 几个超级好用的免费电子书下载网站（支持kindle）！
 date: 2019-02-05 00:00:00
 published: true
+categories:
+- 阅读
+tags:
+- kindle
 typora-root-url: ../../iseex.github.io
 ---
 
