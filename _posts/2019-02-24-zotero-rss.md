@@ -29,7 +29,7 @@ Rss订阅，在21世纪的第一个10年里，也就是在PC互联网时代非�
 
 ![](/assets/images/posts/zotero/zotero-rss-new-feed.png)
 
-出现下面的窗口，需要你填入Rss链接。以猫Q学术派网站为例，访问https://iseex.github.io/[](https://iseex.github.io/)，如下图点击Rss，即可找到猫Q学术派的Rss链接[https://iseex.github.io/atom.xml](https://iseex.github.io/atom.xml)。
+出现下面的窗口，需要你填入Rss链接。以猫Q学术派网站为例，访问[https://iseex.github.io/](https://iseex.github.io/)，如下图点击Rss，即可找到猫Q学术派的Rss链接[https://iseex.github.io/atom.xml](https://iseex.github.io/atom.xml)。
 
 ![](/assets/images/posts/zotero/catq-rss-feed.png)
 
