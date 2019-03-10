@@ -1,5 +1,5 @@
 ---
-title: 谷歌访问助手（适用各大主流浏览器），让你访问Google、Google scholar、Gmail无阻碍！
+title: 谷歌访问助手，让你在各大浏览器无阻碍访问Google、Google scholar、Gmail！
 date: 2019-02-24 00:00:00
 categories:
 - 科研
