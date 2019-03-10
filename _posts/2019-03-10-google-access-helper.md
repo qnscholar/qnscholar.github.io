@@ -10,7 +10,7 @@ typora-root-url: ../../iseex.github.io
 
 今天这篇推送可能是很多人都需要的，因为它能帮助你无阻碍的访问Google、Google scholar、Gmail。这就是今天要介绍的谷歌访问助手，它免费，安装简单，访问速度也是杠杠的。
 
-## 下载和安装
+## 下载和安装（针对chrome浏览器）
 
 谷歌访问助手是由haotian-wang分享在GitHub上的，进入链接[https://github.com/haotian-wang/google-access-helper](https://github.com/haotian-wang/google-access-helper)，即可进入谷歌访问助手的下载页面，如下图所示。
 
@@ -30,6 +30,8 @@ typora-root-url: ../../iseex.github.io
    ![](/assets/images/posts/Tools/select-Google-access-helper.png)
 
 4. 到此谷歌访问助手就安装成功，恭喜你可以访问Google、Google scholar、Gmail了，不需要其他任何破解步骤。
+
+## 其他浏览器
 
 当然，如果想在其他非chrome浏览器安装谷歌访问助手，怎么办呢？别担心，开发者为我们考虑到这点。同样在上面的GitHub网页上，开发者提供了一个网站[http://www.ggfwzs.com](http://www.ggfwzs.com/)，该网站介绍了如何为其他浏览器安装谷歌访问助手。打开该网站，如下图所示。
 
