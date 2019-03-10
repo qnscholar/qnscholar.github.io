@@ -5,6 +5,7 @@ categories:
 - 科研
 tags:
 - Google
+- 科学上网
 typora-root-url: ../../iseex.github.io
 ---
 
