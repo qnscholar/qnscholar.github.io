@@ -34,7 +34,7 @@ typora-root-url: ../../iseex.github.io
 
 ![](/assets/images/posts/Tools/wenxianshenqi.png)
 
-可以看到，在主界面里，可以通过输入文章的DOI来搜索文献，其实这是调用了SCI Hub网站来下载网站的。在菜单栏也提供了谷歌学术和SCI Hub的链接，打开后其实就是今天要说的**科研干货导航**，网址为[http://www.9312.net](http://www.9312.net)，界面如下图所示。
+可以看到，在主界面里，可以通过输入文章的DOI来搜索文献，其实这是调用了SCI Hub网站来下载文章的。在菜单栏也提供了谷歌学术和SCI Hub的链接，打开后其实就是今天要说的**科研干货导航**，网址为[http://www.9312.net](http://www.9312.net)，界面如下图所示。
 
 ![](/assets/images/posts/Tools/keyanganhuo.png)
 
