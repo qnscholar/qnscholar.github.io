@@ -30,7 +30,8 @@ typora-root-url: ../../iseex.github.io
 4. 创建Hello world网页（先以创建一个最简单的Hello world为例，介绍如何在网站上发布第一个网页）。在上一步克隆在电脑上的仓库文件夹中新建文件`index.html`，内容如下。
    ![](/assets/images/posts/GitHub-Pages/index-file.png)
 
-5. Commit & publish。创建完index.html文件后，GitHub Desktop会提醒有内容更新，此时进行Commit & publish即可。如下图所示。![](/../../../Downloads/desktop-demo@2x.gif)
+5. Commit & publish。创建完index.html文件后，GitHub Desktop会提醒有内容更新，此时进行Commit & publish即可。如下图所示。
+   ![](/assets/images/posts/GitHub-Pages/push.gif)
 
 6. 大功告成。到这里，一个最简单的个人主页就搭建完成了，访问`https://username.github.io`即可看到网站的样子。
 
@@ -38,7 +39,7 @@ typora-root-url: ../../iseex.github.io
 
 可能有人要问了，刚刚创建的只有Hello world网页的个人主页也太简单了吧！？别急，下面教你如何5分钟内把网站装扮的更漂亮，有好看的主题，有强大的功能。
 
-此时，我们需要用到Jekyll静态网页生成工具（也可以用Hexo，以后），这也是GitHub官方推荐的静态网页生成工具。
+此时，我们需要用到Jekyll静态网页生成工具（也可以用Hexo，以后介绍），这也是GitHub官方推荐的静态网页生成工具。
 
 1. Jekyll提供了丰富的免费主题，可到网站[http://jekyllthemes.org](http://jekyllthemes.org)查看，如下图所示。
    ![](/assets/images/posts/GitHub-Pages/Jekyll-themes.png)
