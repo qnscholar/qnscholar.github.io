@@ -24,15 +24,15 @@ typora-root-url: ../../iseex.github.io
 
    ![](/assets/images/posts/GitHub-Pages/create-repository.png)
 
-   3. 下载GitHub Desktop客户端。到[https://desktop.github.com](https://desktop.github.com)下载GitHub Desktop客户端（Windows或MacOS）,作为git工具（方便不懂git的用户使用）。安装完成后，登陆自己的GitHub账号，并克隆（clone）前面创建的仓库到电脑上（可设置路径）。
-      ![](/assets/images/posts/GitHub-Pages/github-desktop.png)
+3. 下载GitHub Desktop客户端。到[https://desktop.github.com](https://desktop.github.com)下载GitHub Desktop客户端（Windows或MacOS）,作为git工具（方便不懂git的用户使用）。安装完成后，登陆自己的GitHub账号，并克隆（clone）前面创建的仓库到电脑上（可设置路径）。
+   ![](/assets/images/posts/GitHub-Pages/github-desktop.png)
 
-   4. 创建Hello world网页（先以创建一个最简单的Hello world为例，介绍如何在网站上发布第一个网页）。在上一步克隆在电脑上的仓库文件夹中新建文件`index.html`，内容如下。
-      ![](/assets/images/posts/GitHub-Pages/index-file.png)
+4. 创建Hello world网页（先以创建一个最简单的Hello world为例，介绍如何在网站上发布第一个网页）。在上一步克隆在电脑上的仓库文件夹中新建文件`index.html`，内容如下。
+   ![](/assets/images/posts/GitHub-Pages/index-file.png)
 
-   5. #### Commit & publish。创建完index.html文件后，GitHub Desktop会提醒有内容更新，此时进行Commit & publish即可。如下图所示。![](/../../../Downloads/desktop-demo@2x.gif)
+5. Commit & publish。创建完index.html文件后，GitHub Desktop会提醒有内容更新，此时进行Commit & publish即可。如下图所示。![](/../../../Downloads/desktop-demo@2x.gif)
 
-   6. #### 大功告成。到这里，一个最简单的个人主页就搭建完成了，访问`https://username.github.io`即可看到网站的样子。
+6. 大功告成。到这里，一个最简单的个人主页就搭建完成了，访问`https://username.github.io`即可看到网站的样子。
 
 ## 网站主题
 
