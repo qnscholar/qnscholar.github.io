@@ -20,7 +20,7 @@ typora-root-url: ../../iseex.github.io
 1. 注册GitHub账号。到[https://github.com](https://github.com)注册一个GitHub账号。如下。
    ![](/assets/images/posts/GitHub-Pages/create-github-account.png)
 
-2. 创建仓库。创建一个以`username.github.io`命名的仓库（repository），注意这里的`username`就是第一步注册的GitHub账号的用户名。举个例子，如果你的用户名是`sophshep`，那么你的仓库名则为`sophshep.github.io，`如下图所示。
+2. 创建仓库。创建一个以`username.github.io`命名的仓库（repository），注意这里的`username`就是第一步注册的GitHub账号的用户名。举个例子，如果你的用户名是`sophshep`，那么你的仓库名则为`sophshep.github.io`，如下图所示。
 
    ![](/assets/images/posts/GitHub-Pages/create-repository.png)
 
