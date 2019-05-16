@@ -29,7 +29,7 @@ typora-root-url: ../../iseex.github.io
 
 # 利用PE系统分区助手为C盘扩容
 
-很早的时候，我介绍过如何用U盘制作PE系统，请[点击这里](https://mp.weixin.qq.com/s/YWPzYmUy7EMPdomcQw5NlA)阅读文章。不过这篇文章中提供的WePE软件的分享链接已经过期，这里重新分享下。
+很早的时候，我介绍过如何用U盘制作PE系统，请[点击这里](https://mp.weixin.qq.com/s/YWPzYmUy7EMPdomcQw5NlA)阅读文章。不过这篇文章中提供的WePE软件的下载链接已经过期，这里重新分享下。
 
 >WePE下载链接：
 >
