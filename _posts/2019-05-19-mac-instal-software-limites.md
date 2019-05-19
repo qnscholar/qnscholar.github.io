@@ -1,5 +1,5 @@
 ---
-title: MacOS Sierra 或 Mojava 如何打开未知来源应用？
+title: MacOS Sierra 或 Mojave 如何打开未知来源应用？
 date: 2019-05-19 01:00:00
 categories:
 - 超赞工具
@@ -20,9 +20,9 @@ typora-root-url: ../../iseex.github.io
 - 在终端中输入代码`sudo spctl --master-disable`，回车并输入密码。
 - 此时，再次到"安全性与隐私"中查看，发现"任意来源"可以勾选了，即可以放心安装第三方软件了。
 
-macOS Sierra的问题解决了，新的问题又在macOS Mojava中出现了。
+macOS Sierra的问题解决了，新的问题又在macOS Mojave中出现了。
 
-如果你的mac已经更新到Mojava系统，有时候你会发现，尽管采用了上述方法，安装第三方软件时依旧会提醒"打不开已损坏"。现在另一种解决方案来了，贴在下方供大家参考。下面以安装SketchUp软件为例：
+如果你的mac已经更新到Mojave系统，有时候你会发现，尽管采用了上述方法，安装第三方软件时依旧会提醒"打不开已损坏"。现在另一种解决方案来了，贴在下方供大家参考。下面以安装SketchUp软件为例：
 
 - 打开终端，输入`sudo bash`并回车，这时需要输入电脑密码，输入密码后回车，则切换为root用户。
 - 接着输入`xattr -cr /Applications/SketchUp/SketchUp.app`，再次回车。
