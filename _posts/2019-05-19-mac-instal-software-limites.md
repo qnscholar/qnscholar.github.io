@@ -1,5 +1,5 @@
 ---
-title: mac Sierra 或 Mojava 如何打开未知来源应用？
+title: MacOS Sierra 或 Mojava 如何打开未知来源应用？
 date: 2019-05-19 01:00:00
 categories:
 - 超赞工具
