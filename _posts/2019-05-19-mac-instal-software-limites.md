@@ -14,8 +14,6 @@ typora-root-url: ../../iseex.github.io
 
 在macOS Sierra之前的系统，只需要到"系统偏好设置-安全性与隐私-通用"里勾选"任意来源"即可打开第三方应用。可是在macOS Sierra系统，这样做却无济于事。
 
-![]()
-
 对于macOS Sierra系统，小编为您提供开启任意来源的解决办法：
 
 - 打开应用程序-实用工具-终端。
