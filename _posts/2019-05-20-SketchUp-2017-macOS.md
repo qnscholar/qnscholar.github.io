@@ -8,7 +8,7 @@ tags:
 typora-root-url: ../../iseex.github.io
 ---
 
-之前向大家介绍了号称电子设计中的"铅笔"的软件SketchUp，错过的朋友可以点击这里[三维作图 | SketchUp，绘制论文3D示意图的超赞工具！（附下载链接）](https://mp.weixin.qq.com/s/0s3X9wItRQS4yRrAihwH2w)。
+之前向大家介绍了号称电子设计中的"铅笔"的软件SketchUp，错过的朋友可以点击这里三维作图 | SketchUp，绘制论文3D示意图的超赞工具！（附下载链接）。
 
 SketchUp 的卖点在于其非常易于使用，人人都可以快速上手。用SketchUp能轻松绘制令人满意的论文3D图，得益于其丰富的3D模型库，你会非常享受整个绘制过程。
 
