@@ -20,7 +20,7 @@ SketchUp 的卖点在于其非常易于使用，人人都可以快速上手。�
 
 安装方法：
 
-打开dmg镜像，将"SketchUp 2017"文件夹直接拖入应用程序中。该软件已经安装完成后即是破解中文版。不过有个问题需要注意下：对于MacOS Sierra或者Mojave用户，安装完成后，可能发现发现无法打开，提示"已损坏，移到废纸篓"。解决方法请参照之前的推文[MacOS Sierra 或 Mojave 如何打开未知来源应用？](https://mp.weixin.qq.com/s/QW-DmslRHXqKEgz5bc8YTw)
+打开dmg镜像，将"SketchUp 2017"文件夹直接拖入应用程序中。该软件安装完成后即是破解中文版。不过有个问题需要注意下：对于MacOS Sierra或者Mojave用户，安装完成后，可能发现无法打开，提示"已损坏，移到废纸篓"。解决方法请参照之前的推文[MacOS Sierra 或 Mojave 如何打开未知来源应用？](https://mp.weixin.qq.com/s/QW-DmslRHXqKEgz5bc8YTw)
 
 按照该方法即可成功安装并打开SketchUp 2017 for mac中文破解版，打开后的界面如下：
 
