@@ -46,11 +46,11 @@ typora-root-url: ../../iseex.github.io
 
 ![](/assets/images/posts/Tools/sort-applier.png)
 
-从申请单位分布可以了解哪些单位在本领域实力比较强，如下。
+从**申请单位**分布可以了解哪些单位在本领域实力比较强，如下。
 
 ![](/assets/images/posts/Tools/sort-institute.png)
 
-研究类型分布则可以间接反映本领域申请哪种类型项目容易中。
+**研究类型**分布则可以间接反映本领域申请哪种类型项目容易中。
 
 ![](/assets/images/posts/Tools/sort-type.png)
 
