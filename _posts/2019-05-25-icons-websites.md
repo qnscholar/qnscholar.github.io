@@ -21,9 +21,9 @@ typora-root-url: ../../iseex.github.io
 
 # Flaticon（推荐指数⭐️⭐️⭐️⭐️⭐️）
 
-![](/assets/images/posts/Tools/flaticon.png)
-
 首先要介绍的是[Flaticon](https://www.flaticon.com)，我真的超级喜欢这个平台的♥︎（完全值得五星推荐）～迫不及待地要推荐给大家🤫。
+
+![](/assets/images/posts/Tools/flaticon.png)
 
 Flaticon是最大的免费图标下载网站👍，支持PNG、SVG、PSD等格式。其中PNG是为位图，也是大家最常用的格式之一；SVG是矢量图格式，用Abobe Illustrator等软件可以打开；PSD是Abobe PhotoShop的专用格式。
 
@@ -65,9 +65,9 @@ Flaticon提供了丰富的免费以及付费的图标库，令人欣慰的是免
 
 # ICONFINDER（推荐指数⭐️⭐️⭐️⭐️）
 
-![](/assets/images/posts/Tools/iconfinder.png)
-
 [ICONFINDER](https://www.iconfinder.com)同样是一个非常优秀的图标下载网站，虽然整体的图标设计质量比Flaticon差一丢丢的，但是依然不乏大量优质资源，因此姑且给四星推荐。
+
+![](/assets/images/posts/Tools/iconfinder.png)
 
 和Flaticon类似，ICONFINDER提供免费和付费的图标。在主页往下拉，可以找到免费图标库，如下图。
 
@@ -85,9 +85,9 @@ Flaticon提供了丰富的免费以及付费的图标库，令人欣慰的是免
 
 # icons8（推荐指数⭐️⭐️⭐️⭐️）
 
-![](/assets/images/posts/Tools/icons8.png)
+icons8](https://icons8.com)，又一个优秀的图标下载平台。这里有丰富、精致且免费的图标资源，而且提供了人性化的分类功能。
 
-[icons8](https://icons8.com)，又一个优秀的图标下载平台。这里有丰富、精致且免费的图标资源，而且提供了人性化的分类功能。
+![](/assets/images/posts/Tools/icons8.png)
 
 以下图的"搜索"图标🔍为例，可以看到在左侧可以定制图标的风格。
 
