@@ -25,9 +25,9 @@ typora-root-url: ../../iseex.github.io
 
 ![](/assets/images/posts/Tools/flaticon.png)
 
-Flaticon是最大的免费图标下载网站👍，支持PNG、SVG、PSD等格式。其中PNG是为位图，也是大家最常用的格式之一；SVG是矢量图格式，用Abobe Illustrator等软件可以打开；PSD是Abobe PhotoShop的专用格式。
+Flaticon是最大的免费图标下载网站👍，支持下载PNG、SVG、PSD等格式。其中PNG是位图，也是大家最常用的格式之一；SVG是矢量图格式，用Abobe Illustrator等软件可以打开；PSD是Abobe PhotoShop的专用格式。
 
-Flaticon提供了丰富的免费以及付费的图标库，令人欣慰的是免费的库基本就能满足需求了，因为大量好看的图标都可以在这里找到！
+Flaticon提供了丰富的免费以及付费的图标库，令人欣慰的是免费的库基本就能满足需求了，大量好看的图标都可以在这里找到！
 
 ![](/assets/images/posts/Tools/flaticon-paid.png)
 
@@ -37,11 +37,11 @@ Flaticon提供了丰富的免费以及付费的图标库，令人欣慰的是免
 
 
 
-下面以PNG格式为例，介绍下如何从Flaticon下载图标。通过在搜索框搜索"Book"，我找到下面这个免费图标（虽然免费，但是质量还是很高啊～😛）。
+下面以PNG格式的书本图标为例，介绍下如何从Flaticon下载图标。通过在搜索框搜索"Book"，我找到下面这个免费图标（虽然免费，但是质量还是很高啊～😛）。
 
 ![](/assets/images/posts/Tools/flaticon-book.png)
 
-在上图右侧可以选择下载PNG、SVG等格式，这里选择PNG。Flaticon支持下载不同像素大小的PNG图标，最高达到512px，推荐下载512px，这样能获得清晰度最高的图标。按照下图，在下拉列表中选择512px。
+在上图右侧可以选择下载PNG、SVG等格式，这里选择PNG。Flaticon支持下载不同像素的PNG图标，最高达到512px，这里推荐大家下载512px，这样能获得清晰度最高的图标。按照下图，在下拉列表中选择512px。
 
 ![](/assets/images/posts/Tools/flaticon-px.png)
 
@@ -49,7 +49,9 @@ Flaticon提供了丰富的免费以及付费的图标库，令人欣慰的是免
 
 ![](/assets/images/posts/Tools/flaticon-download.png)
 
-除了下载最原始的风格，Flaticon还支持对图标的颜色进行修改后下载，这个功能可谓非常良心了～点击下图箭头所示处可以修改颜色（会提醒需要在Flaticon注册个账号，注册即可）。
+除了下载最原始的风格，Flaticon还支持对图标的颜色进行修改，这个功能可谓非常良心了～
+
+点击下图箭头所示处可以修改颜色（会提醒需要在Flaticon注册个账号，注册即可）。
 
 ![](/assets/images/posts/Tools/flaticon-color-button.png)
 
@@ -57,15 +59,15 @@ Flaticon提供了丰富的免费以及付费的图标库，令人欣慰的是免
 
 ![](/assets/images/posts/Tools/flaticon-select-color.png)
 
-接着出现下图界面，点击PNG并选择512px即可完成下载。
+继续出现下图界面，点击PNG并选择512px即可完成下载。
 
 ![](/assets/images/posts/Tools/flaticon-color-download.png)
 
-下载完成后，打开图标，发现512px的像素还是很清晰的，完全能满足需要～🤓
+下载完成后，打开图标，可以看到512px的像素还是很清晰的，完全能满足需要～🤓
 
 # ICONFINDER（推荐指数⭐️⭐️⭐️⭐️）
 
-[ICONFINDER](https://www.iconfinder.com)同样是一个非常优秀的图标下载网站，虽然整体的图标设计质量比Flaticon差一丢丢的，但是依然不乏大量优质资源，因此姑且给四星推荐。
+[ICONFINDER](https://www.iconfinder.com)同样是一个非常优秀的图标下载网站，虽然整体的图标设计质量比Flaticon差一丢丢的，但是依然不乏大量优质资源，因此给四星推荐。
 
 ![](/assets/images/posts/Tools/iconfinder.png)
 
@@ -77,7 +79,7 @@ Flaticon提供了丰富的免费以及付费的图标库，令人欣慰的是免
 
 ![](/assets/images/posts/Tools/iconfinder-phone-icon.png)
 
-这里同样选择下载PNG 512px，如下图。
+这里选择下载PNG 512px，如下图。
 
 ![](/assets/images/posts/Tools/iconfinder-512px.png)
 
@@ -85,7 +87,7 @@ Flaticon提供了丰富的免费以及付费的图标库，令人欣慰的是免
 
 # icons8（推荐指数⭐️⭐️⭐️⭐️）
 
-icons8](https://icons8.com)，又一个优秀的图标下载平台。这里有丰富、精致且免费的图标资源，而且提供了人性化的分类功能。
+[icons8](https://icons8.com)，又一个优秀的图标下载平台。这里有丰富、精致且免费的图标资源，而且提供了人性化的分类功能。
 
 ![](/assets/images/posts/Tools/icons8.png)
 
