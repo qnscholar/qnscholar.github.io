@@ -29,5 +29,4 @@ typora-root-url: ../../iseex.github.io
 
 具体的使用方法也很简单，只需将该Styles文件夹拷贝到EndNote的安装目录并覆盖就好（建议将原来的Styles文件夹备份一份）。
 
-最后推荐一下EndNote之外的另一个优秀的文献管理软件Zotero。**如果你对Zotero感兴趣，可以阅读下方由「青柠学术」推出的Zotero，打造最佳文献生态系列教程。** 
-
+最后推荐一下EndNote之外的另一个优秀的文献管理软件Zotero。**如果你对Zotero感兴趣，可以阅读下方由「青柠学术」推出的Zotero｜打造最佳文献生态系列教程。** 
