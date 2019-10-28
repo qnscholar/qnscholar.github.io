@@ -31,4 +31,5 @@ typora-root-url: ../../iseex.github.io
 
 最后推荐一下EndNote之外的另一个优秀的文献管理软件Zotero。
 
-如果你对Zotero感兴趣，可以阅读下方由「青柠学术」推出的[Zotero | 打造最佳文献生态](http://mp.weixin.qq.com/mp/homepage?__biz=MzAxNzgyMDg0MQ==&hid=8&sn=846b3d9238628ea261741dfab4144baf&scene=18#wechat_redirect)系列教程。
+**如果你对Zotero感兴趣，可以阅读下方由「青柠学术」推出的Zotero | 打造最佳文献生态系列教程。** 
+
