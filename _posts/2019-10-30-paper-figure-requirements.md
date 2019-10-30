@@ -29,11 +29,11 @@ typora-root-url: ../../iseex.github.io
 
 下面一步一步讲解第二、三条要求的实现方法。用Photoshop打开任意一张照片作为示范，如下图。
 
-![](https://upload-images.jianshu.io/upload_images/2787497-7c2153dc77535df7?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](/../../../Downloads/截屏2019-10-29下午4.35.46.png)
 
 **点击菜单栏“图像->图像大小”**，弹出下面窗口。
 
-![](https://upload-images.jianshu.io/upload_images/2787497-e094698dc7ab8bf9?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](/../../../Downloads/截屏2019-10-29下午4.38.06.png)
 
 在调节图像大小的窗口中，**需要重点关注宽度、高度、分辨率、以及左侧保持图片比例的按钮。**
 
@@ -41,7 +41,7 @@ typora-root-url: ../../iseex.github.io
 
 **这里注意各项参数的单位选择。**完成后的设置如下。
 
-![](https://upload-images.jianshu.io/upload_images/2787497-32125d3e557a5c4f?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](/../../../Downloads/截屏2019-10-29下午4.41.40.png)
 
 到此，图片的尺寸和分辨率就修改好了，最后另存为自己需要的图片格式即可。
 
