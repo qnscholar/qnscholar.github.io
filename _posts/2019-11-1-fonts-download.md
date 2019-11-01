@@ -9,24 +9,27 @@ tags:
 typora-root-url: ../../iseex.github.io
 ---
 
+
+
 为什么你的PPT总是不够亮眼？为什么你做的海报没人关注？
 
 或许，你该换个字体了。字体运用得巧妙，可是能为你的作品加分不少哦。
 
 今天，就向大家介绍一个网站，在这里，你可以查找并下载超级丰富的字体！
 
-----
+
+
 这个网站的名字叫做「字体天下」，网址为[http://www.fonts.net.cn/](http://www.fonts.net.cn/)。
 
 一张图先带大家看下网站的界面。
 
-![](https://upload-images.jianshu.io/upload_images/2787497-9e631a8cbaccefa1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](/assets/images/posts/Tools/fonts-website.png)
 
 「字体天下」应该是我见过的字体资源最为丰富的网站了，这里的字体基本都能下载，网站设计得也蛮人性化。
 
 以下载「造字工房朗宋」字体为例，在搜索框进行查找后发现，确实有该款字体，如下所示。
 
-![](https://upload-images.jianshu.io/upload_images/2787497-21dbfe3fb4f75172.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](/assets/images/posts/Tools/fonts-search.png)
 
 在该页面你可以看到「造字工房朗宋」字体的中英文示例，看一眼就知道是不是你想要的字体的样子。
 
@@ -40,7 +43,7 @@ typora-root-url: ../../iseex.github.io
 
 此外，首页的「520个设计师必备站点」可谓非常良心，点进去后出现的是下面的网站。
 
-![](https://upload-images.jianshu.io/upload_images/2787497-50df6833d1a42fbb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](/assets/images/posts/Tools/website-designer.png)
 
 原来这是一个「设计师网址导航」，这么多的站点，这么多的资源！这么能叫人不喜欢！
 
