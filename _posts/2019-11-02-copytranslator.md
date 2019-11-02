@@ -2,7 +2,7 @@
 title: 文献翻译神器CopyTranslator，你的科研必备工具！
 date: 2019-11-02 23:10:00
 categories:
-- 工具
+- 超赞工具
 tags:
 - 文献翻译
 - copytranslator
