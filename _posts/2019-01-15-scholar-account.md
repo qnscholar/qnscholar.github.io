@@ -5,7 +5,7 @@ published: true
 tags:
 - 学术主页
 categories:
-- 科研
+- 科研技巧
 typora-root-url: ../../iseex.github.io
 ---
 

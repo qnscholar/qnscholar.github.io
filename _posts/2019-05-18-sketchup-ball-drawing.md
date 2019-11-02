@@ -2,7 +2,7 @@
 title: SketchUp如何画球形？
 date: 2019-05-18 00:00:00
 categories:
-- 科研
+- 科研技巧
 tags:
 - SketchUp
 typora-root-url: ../../iseex.github.io

@@ -5,7 +5,7 @@ published: true
 tags:
 - COMSOL
 categories:
-- 科研
+- 科研技巧
 typora-root-url: ../../iseex.github.io
 ---
 

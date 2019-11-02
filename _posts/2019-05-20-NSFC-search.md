@@ -2,7 +2,7 @@
 title: 自然科学基金查询系统，多个维度分析基金中标情况！
 date: 2019-05-20 00:00:00
 categories:
-- 科研
+- 科研技巧
 tags:
 - 基金查询
 typora-root-url: ../../iseex.github.io

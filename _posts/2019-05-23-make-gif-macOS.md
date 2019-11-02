@@ -2,7 +2,7 @@
 title: Mac上制作高质量GIF动图的妙招！
 date: 2019-05-21 00:00:00
 categories:
-- 超赞工具
+- 效率工具
 tags:
 - Gif
 typora-root-url: ../../iseex.github.io

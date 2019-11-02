@@ -2,7 +2,7 @@
 title: MacOS Sierra 或 Mojave 如何打开未知来源应用？
 date: 2019-05-19 01:00:00
 categories:
-- 超赞工具
+- 效率工具
 tags:
 - macOS
 typora-root-url: ../../iseex.github.io

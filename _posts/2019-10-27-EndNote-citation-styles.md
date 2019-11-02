@@ -2,7 +2,7 @@
 title: 近7000个EndNote参考文献格式，全方位满足你的期刊投稿需求！
 date: 2019-10-28 08:00:00
 categories:
-- 科研
+- 科研技巧
 tags:
 - EndNote
 - 参考文献排版

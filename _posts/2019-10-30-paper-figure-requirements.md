@@ -2,7 +2,7 @@
 title: 靠这招，论文图片的尺寸和分辨率问题轻松搞!
 date: 2019-10-29 08:34:00
 categories:
-- 科研
+- 科研技巧
 tags:
 - 论文作图
 typora-root-url: ../../iseex.github.io
