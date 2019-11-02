@@ -14,6 +14,7 @@ typora-root-url: ../../iseex.github.io
 通过搜索，我找到一款非常赞的英文翻译软件，可助你快速翻译文献，提升文献阅读效率！
 
 # CopyTranslator
+
 这款软件的名称叫做**CopyTranslator**，顾名思义，**“复制”即可“翻译”**！
 
 是的，就是这么高效，这也是CopyTranslator的独特之处。
@@ -41,7 +42,9 @@ CopyTranslator是一款开源工具，访问[https://copytranslator.github.io](h
 ![](/assets/images/posts/Tools/ct-mode-2.png)
 
 
-#重要设置
+
+# 重要设置
+
 **为了让CopyTranslator使用起来更加高效和人性化，开发者设计了很多贴心功能。**
 
 本文就重点介绍下图中打开的几个按钮（**很重要，建议开启**）的用途。
