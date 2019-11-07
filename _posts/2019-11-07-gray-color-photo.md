@@ -10,8 +10,6 @@ categories:
 typora-root-url: ../../iseex.github.io
 ---
 
-![](/assets/images/posts/QR-code/QN_new_gray.png)
-
 今天分享一个非常炫酷又易学的技能：**调出黑白局部彩色的照片。**
 
 **这是一个能让你的朋友圈显得与众不同的小技能，人人都能学，人人都值得学。**
