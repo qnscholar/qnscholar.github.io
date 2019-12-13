@@ -18,7 +18,3 @@ typora-root-url: ../../iseex.github.io
 1. [http://www.niuga.cn](http://www.niuga.cn)
 2. [http://www.588230.com/#v](http://www.588230.com/#v)
 
-[<img src="https://www.gravatar.com/avatar/dd5a7ef1476fb01998a215b1642dfd07?s=128&d=identicon&r=PG">][2]
-
-[2]: https://meta.stackoverflow.com/users/44330/jason-s
-
