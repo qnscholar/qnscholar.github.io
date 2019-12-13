@@ -19,4 +19,4 @@ title: 打开新世界
 
 
 
-<a href="https://www.baidu.com"><img src="https://iseex.github.io/assets/images/posts/Tools/example-2.jpg"></a>
+<a href="https://www.baidu.com"><img src="https://iseex.github.io/assets/images/posts/Tools/example-2.jpg"/></a>
