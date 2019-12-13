@@ -2,6 +2,7 @@
 layout: page
 type: vpn
 title: 打开新世界
+typora-root-url: ../../iseex.github.io
 ---
 
 # 新世界
@@ -17,4 +18,6 @@ title: 打开新世界
 1. [http://www.niuga.cn](http://www.niuga.cn)
 2. [http://www.588230.com/#v](http://www.588230.com/#v)
 
-<html> <head> <meta charset="utf-8"> </head> <body> <a href="http://www.baidu.com" target="-blank" title="源码家园">    <img src="https://iseex.github.io/assets/images/posts/Tools/example-2.jpg"> </a> </body> </html>
+
+
+[![](/onedrive.png)](www.baidu.com)
