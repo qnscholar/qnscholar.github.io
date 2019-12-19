@@ -7,9 +7,13 @@ typora-root-url: ../../iseex.github.io
 
 # 新世界
 
-1. [千针网络](https://uu635.com)，国庆后稳定性变差，不过还能使用。
-2. [粉丝推荐的](http://letsvpn.info/)，不妨尝试下。
-3. [总结自网络](https://iseex.github.io/vpn/vpn.pdf)，本人没有亲自体验，无法评价好坏。
+1. [粉丝推荐的](http://letsvpn.info/)，不妨尝试下。
+
+2. [总结自网络](https://iseex.github.io/vpn/vpn.pdf)，本人没有亲自体验，无法评价好坏。
+
+# 两个免费的ssr地址
+
+分享两个可用的ssr地址（由某YouTube博主分享），访问速度还是很不错的，[点击这里获取](/vpn/freessr.pdf)。
 
 # 什么视频会员、超前点播都走远远的
 
