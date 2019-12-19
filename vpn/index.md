@@ -13,11 +13,7 @@ typora-root-url: ../../iseex.github.io
 
 # 两个免费的ssr地址
 
-分享两个可用的ssr地址（由某YouTube博主分享），访问速度还是很不错的，分别如下：
-ssr://NDUuNzYuMzcuNTc6NzA6YXV0aF9zaGExX3Y0OmFlcy0yNTYtY2ZiOnRsczEuMl90aWNrZXRfYXV0aDpjMlJoWkRVNA
-
-ssr://MTk5LjI0Ny4yNS4xMjM6NzA6YXV0aF9zaGExX3Y0OmFlcy0yNTYtY2ZiOnRsczEuMl90aWNrZXRfYXV0aDplSGw2Y1hOa01USXo
-
+分享两个可用的ssr地址（由某YouTube博主分享），访问速度还是很不错的，[点击这里获取](https://iseex.github.io/vpn/freessr.txt)
 # 免费看腾讯、爱奇艺VIP视频
 
 推荐两个视频解析网站，各大视频网站（比如腾讯视频、爱奇艺、优酷、搜狐）的VIP视频、超前点播视频免费看。当然，如果你经济条件允许，还是建议大家支持正版，付费观看。
