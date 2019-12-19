@@ -1,6 +1,0 @@
-分享下面两个ssr地址：
-ssr://NDUuNzYuMzcuNTc6NzA6YXV0aF9zaGExX3Y0OmFlcy0yNTYtY2ZiOnRsczEuMl90aWNrZXRfYXV0aDpjMlJoWkRVNA
-
-ssr://MTk5LjI0Ny4yNS4xMjM6NzA6YXV0aF9zaGExX3Y0OmFlcy0yNTYtY2ZiOnRsczEuMl90aWNrZXRfYXV0aDplSGw2Y1hOa01USXo
-
-使用方法：复制链接，打开shadowrocket等vpn软件，一般会自动识别到剪贴板内容。
