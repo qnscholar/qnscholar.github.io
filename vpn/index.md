@@ -8,16 +8,6 @@ typora-root-url: ../../iseex.github.io
 # 新世界
 
 1. [粉丝推荐的](http://letsvpn.info/)，不妨尝试下。
-<<<<<<< HEAD
-
-2. [总结自网络](https://iseex.github.io/vpn/vpn.pdf)，本人没有亲自体验，无法评价好坏。
-
-# 两个免费的ssr地址
-
-分享两个可用的ssr地址（由某YouTube博主分享），访问速度还是很不错的，[点击这里获取](/vpn/freessr.pdf)。
-=======
->>>>>>> 0a4985e0d154addcc75693e2eb5a5f552e2fd955
-
 2. [总结自网络](https://iseex.github.io/vpn/vpn.pdf)，本人没有亲自体验，无法评价好坏。
 
 # 两个免费的ssr地址
