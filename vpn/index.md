@@ -14,7 +14,9 @@ typora-root-url: ../../iseex.github.io
 # 两个免费的ssr地址
 
 分享两个可用的ssr地址（由某YouTube博主分享），访问速度还是很不错的，[点击这里获取](https://iseex.github.io/vpn/freessr.txt)。或者可以扫描下方二维码。
+
 ![ssr_01](/vpn/freessr_1.gif)
+
 ![ssr_01](/vpn/freessr_2.gif)
 # 免费看腾讯、爱奇艺VIP视频
 
