@@ -16,7 +16,7 @@ typora-root-url: ../../iseex.github.io
 
 Windows、MacOS、Linux、ios、Android代理客户端下载：[https://ausers.github.io](https://ausers.github.io)。或者直接使用精选的[代理客户端安装包](/gifts/softwares.zip)。想了解如何使用代理客户端？可以点击[https://www.nb33.vip/fjs/](https://www.nb33.vip/fjs/)。
 
-#### <i class="fa fa-question"></i> 如何使用？
+#### <i class="fa fa-unlock"></i> 使用教程
 
 S账号和代理客户端都有了，那么该怎么用它们实现上网呢？[点击这里](https://www.nb33.vip/fjs/)你便能找到答案。
 
