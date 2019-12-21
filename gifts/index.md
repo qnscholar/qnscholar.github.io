@@ -1,7 +1,7 @@
 ---
 layout: page
 type: vpn
-title: 打开新世界
+title: 好礼在此
 typora-root-url: ../../iseex.github.io
 ---
 
