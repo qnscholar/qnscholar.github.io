@@ -7,7 +7,7 @@ typora-root-url: ../../iseex.github.io
 
 # 自由飞翔
 
-#### <i class="fa fa-home"></i>机场推荐
+#### <i class="fa paper-plane"></i>机场推荐
 
 1. [粉丝推荐的](http://letsvpn.info/)，不妨尝试下。
 2. [总结自网络](https://iseex.github.io/vpn/vpn.pdf)，本人没有亲自体验，无法评价好坏。
