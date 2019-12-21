@@ -5,15 +5,21 @@ title: 打开新世界
 typora-root-url: ../../iseex.github.io
 ---
 
-# 新世界
+# 自由飞翔
+
+### 机场推荐
 
 1. [粉丝推荐的](http://letsvpn.info/)，不妨尝试下。
 2. [总结自网络](https://iseex.github.io/vpn/vpn.pdf)，本人没有亲自体验，无法评价好坏。
 
-# 免费S账号
+### 免费S账号
 
 1. 分享两个可用的ssr地址（由某YouTube博主分享），访问速度还是很不错的，[点击这里获取](https://iseex.github.io/vpn/freessr.pdf)。
 2. 免费S账号获取分享网站：[https://free-ss.site](https://free-ss.site)。账号丰富，速度给力。
+
+### 代理客户端
+
+Windows、MacOS、Linux、ios、Android代理客户端下载：[https://ausers.github.io](https://ausers.github.io)。
 
 # 免费看腾讯、爱奇艺VIP视频
 
