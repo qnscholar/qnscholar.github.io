@@ -19,7 +19,7 @@ typora-root-url: ../../iseex.github.io
 
 ### 代理客户端
 
-Windows、MacOS、Linux、ios、Android代理客户端下载：[https://ausers.github.io](https://ausers.github.io)。
+Windows、MacOS、Linux、ios、Android代理客户端下载：[https://ausers.github.io](https://ausers.github.io)。或者直接使用精选的[代理客户端安装包](/vpn/softwares.zip)。
 
 # 免费看腾讯、爱奇艺VIP视频
 
