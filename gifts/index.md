@@ -7,12 +7,7 @@ typora-root-url: ../../iseex.github.io
 
 # 自由飞翔
 
-#### <i class="fa fa-paper-plane"></i> 机场推荐
-
-1. [粉丝推荐的](http://letsvpn.info/)，不妨尝试下。
-2. [总结自网络](https://iseex.github.io/gifts/vpn.pdf)，本人没有亲自体验，无法评价好坏。
-
-#### <i class="fa fa-key"></i> 免费S账号
+#### <i class="fa fa-paper-plane"></i> 免费S账号
 
 1. 分享两个可用的ssr地址（由某YouTube博主分享），访问速度还是很不错的，[点击这里获取](https://iseex.github.io/gifts/freessr.pdf)。
 2. 免费S账号获取分享网站：[https://free-ss.site](https://free-ss.site)。账号丰富，速度给力。
