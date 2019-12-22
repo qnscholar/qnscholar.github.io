@@ -10,11 +10,11 @@ typora-root-url: ../../iseex.github.io
 #### <i class="fa fa-paper-plane"></i> 免费S账号
 
 1. 分享两个可用的ssr地址（由某YouTube博主分享），访问速度还是很不错的，[点击这里获取](https://iseex.github.io/gifts/freessr.pdf)。
-2. 免费S账号获取分享网站：[https://free-ss.site](https://free-ss.site)。账号丰富，速度给力。
+2. 免费S账号分享网站：[https://free-ss.site](https://free-ss.site)。账号丰富，速度给力。
 
 #### <i class="fa fa-wrench"></i> 代理客户端
 
-Windows、MacOS、Linux、ios、Android代理客户端下载：[https://ausers.github.io](https://ausers.github.io)。或者直接使用精选的[代理客户端安装包](/gifts/softwares.zip)。想了解如何使用代理客户端？可以点击[https://www.nb33.vip/fjs/](https://www.nb33.vip/fjs/)。
+Windows、MacOS、Linux、ios、Android代理客户端下载：[https://ausers.github.io](https://ausers.github.io)。或者直接使用精选的[代理客户端安装包](/gifts/softwares.zip)。
 
 #### <i class="fa fa-unlock"></i> 使用教程
 
