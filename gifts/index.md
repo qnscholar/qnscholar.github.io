@@ -14,7 +14,7 @@ typora-root-url: ../../iseex.github.io
 
 #### <i class="fa fa-wrench"></i> 代理客户端
 
-Windows、MacOS、Linux、ios、Android代理客户端下载：[https://ausers.github.io](https://ausers.github.io)。或者直接下载精选的[代理客户端安装包（VPN Clients）](https://github.com/iseex/iseex.github.io/releases)。
+Windows、macOS、Linux、iOS、Android代理客户端下载：[https://ausers.github.io](https://ausers.github.io)。或者直接下载精选的[代理客户端安装包（VPN Clients）](https://github.com/iseex/iseex.github.io/releases)。
 
 #### <i class="fa fa-unlock"></i> 使用教程
 
