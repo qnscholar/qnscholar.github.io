@@ -15,7 +15,7 @@ typora-root-url: ../../iseex.github.io
 
 谷歌访问助手是由haotian-wang分享在GitHub上的，进入链接[https://github.com/haotian-wang/google-access-helper](https://github.com/haotian-wang/google-access-helper)，即可进入谷歌访问助手的下载页面，如下图所示。
 
-如果你访问GitHub速度较慢，可以使用我提前下载好的版本。链接: https://pan.baidu.com/s/1aTbxkP6o6EbjhTnxQR0zUg 提取码: c6s2
+如果你访问GitHub速度较慢，可以使用我提前下载好的版本。链接: [https://pan.baidu.com/s/1aTbxkP6o6EbjhTnxQR0zUg](https://pan.baidu.com/s/1aTbxkP6o6EbjhTnxQR0zUg) 提取码: c6s2
 
 ![](/assets/images/posts/Tools/google-access-helper-github.png)
 
