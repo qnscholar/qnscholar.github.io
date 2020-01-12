@@ -7,7 +7,7 @@ typora-root-url: ../../iseex.github.io
 
 # 自由飞翔
 
-#### <i class="fa fa-goole"></i> 谷歌访问助手
+#### <i class="fa fa-google"></i> 谷歌访问助手
 
 谷歌访问助手可以帮助你访问谷歌、谷歌学术、Gmail邮箱、Chrome商店。[点击这里](https://iseex.github.io/2019-02/google-access-helper/)了解如何使用谷歌访问助手。
 
