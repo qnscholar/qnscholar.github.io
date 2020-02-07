@@ -13,7 +13,7 @@ typora-root-url: ../../iseex.github.io
 
 #### <i class="fa fa-google"></i> 麦殼兒（Maikr）
 
-大名鼎鼎的麦殼兒（Maikr）谷歌浏览器插件，同样可以实现访问外面的世界。[点击此处](https://chrome.google.com/webstore/detail/maikr/ffgfolalmnpdicmjfhepcfeokldcmiod?hl=zh-CN)下载麦殼兒（Maikr）插件。
+大名鼎鼎的麦殼兒（Maikr）谷歌浏览器插件，同样可以实现访问外面的世界。[点击此处](https://chrome.google.com/webstore/detail/maikr/ffgfolalmnpdicmjfhepcfeokldcmiod?hl=zh-CN)下载麦殼兒（Maikr）插件。不会用？麦殼兒（Maikr）配置教程[在此](https://iseex.github.io/gifts/maikr_manual.pdf)。
 
 ![](/gifts/Maikr.png)
 
