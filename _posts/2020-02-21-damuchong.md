@@ -14,7 +14,8 @@ typora-root-url: ../../iseex.github.io
 
 小木虫，大家应该都听过，那么，大木虫是啥东东？
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/xGvHpjh4rNUTzMM1dAUot7eTUyWqT4DkSI1bFwQqXHJMicibw4KUicWtyUb2jEbMV0x172t3LkYLhT1ud7JPoqoIQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://upload-images.jianshu.io/upload_images/2787497-7fbf8e10f0d0c140?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 看到了吗，上图就是大木虫。大木虫（http://www.4243.net）是一个学术导航（好比hao123），界面简洁清新，功能强大，这里收集了大量常用且好用的数据库网站、搜索引擎、镜像网站。以镜像举例，谷歌镜像、谷歌学术镜像、SCI Hub统统都有，而且有好几个可供选择的网址。
 
