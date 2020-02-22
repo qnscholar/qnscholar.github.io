@@ -163,4 +163,5 @@ typora-copy-images-to: ipic
 
 > 青柠学术是一个持续分享优质的科研技巧、效率工具的原创学术平台，公众号：青柠学术。博主：浙江大学电子工程博士生，国家奖学金获得者，剑桥大学交流生，具有丰富的SCI论文发表、专利申请、学科竞赛经验。
 
-![](https://tva1.sinaimg.cn/large/0082zybply1gc5iok1xiwj31vh0q0n23.jpg)
+![](https://tva1.sinaimg.cn/large/0082zybply1gc5j79cev2j30m808k3z0.jpg)
+
