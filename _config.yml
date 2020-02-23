@@ -1,11 +1,11 @@
 # Basic
-title: 潘柏信
+title: 青柠学术
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: iseex
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: 学术 / 成长
 url: "https://iseex.github.io"
 
 # Comment
@@ -17,12 +17,12 @@ comment:
 # Social
 social:
     weibo: 5366874726 
-    github: leopardpan
+    github: iseex
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    jianshu: iseex
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: iseexuhs@gmail.com
 
 
 # 百度统计 
