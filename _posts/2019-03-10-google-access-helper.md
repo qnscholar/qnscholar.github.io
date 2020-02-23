@@ -26,9 +26,12 @@ tags:
 ![](https://tva1.sinaimg.cn/large/0082zybply1gc6mvacx8wj30t30o7q6t.jpg)
 
 2. 打开Chrome浏览器的扩展程序管理器，不知道怎么打开的可直接在浏览器访问`chrome://extensions`，然后勾选开发者模式。如下图所示。
-   ![](https://tva1.sinaimg.cn/large/0082zybply1gc6mvdn5urj31hk0s4dnb.jpg)
+
+![](https://tva1.sinaimg.cn/large/0082zybply1gc6mvdn5urj31hk0s4dnb.jpg)
+
 3. 在左上角点击`加载已解压的扩展程序`，选在在第一步下载的谷歌访问助手文件夹，如下图所示。
-   ![](https://tva1.sinaimg.cn/large/0082zybply1gc6mvekxb8j30q70etwg2.jpg)
+
+![](https://tva1.sinaimg.cn/large/0082zybply1gc6mvekxb8j30q70etwg2.jpg)
 
 4. 到此谷歌访问助手就安装成功，恭喜你可以访问Google、Google scholar、Gmail了，不需要其他任何破解步骤。
 
