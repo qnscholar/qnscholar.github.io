@@ -23,13 +23,13 @@ social:
 # 百度统计 
 # https://tongji.baidu.com/sc-web/10000034379/home/site/getjs?siteId=13753674
 baidu:
-    # id: 61715519371fb834bbb4a7d08bc3430e
+    id: b0ecab2411ae3fdb11b239f4a68ade48
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
 ga:
-   # id: UA-84134159-3   
-   # host: auto  
+   id: UA-124182047-1   
+   host: auto  
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
