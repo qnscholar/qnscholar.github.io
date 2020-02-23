@@ -1,0 +1,109 @@
+<section class="footer">
+    <footer>
+        <div class = "footer_div">  
+        <nav class="cover-navigation navigation--social">
+          <ul class="navigation">
+
+          {% if site.social.github %}
+          <!-- Github -->
+          <li class="navigation__item_social">
+            <a href="https://github.com/{{site.social.github}}" title="@{{site.social.github}} 的 Github" target="_blank">
+              <div class="footer-social-icon" style="background:url(/images/github.png);"></div>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.social.zhihu %}
+          <!-- Zhihu -->
+          <li class="navigation__item_social">
+            <a href="https://www.zhihu.com/people/{{site.social.zhihu}}" title="@{{site.social.zhihu}}" target="_blank">
+              <div class="footer-social-icon" style="background:url(/images/zhihu.png);"></div>
+            </a>
+          </li>
+
+          {% endif %}
+
+          {% if site.social.juejin %}
+          <!-- Zhihu -->
+          <li class="navigation__item_social">
+            <a href="https://juejin.im/user/{{site.social.juejin}}" title="@{{site.social.juejin}}" target="_blank">
+              <div class="footer-social-icon" style="background:url(/images/juejin.png);"></div>
+            </a>
+          </li>
+
+          {% endif %}
+
+          {% if site.social.jianshu %}
+          <!-- Zhihu -->
+          <li class="navigation__item_social">
+            <a href="https://www.jianshu.com/u/{{site.social.jianshu}}" title="@{{site.social.jianshu}}" target="_blank">
+              <div class="footer-social-icon" style="background:url(/images/jianshu.png);"></div>
+            </a>
+          </li>
+
+          {% endif %}
+
+          {% if site.social.weibo %}
+          <!-- Weibo -->
+          <li class="navigation__item_social">
+            <a href="http://weibo.com/{{site.social.weibo}}" title="@{{site.social.weibo}} 的微博" target="_blank">
+              <div class="footer-social-icon" style="background:url(/images/weibo.png);"></div>
+            </a>
+          </li>
+          {% endif %}
+
+          
+          {% if site.social.twitter %}
+          <!-- Twitter -->
+          <li class="navigation__item_social">
+            <a href="http://twitter.com/{{site.social.twitter}}" title="@{{site.social.twitter}}" target="_blank">
+              <div class="footer-social-icon" style="background:url(/images/twitter.png);"></div>
+            </a>
+          </li>
+          {% endif %}
+
+
+          {% if site.social.mail %}
+          <!-- Email -->
+          <li class="navigation__item_social">
+            <a href="mailto:{{site.social.mail}}" title="Contact me">
+              <div class="footer-social-icon" style="background:url(/images/email.png);"></div>
+            </a>
+          </li>
+          {% endif %}
+          
+          <!-- RSS -->
+          <li class="navigation__item_social">
+            <a href="/feed.xml" rel="author" title="RSS" target="_blank">
+              <div class="footer-social-icon" style="background:url(/images/rss.png);"></div>
+              <span class="label">RSS</span>
+            </a>
+          </li>
+
+          </ul>
+        </nav>
+
+        </div>
+
+        <div class = "footer_div">  
+           <p class="copyright text-muted">
+            Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }} Theme by <a href="http://leopardpan.github.io/">leopardpan</a> |
+            <iframe
+                style="margin-left: 2px; margin-bottom:-5px;"
+                frameborder="0" scrolling="0" width="91px" height="20px"
+                src="https://ghbtns.com/github-btn.html?user=leopardpan&repo=leopardpan.github.io&type=star&count=true" >
+            </iframe>
+            </p>
+        	<div align="right">
+    			<link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+          <!-- 访问统计 -->
+          <span id="busuanzi_container_site_pv">
+            本站总访问量
+            <span id="busuanzi_value_site_pv"></span>次
+          </span>
+
+        </div>
+        <div>
+    </footer>
+</section>
