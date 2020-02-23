@@ -4,7 +4,8 @@ title: 我为什么喜欢用Mac【预览】阅读文献？
 date: 2020-02-22 20:00:00
 description: "青柠粉丝单位分布"
 tag: 
-- Mac预览
+- Mac菌搞科研
+- 效率工具
 ---
 
 好用的文献阅读软件有很多，比如大名鼎鼎的PDF Expert和GoodNotes！
