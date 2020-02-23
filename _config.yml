@@ -1,48 +1,37 @@
 # Basic
 title: 青柠学术
 subtitle: 个人站
-description: 欢迎来到我的个人站~
+description: 前世五百次回眸，才能换得今生的一次擦肩而过。
 # 头像里面的标题
 avatarTitle: iseex
 # 头像里面的描述
-avatarDesc: 学术 / 成长
-url: "https://iseex.github.io"
+avatarDesc: JAVA / 机器学习
+url: "https://iseex.github.io/"
 
 # Comment
 comment:
     disqus: leopard
-    # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
+    weibo:  
     github: iseex
-    # zhihu: panpanleopard
-    # juejin: xxx
-    jianshu: iseex
-    # twitter: 
-    mail: iseexuhs@gmail.com
-
+    mail: 348627749@qq.com
 
 # 百度统计 
-# 使用博客模板请去掉或者更换 id 
+# https://tongji.baidu.com/sc-web/10000034379/home/site/getjs?siteId=13753674
 baidu:
-    id: xxxx  
+    id: 61715519371fb834bbb4a7d08bc3430e
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
 ga:
-    id: xxxx  
+    id: UA-84134159-3   
     host: auto  
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
-#
-#
-#  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
-#
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
 
@@ -62,8 +51,10 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}   
-    - {title: 标签, description: tags, url: '/tags'}      
+    #文章过少，暂时不需要分标签和所有文章
+    #- {title: 所有文章, description: archive, url: '/archive'}
+    #- {title: 标签, description: tags, url: '/tags'}
+    - {title: 所有文章, description: tags, url: '/tags'}
     - {title: 关于我, description: about, url: '/about'}      
     
 
