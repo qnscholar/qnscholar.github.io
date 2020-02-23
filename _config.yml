@@ -1,34 +1,34 @@
 # Basic
 title: 青柠学术
 subtitle: 个人站
-description: 前世五百次回眸，才能换得今生的一次擦肩而过。
+description: 每个科研小白都有成为大神的潜力。
 # 头像里面的标题
 avatarTitle: iseex
 # 头像里面的描述
-avatarDesc: JAVA / 机器学习
+avatarDesc: 学术 / 成长
 url: "https://iseex.github.io/"
 
 # Comment
 comment:
-    disqus: leopard
+    # disqus: leopard
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
     weibo:  
     github: iseex
-    mail: 348627749@qq.com
+    mail: iseexuhs@gmail.com
 
 # 百度统计 
 # https://tongji.baidu.com/sc-web/10000034379/home/site/getjs?siteId=13753674
 baidu:
-    id: 61715519371fb834bbb4a7d08bc3430e
+    # id: 61715519371fb834bbb4a7d08bc3430e
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
 ga:
-    id: UA-84134159-3   
-    host: auto  
+   # id: UA-84134159-3   
+   # host: auto  
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
