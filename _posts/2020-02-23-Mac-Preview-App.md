@@ -5,7 +5,6 @@ date: 2020-02-22 20:00:00
 description: "青柠粉丝单位分布"
 tag: 
 - Mac预览
-- 文献阅读器
 ---
 
 好用的文献阅读软件有很多，比如大名鼎鼎的PDF Expert和GoodNotes！
