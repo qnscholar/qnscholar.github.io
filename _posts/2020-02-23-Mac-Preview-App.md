@@ -2,7 +2,6 @@
 layout: post
 title: 我为什么喜欢用Mac【预览】阅读文献？
 date: 2020-02-22 20:00:00
-description: "青柠粉丝单位分布"
 tag: 
 - Mac菌搞科研
 - 效率工具

@@ -54,7 +54,7 @@ nav:
     #文章过少，暂时不需要分标签和所有文章
     - {title: 归档, description: archive, url: '/archive'}
     #- {title: 标签, description: tags, url: '/tags'}
-    - {title: 所有文章, description: tags, url: '/tags'}
+    - {title: 标签, description: tags, url: '/tags'}
     - {title: 关于我, description: about, url: '/about'}      
     
 
