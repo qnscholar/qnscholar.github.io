@@ -1,10 +1,7 @@
 ---
 title: 谷歌访问助手，让你在各大浏览器无阻碍访问Google、Google scholar、Gmail！
 date: 2019-02-24 00:00:00
-categories:
-- 科研技巧
-tags:
-- 外面的世界
+tags: 闲谈
 ---
 
 今天这篇推送可能是很多人都需要的，因为它能帮助你无阻碍的访问Google、Google scholar、Gmail。这就是今天要介绍的谷歌访问助手，它免费，安装简单，访问速度也是杠杠的。
