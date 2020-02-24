@@ -1,8 +1,6 @@
 ---
 title: 大木虫学术导航，究竟有多好用！
 date: 2020-02-21 00:00:00
-categories:
-- 效率工具
 tags:
 - 学术网站
 pulished: true
