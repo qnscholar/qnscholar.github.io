@@ -24,4 +24,5 @@ ln -s /System/Library/Fonts/Supplemental/Songti.ttc /Library/Fonts
 
 当然以上只是临时解决方案，想要根本性解决问题还需等待CTEX宏集更新。
 
-[^1]:  [升级 macOS 10.15 后 ctex 文档不显示中文的临时方案](https://zhuanlan.zhihu.com/p/90404943)
+[^1]:  [[LaTeX使用]升级 macOS 10.15 后 ctex 文档不显示中文的临时方案](https://zhuanlan.zhihu.com/p/90404943)
+
