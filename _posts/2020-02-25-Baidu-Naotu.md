@@ -22,7 +22,7 @@ tags:
 
 访问百度脑图主页。👇
 
-https://naotu.baidu.com
+[https://naotu.baidu.com](https://naotu.baidu.com)
 
 ![img](https://tva1.sinaimg.cn/large/0082zybply1gc8rdg787sj30u00i7gmn.jpg)
 
