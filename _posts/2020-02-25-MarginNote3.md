@@ -28,7 +28,7 @@ tag:
 - 在此模式下可进行一般的PDF阅读
   ![img](https://tva1.sinaimg.cn/large/0082zybply1gc7wh30oe5j318z0u0n0l.jpg)
 - 可选择标注，仅重点显示，不会生成卡片
-  ![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc6q6pk2lzj31c00u0npd.jpg)
+	![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc6q6pk2lzj31c00u0npd.jpg)
 - 若需选择摘录，则会生成卡片，会提示你新建一个笔记本，一个文档的内容可以按不同的主题摘录到不同的笔记本中
   ![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc6q6qgp9uj30ym0u0b29.jpg)
 - 摘录的内容可以选择划重点
