@@ -66,10 +66,6 @@ tag:
 - 选择卡片添加到卡片组则可以生成类似Anki的复习卡片
   ![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc6q7299lpj31c00u0kdx.jpg)
 - 然后就可以愉快地在复习模式下复习了，记不清楚的时候还可以快速定位到脑图和文档回忆
-  ![img](https://tva1.sinaimg.cn/large/0082zybply1gc7wr3mo1lj31c00u00xs.jpg)
-  ![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc7wsry786j31c00u0tdt.jpg)
-  ![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc7wt1b4cuj31c00u0wgm.jpg)
-  ![img](https://tva1.sinaimg.cn/large/0082zybpgy1gc6q79plo5j31c00u01ky.jpg)
 - 或者将卡片导出到**Anki**复习（推荐）
 
 ## 总结
