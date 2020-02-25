@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iThoughtsX，Mac上最受欢迎的思维导图软件之一！
+title: 坚果云思维导图来了！会是又一个精品吗？
 date: 2020-02-25 19:00:00
 tags: 
 - 效率工具
