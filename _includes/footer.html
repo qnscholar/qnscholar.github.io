@@ -49,12 +49,14 @@
           -->
 
 
-          {% if site.zhihu %}
+          {% if site.social.zhihu %}
           <!-- Github -->
           <li class="navigation__item_social">
-            <a href="https://www.zhihu.com/people/{{ site.zhihu }}" title="@{{site.zhihu}} 的知乎" target="_blank">
-              <i class='social fa fa-envelope fa-2x'></i>
-              <span class="label">知乎</span>
+            <a href="https://www.zhihu.com/people/{{ site.social.zhihu }}" title="@{{site.social.zhihu}} 的知乎" target="_blank">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa  fa-stack-1x fa-inverse">知</i>
+              </span>
             </a>
           </li>
           {% endif %}
