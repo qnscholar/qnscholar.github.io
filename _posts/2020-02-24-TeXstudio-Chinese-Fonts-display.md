@@ -6,7 +6,7 @@ tag:
 - LaTeX
 ---
 
-关于“maOS Catalina下TeXstudio编译中文文档，内置PDF阅读器无法显示中文，而外部PDF阅读器能够正常显示”的解决办法[^1]。
+关于“macOS Catalina下TeXstudio编译中文文档，内置PDF阅读器无法显示中文，而外部PDF阅读器能够正常显示”的解决办法[^1]。
 
  打开终端，输入以下命令：
 
