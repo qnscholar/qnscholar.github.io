@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iThoughtX，Mac上最受欢迎的思维导图软件之一！
+title: iThoughtsX，Mac上最受欢迎的思维导图软件之一！
 date: 2020-02-25 20:00:00
 tag: 
 - 效率工具
