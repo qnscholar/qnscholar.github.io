@@ -37,8 +37,12 @@ ga:
 
 
 # 《--------------- 添加 by xhs ------------------------》
-
-
+# Search settings
+tipue_search:
+  include:
+    pages: true
+  exclude:
+    files: [index.md, search.html]
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
 #
@@ -67,7 +71,7 @@ nav:
     #- {title: 标签, description: tags, url: '/tags'}
     - {title: 标签, description: tags, url: '/tags'}
     - {title: 关于我, description: about, url: '/about'}      
-    - {title: 搜索, description: search, url: '/search'}   
+    #- {title: 搜索, description: search, url: '/search'}   
     
 
 # Pagination
