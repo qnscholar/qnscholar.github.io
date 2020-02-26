@@ -2,10 +2,21 @@
 title: Search
 description: "Search this site"
 layout: page
-permalink: /search/
 tipue_search_active: true
 exclude_from_search: true
 ---
+
+  <!-- xhs -->
+
+  {% if page.tipue_search_active or layout.tipue_search_active -%}
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}"></script>
+  <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/tipuesearch.css" | relative_url }}">
+  <script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}"></script>
+  <script src="{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}"></script>
+  {% endif -%}
+
+    <!-- xhs -->
 
 <form action="{{ page.url | relative_url }}">
   <div class="tipue_search_left"><img src="{{ "/assets/tipuesearch/search.png" | relative_url }}" class="tipue_search_icon"></div>
