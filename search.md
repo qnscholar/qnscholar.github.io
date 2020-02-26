@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Search
+title: 搜索
 ---
 
 <!-- HTML elements for search -->
