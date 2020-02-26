@@ -4,37 +4,34 @@
         <nav class="cover-navigation navigation--social">
           <ul class="navigation">
 
-          {% if site.social.weibo %}
-          <!-- Weibo -->
-          <li class="navigation__item_social">
-            <a href="http://weibo.com/{{site.social.weibo}}" title="@{{site.social.weibo}} 的微博" target="_blank">
-              <i class='social fa fa-weibo fa-2x'></i>
-              <span class="label">Weibo</span>
-            </a>
-          </li>
-          {% endif %}
 
-          {% if site.social.weixin %}
-          <!-- Weixin -->
-          <li class="navigation__item_social">
-            <a href="https://iseex.github.io/images/blog.png" title="@{{site.social.weixin}} 的公众号" target="_blank">
-              <i class='social fa fa-weixin fa-2x'></i>
-              <span class="label">公众号</span>
-            </a>
-          </li>
-          {% endif %}
 
-          {% if site.social.github %}
-          <!-- Github -->
-          <li class="navigation__item_social">
-            <a href="https://github.com/{{site.social.github}}" title="@{{site.social.github}} 的 Github" target="_blank">
-              <i class='social fa fa-github fa-2x'></i>
-              <span class="label">Github</span>
-            </a>
-          </li>
-          {% endif %}
 
           <!--  xhs -->
+
+                      {% if site.social.weixin %}
+  <li class="navigation__item_social">
+    <a target="_blank" href="https://iseex.github.io/images/blog.png" title="@{{site.social.weixin}} 的公众号">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-weixin fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+
+
+  {% if site.social.zhihu %}
+  <li class="navigation__item_social">
+    <a target="_blank" href="https://www.zhihu.com/people/{{ site.social.zhihu }}">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa  fa-stack-1x fa-inverse">知</i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+
 
             {% if site.social.facebook %}
   <li class="navigation__item_social">
