@@ -34,6 +34,32 @@
           </li>
           {% endif %}
 
+          <!--  xhs -->
+
+            {% if site.social.facebook %}
+  <li>
+    <a target="_blank" href="https://www.facebook.com/{{ site.social.facebook }}">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+
+    {% if site.social.twitter %}
+  <li>
+    <a href="https://twitter.com/{{ site.social.twitter }}">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+
+  <!--  xhs -->
+
           <!-- zhihu xhs -->
            
           <!--
