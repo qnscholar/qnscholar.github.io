@@ -61,11 +61,26 @@
     <a href="mailto:{{site.social.mail}}" title="Contact me">
       <span class="fa-stack fa-lg">
         <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-mail fa-stack-1x fa-inverse"></i>
+        <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
       </span>
     </a>
   </li>
   {% endif %}
+
+
+            <!-- rss xhs 注意feed.xml前的/给删除，因为url末尾有/ -->
+
+           <li class="navigation__item_social">
+            <a href="{{ site.url }}feed.xml" title="订阅@{{site.title}}" target="_blank">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+            </a>
+          </li>
+
+          <!-- rss xhs -->
 
   <!--  xhs -->
 
@@ -89,16 +104,7 @@
         
 
 
-          <!-- rss xhs 注意feed.xml前的/给删除，因为url末尾有/ -->
 
-           <li class="navigation__item_social">
-            <a href="{{ site.url }}feed.xml" title="订阅@{{site.title}}" target="_blank">
-              <i class='social fa fa-rss fa-2x'></i>
-              <span class="label">Rss</span>
-            </a>
-          </li>
-
-          <!-- rss xhs -->
 
           </ul>
         </nav>
