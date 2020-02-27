@@ -4,7 +4,7 @@ title: Zotero 5.0.83版来了！
 date: 2020-02-26 22:36:00
 tags: 
 - Zotero
-pubulished: false
+published: false
 ---
 
 就在前几天（2020年2月24日），Zotero迎来了[5.0.83版](https://www.zotero.org/support/changelog)，继续保持着很快的更新速度，上一次更新时间则是2020年1月21日。
