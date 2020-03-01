@@ -122,7 +122,7 @@ published: true
 
 这样一来便可以从引用量多的文献开始读起。
 
-顺便提一下为何有些文献的引用量显示`ZSCC:NoCitationData`，这一般是因为该文献信息不全，造成Zotero Scholar Citations插件无法检索到，详解请一步[GitHub](https://github.com/MaxKuehn/zotero-scholar-citations)。
+顺便提一下为何有些文献的引用量显示`ZSCC:NoCitationData`，这一般是因为该文献信息不全，造成Zotero Scholar Citations插件无法检索到，详解请移步[GitHub](https://github.com/MaxKuehn/zotero-scholar-citations)。
 
 到此介绍完毕，如果有任何使用问题，欢迎下面留言或者加入青柠学术交流群进行讨论。
 
