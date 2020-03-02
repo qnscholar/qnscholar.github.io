@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 想知道你的论文在世界媒体上的热度值吗？Altmetric it就知道了！
+title: 想知道你的论文的热度值吗？Altmetric it就知道了！
 date: 2020-03-02 12:37:00
 tags: 
 - 文献管理与信息分析
@@ -13,13 +13,13 @@ published: true
 
 今天就介绍一款可以追踪论文热度的工具：Altmetric。
 
-这款工具能够帮你查找别人对你的论文的看法、见解，说直白点，就是有多少媒体、博客、twitter、facebook讨论了你的论文，比如有人在twitter上分享或者评论了你的论文。
+这款工具能够帮你查找别人对你的论文的看法、见解，说直白点，就是有多少媒体、博客、twitter、facebook等讨论了你的论文，比如有人在twitter上分享或者评论了你的论文。
 
-Altmetric这款工具会根据搜集到的数据对文章的讨论程度打一个`分数`，这个分数一定程度上衡量了文章的热度值（仅限网络上）。
+Altmetric这款工具会根据搜集到的数据对文章的热议程度打一个`分数`，这个分数一定程度上衡量了文章的热度值（仅限网络上）。
 
 下面介绍如何使用Altmetric。
 
-### Altmetric it!
+### 安装Altmetric it!
 
 访问Altmetric官网。👇
 
@@ -29,7 +29,7 @@ Altmetric这款工具会根据搜集到的数据对文章的讨论程度打一�
 
 这款工具是以插件的形式安装在Chrome、Firefox或者Safari浏览器上进行使用的。
 
-以Firefox浏览器为例，我们将页面拉到下方所示出，为了获取该插件，需要填一些个人信息（姓名单位等）。👇
+以Firefox浏览器为例，我们将页面拉到下方所示处，为了获取该插件，需要填一些个人信息（姓名单位等）。👇
 
 ![](https://tva1.sinaimg.cn/large/00831rSTly1gcfla5h5pnj31740q70va.jpg)
 
@@ -43,11 +43,13 @@ Altmetric这款工具会根据搜集到的数据对文章的讨论程度打一�
 
 到此Altmetric就安装好了，接下来就是如何使用了！
 
+### 使用Altmetric it!
+
 这里我用官网给出的一个示例来介绍，也就是下方这篇Nature文章。当然你也可以打开自己发表过的论文的网页来测试。
 
 ![](https://tva1.sinaimg.cn/large/00831rSTgy1gcflm8svu6j31740q7dkl.jpg)
 
-接着，我们点击标签栏的`Altmetric it!`，此时网页右上角会自动弹出关于这篇文章的`分数`统计结果。
+我们点击标签栏的`Altmetric it!`，此时网页右上角会自动弹出关于这篇文章的`分数`统计结果。
 
 ![](https://tva1.sinaimg.cn/large/00831rSTgy1gcflnlcj2pj31740q77a9.jpg)
 
