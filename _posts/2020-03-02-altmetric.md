@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 想知道你的论文在世界媒体上的热度值吗？Altmetric it就知道了！
-date: 2020-03-01 12:37:00
+date: 2020-03-02 12:37:00
 tags: 
-- Zotero
+- 文献管理与信息分析
 published: true
 ---
 
