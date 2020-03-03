@@ -88,6 +88,8 @@ Tablet（或者说平板）并不是什么新鲜功能，只是之前我一直�
 
 此时Zotero左侧会自动生成`Tablet Files`和`Tablet Files (modified)`文件夹（准确来说叫做`搜索集`）。
 
+![](https://tva1.sinaimg.cn/large/00831rSTly1gcgqsc62u1j31740q741h.jpg)
+
 其中`Tablet Files`存放的便是刚刚选中的几篇文献。
 
 此时，我们可以顺便看下电脑本地iCloud PDF Expert文件夹中是否有刚刚发送的文献。👇
