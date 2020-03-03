@@ -5,7 +5,7 @@ date: 2020-03-02 12:37:00
 tags: 
 - Zotero
 - 文献管理与信息分析
-published: false
+published: true
 ---
 
 之前一直向大家主推【Zotero+坚果云+PaperShip】组合来实现跨平台文献同步，青柠的读者们也基本采用的这种方式。
