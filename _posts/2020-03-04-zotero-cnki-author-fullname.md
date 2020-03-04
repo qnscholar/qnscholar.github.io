@@ -36,7 +36,7 @@ published: true
 
 ![](https://tva1.sinaimg.cn/large/00831rSTly1gcht77u19bj31740q878g.jpg)
 
-再上一张一次性抓取多篇知网文献的效果，是不是看起来舒服很多了！
+再上一张一次性抓取多篇知网文献的效果截图，是不是看起来舒服很多了！
 
 ![](https://tva1.sinaimg.cn/large/00831rSTly1gcht9q8fm0j31740q810y.jpg)
 
