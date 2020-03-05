@@ -1,10 +1,10 @@
 ---
 layout: page
 type: sci-hub
-title: SCI-Hub最新可用网址
+title: SCI-HUB最新可用网址
 ---
 
-SCI-Hub最新可用网址如下：
+SCI-HUB最新可用网址如下：
 
 - [https://sci-hub.tw](https://sci-hub.tw/)
 - [https://sci-hub.se](https://sci-hub.se/)
