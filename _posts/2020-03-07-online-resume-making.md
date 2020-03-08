@@ -9,10 +9,10 @@ published: true
 
 之前多次分享给大家一些简历模版或者简历制作工具，比如100份精致好看的word简历模板，以及用GitHub Pages制作简洁炫酷的在线简历，又或者使用LaTeX制作高质量的简历。👇
 
-- [送100份简历模版，帮你做出高颜值的简历！｜求职季](https://mp.weixin.qq.com/s/F_NPwB1KdiqAyGZHckZ2qw)
+1. [送100份简历模版，帮你做出高颜值的简历！｜求职季](https://mp.weixin.qq.com/s/F_NPwB1KdiqAyGZHckZ2qw)
 
-- [GitHub Pages｜炫酷的在线个人简历制作，了解下？](https://mp.weixin.qq.com/s/ke3gvUDhvX5ivNE2rI28vw)
-- [找LaTeX模版？有这3个网站就够了！](https://mp.weixin.qq.com/s/NTWSyLinzrmmIbZNDf7LSA)
+2. [GitHub Pages｜炫酷的在线个人简历制作，了解下？](https://mp.weixin.qq.com/s/ke3gvUDhvX5ivNE2rI28vw)
+3. [找LaTeX模版？有这3个网站就够了！](https://mp.weixin.qq.com/s/NTWSyLinzrmmIbZNDf7LSA)
 
 这些都是实实在在能够在我们求职中发挥作用的效率工具，非常值得大家去了解下。
 
