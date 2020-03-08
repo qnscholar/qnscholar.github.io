@@ -7,7 +7,7 @@ tags:
 published: true
 ---
 
-之前多次分享给大家一些简历模版或者简历制作工具，比如100份精致好看的word简历模板，以及用GitHub Pages制作简介炫酷的在线简历，又或者使用LaTeX制作高质量的简历。👇
+之前多次分享给大家一些简历模版或者简历制作工具，比如100份精致好看的word简历模板，以及用GitHub Pages制作简洁炫酷的在线简历，又或者使用LaTeX制作高质量的简历。👇
 
 - [送100份简历模版，帮你做出高颜值的简历！｜求职季](https://mp.weixin.qq.com/s/F_NPwB1KdiqAyGZHckZ2qw)
 
@@ -23,9 +23,9 @@ published: true
 
 今天继续向大家介绍几款简历制作网站，同样，它们全都符合我所推崇的“极简风”，相信你也会喜欢。
 
-### 极简 Polobrief
+### 极简 Polebrief
 
-[极简 Polobrief](https://www.polebrief.com "极简 Polobrief")是一个把简洁风体现在网站的每一处的简历制作平台。
+[极简 Polebrief](https://www.polebrief.com "极简 Polobrief")是一个把简洁风体现在网站的每一处的简历制作平台。
 
 
 ![](https://tva1.sinaimg.cn/large/00831rSTly1gclvp92dwhj31740q80wr.jpg)
@@ -89,3 +89,4 @@ published: true
 今天就介绍到这里，未来我还会分享给大家我自己在使用的LaTeX模板。
 
 喜欢本文的话欢迎“三连”：在看、转发、赞赏。
+
