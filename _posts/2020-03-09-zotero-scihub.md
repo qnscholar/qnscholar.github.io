@@ -3,7 +3,8 @@ layout: post
 title: Zotero搭配Sci-Hub，真香！
 date: 2020-03-08 23:1:00
 tags: 
-- 学术网站
+- Zotero
+- 文献管理与信息分析
 published: true
 ---
 
