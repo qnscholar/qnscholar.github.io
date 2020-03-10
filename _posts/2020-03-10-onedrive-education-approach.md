@@ -33,7 +33,7 @@ published: true
 
 其中一个非常重要的一步就是输入验证码，别慌，你会在刚刚的[http://od.obagg.com](http://od.obagg.com)页面上正常收到验证码，输入到注册页面即可。
 
-![](https://tva1.sinaimg.cn/large/00831rSTly1gcp7pzs9fqj31740qa76z.jpg)
+![](https://tva1.sinaimg.cn/large/00831rSTly1gcp82v8f7lj31740qadij.jpg)
 
 注册成功后，为了验证是否有5T空间。依然按照[教育邮箱申请5TB OneDrive免费空间，它不香吗？](https://mp.weixin.qq.com/s/kYZbo2swjDYOlNidBh-jiQ)介绍的，在OneDrive客户端添加账号，即可查看存储空间。
 
