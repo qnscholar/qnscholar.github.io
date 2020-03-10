@@ -11,7 +11,7 @@ Sci-Hub有多香大家都知道！
 
 Zotero有多香，你看了我的教程就知道了！👇
 
-[Zotero | 打造最佳文献生态（合集）](https://mp.weixin.qq.com/s/ieAFVV4LmbeB1N5fHR9l4g)
+[Zotero ，打造最佳文献生态（合集）](https://mp.weixin.qq.com/s/ieAFVV4LmbeB1N5fHR9l4g)
 
 那要是Zotero+Sci-Hub，岂不是无敌了！
 
