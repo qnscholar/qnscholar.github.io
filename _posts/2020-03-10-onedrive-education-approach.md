@@ -15,21 +15,21 @@ published: true
 
 别慌，猫哥这就教大家如何在你自己没有教育邮箱的情况下申请5T OneDrive免费空间。
 
-和我写的上文一样，依然通过下方链接申请Office 365教育版。
+和我在[教育邮箱申请5TB OneDrive免费空间，它不香吗？](https://mp.weixin.qq.com/s/kYZbo2swjDYOlNidBh-jiQ)中写的一样，依然通过下方链接申请Office 365教育版。
 
 [https://www.microsoft.com/zh-cn/education/products/office/default.aspx](https://www.microsoft.com/zh-cn/education/products/office/default.aspx)
 
-自己没有教育邮箱，可以想办法弄到教育邮箱。
+自己没有教育邮箱，我们可以想办法弄到教育邮箱！
 
 访问下面的链接。
 
 [http://od.obagg.com](http://od.obagg.com)
 
-网页如下图。复制右上角的教育邮箱，当然如果邮箱名称你不喜欢，你可以选择刷新，或者自定义邮箱名称。
+如下图，复制右上角的教育邮箱，当然如果邮箱名称你不喜欢，你可以选择刷新，或者自定义邮箱名称。
 
 ![](https://tva1.sinaimg.cn/large/00831rSTly1gcp7rwn1xyj31740qaq4b.jpg)
 
-将复制的邮箱拿去Office 365注册，所有注册环节和我写的推文[教育邮箱申请5TB OneDrive免费空间，它不香吗？](https://mp.weixin.qq.com/s/kYZbo2swjDYOlNidBh-jiQ)中一样，包括设置姓名和密码。（其中密码一定要记得，很重要）
+将复制的邮箱拿去Office 365注册，所有注册环节和推文[教育邮箱申请5TB OneDrive免费空间，它不香吗？](https://mp.weixin.qq.com/s/kYZbo2swjDYOlNidBh-jiQ)中一样，包括设置姓名和密码。（其中密码一定要记得，很重要）
 
 其中一个非常重要的一步就是输入验证码，别慌，你会在刚刚的[http://od.obagg.com](http://od.obagg.com)页面上正常收到验证码，输入到注册页面即可。
 
