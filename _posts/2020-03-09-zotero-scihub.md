@@ -88,8 +88,8 @@ PDF resolvers的设置在Zotero的Config Editor中。
 
 这里顺便提三点：
 
-1. 在`"url":"https://sci-hub.tw/{doi}"`中，建议使用`.se`，因为根据我搜集到的信息，只有`.se`支持SSL链接，有利于维护数据传输的完整性。（当然，由于Sci-Hub经常更换域名，保不准以后会用什么其他域名，因此此处的代码未来也会根据需要进行更新）
-2. 从`"url":"https://sci-hub.tw/{doi}"`还能看到一点。由于Sci-Hub是通过`doi`下载文献的，因此该PDF解析器也需要doi。也就说你的文献必须要有doi，如果doi是空缺的，便无法通过PDF解析器免费下载文献。幸运的是，对于缺失doi的文献，我们可以通过插件[zotero-shortdoi](https://github.com/bwiernik/zotero-shortdoi/releases "zotero-shortdoi")插件一键抓取doi（参考文章[zotero-shortdoi + Sci-Hub，让99%的文献都能被免费下载！](https://mp.weixin.qq.com/s/9UAMrbfHKnmG4tZ7rvnnGA)）。
+1. 在`"url":"https://sci-hub.se/{doi}"`中，建议使用`.se`，因为根据我搜集到的信息，只有`.se`支持SSL链接，有利于维护数据传输的完整性。（当然，由于Sci-Hub经常更换域名，保不准以后会用什么其他域名，因此此处的代码未来也会根据需要进行更新）
+2. 从`"url":"https://sci-hub.se/{doi}"`还能看到一点。由于Sci-Hub是通过`doi`下载文献的，因此该PDF解析器也需要doi。也就说你的文献必须要有doi，如果doi是空缺的，便无法通过PDF解析器免费下载文献。幸运的是，对于缺失doi的文献，我们可以通过插件[zotero-shortdoi](https://github.com/bwiernik/zotero-shortdoi/releases "zotero-shortdoi")插件一键抓取doi（参考文章[zotero-shortdoi + Sci-Hub，让99%的文献都能被免费下载！](https://mp.weixin.qq.com/s/9UAMrbfHKnmG4tZ7rvnnGA)）。
 2. `"automatic":true`，如果设置为true，Zotero会自动下载保存到Zotero中的文献的PDF。比如你用Zotero Connector保存了一些文献到Zotero，它便会自动帮你从Sci-Hub下载文献，并附在相应文献条目下。如果你不需要自动下载，可以设置为`"automatic":false`。
 
 使用方法前面介绍过，主要有两种：
