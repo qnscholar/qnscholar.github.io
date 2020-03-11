@@ -5,15 +5,17 @@ title: 好礼在此
 typora-root-url: ../../iseex.github.io
 ---
 
-> **声明**：以下资源均整理自网络，由世界各地的网友开发。这些资源仅供科研学习使用，方便检索文献，为祖国科研事业做贡献！请发挥在实处，**积极发扬社会主义核心价值观**！
+**声明**：以下资源均整理自网络，由世界各地的网友开发。这些资源仅供科研学习使用，方便检索文献，为祖国科研事业做贡献！请发挥在实处，**积极发扬社会主义核心价值观**！
 
-# 免费方式看世界
 
-## <i class="fa fa-google"></i> 谷歌访问助手
+
+## 免费方式看世界
+
+### <i class="fa fa-google"></i> 谷歌访问助手
 
 谷歌访问助手可以帮助你访问谷歌、谷歌学术、Gmail邮箱、Chrome商店。[点击此处](https://iseex.github.io/2019-02/google-access-helper/)了解如何使用谷歌访问助手。
 
-## <i class="fa fa-google"></i> 麦殼兒（Maikr）
+### <i class="fa fa-google"></i> 麦殼兒（Maikr）
 
 大名鼎鼎的麦殼兒（Maikr）谷歌浏览器插件，同样可以实现访问外面的世界。[点击此处](https://chrome.google.com/webstore/detail/maikr/ffgfolalmnpdicmjfhepcfeokldcmiod?hl=zh-CN)下载麦殼兒（Maikr）插件。不会用？麦殼兒（Maikr）配置教程[在此](https://iseex.github.io/gifts/maikr_manual.pdf)。
 
@@ -34,13 +36,13 @@ S账号和代理客户端都有了，那么该怎么用它们实现上网呢？[
 
 
 
-# 付费方式看世界（有质量有保障）
+## 付费方式看世界（有质量有保障）
 
 邀请链接：https://ssrssr.xyz/auth/register?code=ERJb
 
 有1元七天体验套餐，以及各类高级套餐，根据需要选择即可。
 
-# 免费看腾讯、爱奇艺VIP视频
+## 免费看腾讯、爱奇艺VIP视频
 
 推荐两个视频解析网站，各大视频网站（比如腾讯视频、爱奇艺、优酷、搜狐）的VIP视频、超前点播视频免费看。当然，如果你经济条件允许，还是建议大家支持正版，付费观看。
 
