@@ -71,7 +71,7 @@ published: true
 
 ![](https://tva1.sinaimg.cn/large/00831rSTly1gcpqymmwfaj315n0pd46o.jpg)
 
-zotero-shortdoi插件会自动为新添加到Zotero中的文献添加DOI，这里建议大家勾选long DOI作为默认DOI形式。
+zotero-shortdoi插件会自动为新添加到Zotero中的文献添加DOI，这里建议大家勾选Long DOI作为默认DOI形式。
 
 ![](https://tva1.sinaimg.cn/large/00831rSTly1gcpqzyoj2gj30gj0f03z5.jpg)
 
