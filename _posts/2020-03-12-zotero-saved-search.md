@@ -8,7 +8,9 @@ tags:
 published: true
 ---
 
-说在前面：【Zotero，打造最佳文献生态】是青柠学术主打的原创文献管理系列教程，错过的朋友可以通过下文的合集阅读已经推送的文章。
+说在前面：【Zotero｜打造最佳文献生态】是青柠学术主打的原创文献管理系列教程，错过的朋友可以通过下文的合集阅读已经推送的文章。
+
+[Zotero，打造最佳文献生态](https://mp.weixin.qq.com/s/ieAFVV4LmbeB1N5fHR9l4g)
 
 ### Saved Search
 
