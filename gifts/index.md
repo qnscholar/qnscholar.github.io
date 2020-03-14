@@ -32,7 +32,7 @@ Windows、macOS、Linux、iOS、Android代理客户端下载：[https://ausers.g
 
 #### <i class="fa fa-unlock"></i> 使用教程
 
-S账号和代理客户端都有了，那么该怎么用它们实现上网呢？[点击这里](https://www.nb33.vip/fjs/)你便能找到答案。
+S账号和代理客户端都有了，那么该怎么用它们实现上网呢？[点击这里](http://ssdoc.xyz/)或者[点击这里](https://www.nb33.vip/fjs/)你便能找到答案。
 
 
 
