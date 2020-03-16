@@ -4,7 +4,7 @@ title: 沙拉查词+Alfred，打造最佳文献翻译体验！
 date: 2020-03-15 23:1:00
 tags: 
 - 效率工具
-published: true
+published: false
 ---
 
 今天聊一聊很多人都非常感兴趣的一个话题：文献翻译。
