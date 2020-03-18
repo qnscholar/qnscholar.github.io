@@ -7,7 +7,7 @@ tags:
 - Mac菌搞科研
 ---
 
-思维导图在梳理知识点、优化学习模式方面有很大用处。比如我们青柠学术的[【青柠学术-包好礼】](https://mp.weixin.qq.com/s/wAJmnf1rRnwQIXR1l_OzvA)科研资料礼包的目录就是用思维导图制作的。
+思维导图在梳理知识点、优化学习模式方面有很大用处。比如我们青柠学术的[【青柠学术-包好礼】](https://mp.weixin.qq.com/s/beO1_krj33KoPo_40K6BCw)科研资料礼包的目录就是用思维导图制作的。
 
 ![](https://tva1.sinaimg.cn/large/0082zybply1gc8ql30ku8j30u02ut7j8.jpg)
 
@@ -23,9 +23,11 @@ tags:
 
 今天再分享一款Mac平台的思维导图软件iThoughtsX，且安装即破解。
 
-青柠学术公众号后台回复“iThoughtsX”获取资源下载地址。
+青柠学术公众号后台回复`iThoughtsX`获取资源下载地址。
 
 安装完iThoughtsX后，界面如下。👇
 
 ![](https://tva1.sinaimg.cn/large/0082zybply1gc8qrg4rybj31740q8djc.jpg)
+
+具体的使用方法就不多介绍了，思维导图软件的用法都大差不差，自行摸索下即可。
 

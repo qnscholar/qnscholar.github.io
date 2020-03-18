@@ -4,14 +4,14 @@ title: Sublime + LaTeX + 代码自动补全，走起！
 date: 2020-03-17 09:30:00
 tags: 
 - 效率工具
-published: false
+published: true
 ---
 
 之前推送过两篇文章来介绍代码编辑神器Sublime Text，涵盖软件安装、配置、和更换主题等方面的内容。错过的朋友可通过下文了解。
 
-[玩转Sublime Text 3｜软件安装与汉化（附下载链接）](https://mp.weixin.qq.com/s/eVKIuTIzkqEZsQxGcjZRSQ)
+[玩转Sublime Text 3，软件安装与汉化（附下载链接）](https://mp.weixin.qq.com/s/eVKIuTIzkqEZsQxGcjZRSQ)
 
-[玩转Sublime Text 3｜推荐几款非常棒的主题](https://mp.weixin.qq.com/s/BkBg5bbrXDCSN3xQIPFlXw)
+[玩转Sublime Text 3，推荐几款非常棒的主题](https://mp.weixin.qq.com/s/BkBg5bbrXDCSN3xQIPFlXw)
 
 今天聊一聊如何将Sublime Text配置成$\LaTeX$编辑器，且具备代码自动补全功能。注意：本文介绍的内容是针对macOS系统的。
 
