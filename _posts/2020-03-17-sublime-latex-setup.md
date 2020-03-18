@@ -35,7 +35,7 @@ published: true
 
 不过这不是全部，如果想要在Sublime编写$\LaTeX$中文文档，还要做以下配置。
 
-### Sublime中文$\LaTeX$文档配置
+### Sublime中文LaTeX​文档配置
 
 打开Mac电脑的终端，运行以下代码。
 
@@ -66,7 +66,7 @@ sudo tlmgr update --self sudo tlmgr install latexmk
 
 还没结束，为了提高代码编辑效率，自动补全功能是必不可少的，就像在TeXstudio、TeXmaker等编辑器中一样。
 
-### Sublime的$\LaTeX$代码自动补全
+### Sublime的LaTeX​代码自动补全
 
 为了在Sublime中实现$\LaTeX$代码的自动补全功能，需要安装插件`LaTeX-cwl`，安装方法同前面安装`LaTeXTools`插件一样，即通过`Package Control`安装。
 

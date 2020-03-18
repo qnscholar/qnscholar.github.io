@@ -18,7 +18,7 @@ published: true
 
 [最新的Zotero参考文献排版csl文件来了！（新国标GB/T 7714-2015版）](https://mp.weixin.qq.com/s/T-yIx8-LuA_HHNyTxSRtCw)
 
-[Zotero ，有了Zotero，参考文献排版不再烦恼！](https://mp.weixin.qq.com/s/FgxUmrGgLOglScllgeca2Q)
+[Zotero \| 有了Zotero，参考文献排版不再烦恼！](https://mp.weixin.qq.com/s/FgxUmrGgLOglScllgeca2Q)
 
 前几天，有学员在微信群里咨询有没有GBT 7714（2015版）标准的PDF文件。
 
