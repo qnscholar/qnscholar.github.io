@@ -14,9 +14,9 @@ published: true
 
 之前向大家介绍了两种方式实现Zotero文献的跨平台同步：【Zotero + 坚果云】、以及【Zotero Tablet + PDF Expert】。👇
 
-[Zotero | 用坚果云无限扩展文献存储空间](https://mp.weixin.qq.com/s/Vb7O_InuaHv354Kpkheryg)
+[Zotero \| 用坚果云无限扩展文献存储空间](https://mp.weixin.qq.com/s/Vb7O_InuaHv354Kpkheryg)
 
-[重磅｜Zotero + Tablet，跨平台文献同步的新姿势！](https://mp.weixin.qq.com/s/uHOY2a_EZqJAQOrB2v9rFQ)
+[重磅 \| Zotero + Tablet，跨平台文献同步的新姿势！](https://mp.weixin.qq.com/s/uHOY2a_EZqJAQOrB2v9rFQ)
 
 【Zotero + 坚果云】方式借助于坚果云WebDAV，实现了Zotero附件的同步，解决了Zotero自带存储空间过少的问题。
 
