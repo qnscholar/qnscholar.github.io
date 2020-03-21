@@ -10,7 +10,7 @@ published: true
 
 说在前面：“Zotero｜打造最佳文献生态”是青柠学术主打的原创文献管理系列教程，错过的朋友可以通过下文了解。
 
-[Zotero \| 打造最佳文献生态（合集）](https://tva1.sinaimg.cn/large/00831rSTly1gd0t8it4wuj31jj0f5gmt.jpg)
+[Zotero \| 打造最佳文献生态（合集）](https://mp.weixin.qq.com/s/yC-Bm9AfSkbk_z_Tl47Nog)
 
 之前向大家介绍了两种方式实现Zotero文献的跨平台同步：【Zotero + 坚果云】、以及【Zotero Tablet + PDF Expert】。👇
 
