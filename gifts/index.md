@@ -23,7 +23,7 @@ typora-root-url: ../../iseex.github.io
 
 ### <i class="fa fa-paper-plane"></i> 免费S账号
 
-1. 分享几个可用的ssr地址（由某YouTube博主分享），访问速度还是很不错的，[点击这里获取](https://iseex.github.io/gifts/freessr.pdf)。如若失效请及时反馈。（更新时间20200217）
+1. 分享几个可用的ssr地址（由某YouTube博主分享），访问速度还是很不错的，[点击这里获取](https://iseex.github.io/gifts/freessr.pdf)。如若失效请及时反馈。（更新时间20200322）
 2. 免费S账号分享网站：[https://free-ss.site](https://free-ss.site)。每个账号只能用一定时间，如果失效请更换其他账号。如果你无法访问该网站，可以[参考本方法](https://iseex.github.io/gifts/free_ss_direct_access.png)。
 
 #### <i class="fa fa-wrench"></i> 代理客户端
