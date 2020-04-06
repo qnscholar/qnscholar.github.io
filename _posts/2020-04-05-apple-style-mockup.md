@@ -19,7 +19,7 @@ published: true
 
 今天给大家带来一款我个人非常喜欢也经常使用的快捷指令：**Apple套壳截图**。
 
-拷贝**Apple套壳截图**的[下载地址](https://www.icloud.com/shortcuts/9487494e3c6a4aae889306f0977628f1 "[Apple套壳截图]下载地址")至浏览器，即可安装该快捷指令。
+拷贝**Apple套壳截图**的[下载地址](https://www.icloud.com/shortcuts/9487494e3c6a4aae889306f0977628f1 "【Apple套壳截图】下载地址")至浏览器，即可安装该快捷指令。
 
 如果安装时遇到问题，请在iPhone的`设置-->快捷指令`中开启“允许不受信任的快捷指令”。
 
