@@ -33,7 +33,7 @@ kindle吧还有一个值得点赞的地方在于，**这里你不仅可以下载
 
 空闲之时，就到**学习充电**中找几本书给自己充充电吧！
 
-☞ 传送门：`https://www.kindle8.cc`
+☞ 传送门：[https://www.kindle8.cc](https://www.kindle8.cc)
 
 ### skEbooks
 
@@ -41,7 +41,7 @@ skEbooks，一个可以免费下载大量电子书的网站，并支持多种格
 
 ![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20200413235139.png)
 
-☞ 传送门：`https://skebooks.com`
+☞ 传送门：[https://skebooks.com](https://skebooks.com)
 
 ### IRead
 
@@ -55,7 +55,7 @@ IRead，爱读书。看到这名字，就能猜到这个网站不会差！
 
 嫌不够？那你也可以选择付费升级到Pro版，每天可以下载100本书，还提供kindle推送服务！
 
-☞ 传送门：`http://www.iread.cf`
+☞ 传送门：[http://www.iread.cf](http://www.iread.cf)
 
 ### 苦瓜书盘 
 
@@ -63,7 +63,7 @@ IRead，爱读书。看到这名字，就能猜到这个网站不会差！
 
 ![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20200413231143.png)
 
-☞ 传送门：`https://www.kgbook.com`
+☞ 传送门：[https://www.kgbook.com](https://www.kgbook.com)
 
 ### 超级书库
 
@@ -73,13 +73,15 @@ IRead，爱读书。看到这名字，就能猜到这个网站不会差！
 
 从内容上来看，超级书库里有畅销图书也有工具书，支持epub、mobi、azw3多种格式。
 
+☞ 传送门：[https://shuayouxi.cn](https://shuayouxi.cn)
+
 ### 雅书
 
 雅书，一个提供`PDF`格式电子书下载的网站，部分扫描版PDF可能不是很适合Kindle阅读。
 
 ![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20200413232420.png)
 
-☞ 传送门：`https://yabook.org/`
+☞ 传送门：[https://yabook.org/](https://yabook.org/)
 
 ### 布克书屋
 
@@ -87,7 +89,7 @@ IRead，爱读书。看到这名字，就能猜到这个网站不会差！
 
 ![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20200413232656.png)
 
-☞ 传送门：`https://www.bukebook.cn`
+☞ 传送门：[https://www.bukebook.cn](https://www.bukebook.cn)
 
 ### 鸠摩搜书
 
@@ -95,7 +97,7 @@ IRead，爱读书。看到这名字，就能猜到这个网站不会差！
 
 ![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20200413231659.png)
 
-☞ 传送门：`https://www.jiumodiary.com`
+☞ 传送门：[https://www.jiumodiary.com](https://www.jiumodiary.com)
 
 ### IT熊猫
 
@@ -105,7 +107,7 @@ IT熊猫，从名字就能看出来，这是一个致力于分享IT领域的电�
 
 ![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20200413233044.png)
 
-☞ 传送门：`https://www.itpanda.net/book/`
+☞ 传送门：[https://www.itpanda.net/book/](https://www.itpanda.net/book/)
 
 ### Vol.moe
 
@@ -119,7 +121,7 @@ IT熊猫，从名字就能看出来，这是一个致力于分享IT领域的电�
 
 可以看到，这里提供两类主流格式的下载，**一种是用于Kindle的.mobi格式，另一种则是适用于iPad的.epub格式，可以说非常的人性化了！**
 
-☞ 传送门：`https://volmoe.com`
+☞ 传送门：[https://volmoe.com](https://volmoe.com)
 
 ### 拓展阅读
 
@@ -137,7 +139,7 @@ Library Genesis是我极力推荐的英文书籍下载网站，之前也多次�
 
 [有了它，免费下载英文专业书籍不再烦恼！](https://mp.weixin.qq.com/s/IeI3HWfwSZ-Yue4oQ8SXmg)
 
-☞ 传送门：`http://gen.lib.rus.ec`
+☞ 传送门：[http://gen.lib.rus.ec](http://gen.lib.rus.ec)
 
 #### epubee（电子书格式转换）
 
@@ -151,7 +153,7 @@ Library Genesis是我极力推荐的英文书籍下载网站，之前也多次�
 
 当然，在前面介绍的几个网站，基本都能下载到自己需要的格式的电子书，往往不需要转换，这里只是顺便提一下，以备不时之需。
 
-☞ 传送门：`http://cn.epubee.com`
+☞ 传送门：[http://cn.epubee.com](http://cn.epubee.com)
 
 #### 将电子书导入Kindle App
 
