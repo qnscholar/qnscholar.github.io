@@ -13,10 +13,10 @@ published: true
 关于这个问题，我们先回顾下Zotero Rss。
 
 
-之前我在 [Zotero｜打造最佳文献生态](https://mp.weixin.qq.com/s/V6nIE24UefJWi3HbydccaA) 专栏的下面两篇文章中向大家介绍过Zotero Rss，也就是Zotero Feeds功能。
+之前我在 [Zotero \| 打造最佳文献生态](https://mp.weixin.qq.com/s/V6nIE24UefJWi3HbydccaA) 专栏的下面两篇文章中向大家介绍过Zotero Rss，也就是Zotero Feeds功能。
 
-- [Zotero | 如何变身Rss阅读器？](https://mp.weixin.qq.com/s/Hh4ynj-3wLdtuEl4vTchsA)
-- [Zotero｜推荐几个非常不错的Rss订阅源](https://mp.weixin.qq.com/s/g5Vzv1hq82-ZEFN_-UVDBg)
+- [Zotero \| 如何变身Rss阅读器？](https://mp.weixin.qq.com/s/Hh4ynj-3wLdtuEl4vTchsA)
+- [Zotero \| 推荐几个非常不错的Rss订阅源](https://mp.weixin.qq.com/s/g5Vzv1hq82-ZEFN_-UVDBg)
 
 但是当时没有系统地介绍如何使用Zotero Rss订阅文献。
 
