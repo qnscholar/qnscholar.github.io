@@ -4,7 +4,7 @@ title: 如何使用Zotero Rss跟踪最新文献（含关键词文献）？
 date: 2020-04-19 22:36:00
 tags: 
 - Zotero
-- 文献管理与分析分析
+- 文献管理与信息分析
 published: true
 ---
 

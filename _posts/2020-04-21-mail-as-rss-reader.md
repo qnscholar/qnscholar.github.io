@@ -3,7 +3,7 @@ layout: post
 title: 为了更好地跟踪文献，我把邮箱“改造”成了Rss阅读器！
 date: 2020-04-21 22:36:00
 tags: 
-- 文献管理与分析分析
+- 文献管理与信息分析
 published: true
 ---
 
