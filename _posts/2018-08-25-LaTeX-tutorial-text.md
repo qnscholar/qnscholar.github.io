@@ -1,6 +1,6 @@
 ---
-title: LaTeX | 为学术论文排版而生【入门篇】
-date: 2018-08-25 10:59:00
+title: LaTeX | 为学术论文排版而生【文本篇】
+date: 2018-08-25 11:00:00
 categories:
 - LaTeX
 tags:
@@ -9,102 +9,251 @@ tags:
 
 
 
-今天开始$LaTeX$第一篇推送，有种自己入坑，还有带着大家入坑的感觉(笑哭)。所以，在你继续往下阅读之前，我郑重说一下：
+这几天一直在想该按照什么样的结构去写这个$LaTeX$栏目，才能让大家更快的上手，甚至培养对$LaTeX$的兴趣。
 
->
-LaTeX不简单。
+$LaTeX$本身非常复杂，涉及的细节非常多，不可能全部介绍，笔者能力有限，也难以做到面面俱到。因此，几经思考之后，决定突出重点，按照**入门篇**、**文本篇**、**公式篇**、**浮动体篇**、**自动化工具篇**展开本次的$LaTeX$系列。
 
-好，准备入坑吧！
+下面就开始$LaTeX$系列的第二篇**文本篇**，所谓**文本篇**，主要涉及文字、段落、字体、页面设置等。
+## 从 Hello World 说起
+大家应该都有这种感觉，每当我们学习一个新东西，我们都迫不及待看到一个由自己完成的结果，因为对我们来说这意味着**至少我会用了**。只有看到希望了，后面的步子才会越迈越快。
 
-### 什么是LaTeX?
-LaTeX是一种高质量的排版系统，在20世纪80年代由美国的Leslie Lamport最初开发（那时叫做`TeX`），并发展至今。$LaTeX$最主要用于长篇技术或科技文档排版，不过实际上它几乎可以用于任何类型的发行物的排版。
+在工程领域，这就叫做`Hello World`。学习单片机时，点亮第一个发光二极管是`Hello World`；学习C语言时，程序成功编译并输出一个字符串，叫做`Hello World`；焊接`PCB`时，`LED`成功发光了，叫做`Hello World`。
 
-可以说，$LaTeX$并不是一个文字处理器，$LaTeX$鼓励用户不要过多地担忧写出来的文档的外观是怎么样的，而应该专注在你所要写的内容上。
+那么，$LaTeX$里的`Hello World`就是：`新建文件->敲代码->编译->输出PDF`。
 
-举个例子，考虑下面的内容：
+咱，一步一步来。
 
-```
-Introduction to  LaTeX
-SEEK
-Jan 2017
+### 新建文件 
 
-Hello world!
-```
-在最常用的文字处理软件Office Word中，如果想要产生以上内容，我们必须决定哪一部分采用什么样的格式，比如标题采用`18pt Times Roman 字体`，姓名采用`12pt Times Italic `字体等。这样一种排版方式通常会产生两种后果：
+开始之前，先说一下小编的操作环境：
+系统：`Mac OS X Sierra 10.12.2`
+编译器：`MacTeX`
+编辑器：`TeXstudio 2.12.2`
 
-- 作者需要花费很多时间在排版上。
-- 往往排版的效果很糟糕。
+![操作环境](http://upload-images.jianshu.io/upload_images/2787497-ec0de1416878920b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
 
-而LaTeX的设计思想是：
-> 排版的事情交给$LaTeX$就好，让作者专注于写作。
+编译器和编辑器的下载可以参考上一篇推送【入门篇】。操作环境不一样没关系，`Windows`用户推荐`TeXlive 2016 + TeXstudio`。
 
-所以，在$LaTeX$中，你只需要这样输入：
+- 打开`TeXstudio`，界面如下。新建文件，并保存为`Hello World.tex`。注意$LaTeX$文件的格式为`.TeX`。
+  ![TeXstudio界面](http://upload-images.jianshu.io/upload_images/2787497-d90c61b703ea87da.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 为了对中英文有更好的支持，编码方式采用`UTF8`，如下图红色方框所示处。`TeXstudio`默认已经设置好，我们不需要管。只是如果采用其他编辑器，保存时可能需要设置编码方式，不然中文可能无法显示。
+  ![编码方式设置](http://upload-images.jianshu.io/upload_images/2787497-8c49f659a50663b6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### 敲代码
+
+
+今天这个`Hello World`例程的目标就是输出`Hello World`。为此，我们在`TeXstudio`的代码编辑区敲入以下代码（后面再解释具体含义）。
+
+   ```latex
+\documentclass{article}
+   \begin{document}
+	    Hello World
+\end{document}
+   ```
+### 编译
+
+
+编译之前，我们需要设置$LaTeX$的编译方式。随着$LaTeX$的发展，出于不同的需要，出现了很多种编译方式，如`PdfLaTeX`、$LaTeX$、`XeLaTeX`等，这里我们一般采用`XeLaTeX`，因为这种方式对中文的支持较好。 具体设置方法是进入菜单栏`TeXstudio->Preferences`，在弹出的窗口的左侧面板点击`Build`，在`Default Compiler`项选择`XeLaTeX`，并点击`OK`完成设置，如下图所示。
+
+![编译设置](http://upload-images.jianshu.io/upload_images/2787497-994d9f1806a47b6b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+然后，点击下图所示**编译并预览按钮**，可以看到编译成功，没有出现错误，右侧输出效果的**预览**视图。
+
+![编译输出](http://upload-images.jianshu.io/upload_images/2787497-dae43388fd51f4be.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### 输出PDF
+
+上面的**预览**视图还不算真正的输出`PDF`，其实在我们编译的时候，`PDF`文档已经在`Hello World.tex`的根目录生成了，找到就可以了。
+
+到这里，就算完成了`Hello World`。
+
+-------
+## 语法讲解
+###  $LaTeX$文档的基本结构
+
 ```latex
 \documentclass{article}
-\title{Introduction to  LaTeX}
-\author{SEEK}
-\date{Jan 2017}
+    
 \begin{document}
-   \maketitle
-   Hello world!
+    
 \end{document}
 ```
-如果要翻译一下上面的每一句代码，意思就是：
-- 这篇文档的类型是`论文(article)`。
-- 这篇文档的标题是`Introduction to LaTeX`。
-- 这篇文档的作者是`SEEK`。
-- 这篇文档的写作日期是`Jan 2017`。
-- 这篇文档的内容是`Hello World`。
+上述三行代码代表了一个$LaTeX$文件`必不可少`的三个部分。
 
-所以，看到了吧，用$LaTeX$排版文档就像是在写程序一样，而且风格有点类似`html`和`markdown`这种标记语言，只是要比`markdown`要复杂很多。这就是为什么`markdown`适合于博客或者文学创作这种对格式求不是那么高的领域，而$LaTeX$更多用于学术论文排版，特别是涉及数学公式较多的数理工程领域。
-### LaTeX 的特点
-总结一下$LaTeX$的特征就是：
-- 排版期刊论文、技术报告、书籍、演示文稿。
-- 对包含`章节`、`交叉引用`、`图表`的长篇文档具有很强的格式控制能力。
-- 可以排版`复杂的数学公式`。
-- 自动产生`目录`、`文献引用列表`和`索引序号`。
-- 多国语言支持，能够很好的`支持中文`。
-- 多种风格的`字体`支持。
-- 开源且多平台支持，如`OS X`、`Windows`、`Linux`。
+`\documentclass{article}`表示该文档的类型是`期刊（aiticle）`，$LaTeX$还支持`report（报告）`、`book（书籍）`、`beamer（幻灯片）`等多种类型。
 
-### 选择哪款工具？
-每当我们学习一个`新的东西`，可能都会困惑从哪一步开始学习，那么作为学习过$LaTeX$的过来人，我想说的是首先`选好工具`。
-> 君子性非异也，善假于物也。
+`\begin{document}`和`\end{document}`表示文档内容的**开始**和**结束**，也就是说，所有正文内容都写在其中。`\begin{document}`前的部分我们称为**导言区**，**宏包**我们都是写在导言区，后面会具体介绍。
 
-$LaTeX$的开发工具非常之多，这里我不一一列出来，因为这只会给新手带来`困扰`，并无益处。既然你看了这篇文章，我就会直接告诉你我心目中最好的$LaTeX$开发工具。
+此外，$LaTeX$中，我们用`%`表示注释，如：
+    
 
-首先需要说明的是，$LaTeX$由`编译系统+编辑器`两部分组成，简单点说`编译系统`集成了$LaTeX$宏包，`编辑器`用于编写上面所述的$LaTeX$代码，即你需要写的`内容`。且`编译系统`必须有一个，`编辑器`可以有多个，不同的`编辑器`会自动调用相同的`编译系统`对你所写的代码进行`编译`，从而输出最终的`PDF文档`。
-
-下面小编说说`Windows和Mac`上$LaTeX$开发工具的选择（小编没用过`Linux`）。
-
-☞ `Windows:`
-- `Windows`上能支持`中英文`的`编译系统`主要有：`CTEX`和`Texlive `套装。其中`CTEX`是由国内学者开发的支持`中文`的$LaTeX$套装，方便排版`中文`文档。小编学习$LaTeX$起初也是一直用的`CTEX`套装，不过近些年`CTEX`更新较慢，很多`宏包`没有得到维护，给使用带来一些不便。`TeXlive`套装是目前更新`速度最快`、`宏包`最齐全、对`中英文`支持最好的编译系统，小编后期一直使用`TeXlive`。
-- `Windows`上的编辑器我推荐`TexStudio`，`开源免费`。我个人觉得是最好用的$LaTeX$编辑器，支持代码`自动提示、补全`等功能。虽说`CTEX`、`Texlive`套装自带`TexWorks`编辑器，不过功能太单一，一般不采用。
-
+```latex
+\documentclass{article}
+%这是导言区
+\begin{document}
+    
+\end{document}
 ```
-CTEX传送门：http://www.ctex.org/CTeXDownload
+### 中文支持
+在$LaTeX$中，想要支持中文非常简单，通常有两种方式：
+- 调用`ctex`宏包，`\usepackage[UTF8]{ctex}`，`[ ]`代表可选项，在$LaTeX$中这是非常常见的。`[UTF8]`表示该文档采用`UTF8`编码方式。    
+- 由于现在$LaTeX$对中文的支持已经很完善，因此我们可以直接使用`\documentclass[UTF8]{ctexart}`，代表该文档是`中文论文（ctex+article`。推荐使用这种方式，因为对部分的宏包的支持较好。
 
-Texlive 2016 传送门：
-- 链接1：http://mirror.hust.edu.cn/CTAN/systems/texlive/Images/
-- 链接2: http://www.latexstudio.net/archives/6544
-
-TeXStudio传送门：https://sourceforge.net/projects/texstudio/
-
+用下面代码做个示范。
+    
+```latex
+\documentclass[UTF8]{ctexart}
+\begin{document}
+  这是第一个\LaTeX 文档
+\end{document}
 ```
 
-☞ `Mac OS X:`
-- `Mac`上的`编译系统`就没有`Windows`上那么复杂了，只有`MacTeX`，可以很好地支持`中英文`。
-- `Mac`上最好的$LaTeX$编辑器，个人依然认为是`TeXStudio`，`TeXStudio`有`Mac`版本哦。
+编译输出，效果如下：
 
+![中文支持](http://upload-images.jianshu.io/upload_images/2787497-15a44f84888a2b4a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+    
+
+这里需要提一下，上面代码中的`\LaTeX`是专门用于显示$LaTeX$的logo。又如`\TeX`可以显示`TeX`的logo，大家可以自己试试。
+
+### 行与段落
+$LaTeX$中，在一行的末尾使用`\\`表示换行，即**另起一行**。而两次按`Enter`表示**另起一段落**，即`一个空行`表示另起一段落。当然也可以用`\par`表示另起一段落。如下面代码所示：
+    
+```latex
+\documentclass[UTF8]{ctexart}
+\begin{document}
+  这是第一行。\\
+  这是第二行。
+    	
+  另起一段落,另起一段落,另起一段落,另起一段落,另起一段落,另起一段落,另起一  段落,另起一段落。\par
+  另起一段落,另起一段落,另起一段落,另起一段落,另起一段落,另起一段落,另起一段落,另起一段落。
+\end{document}
 ```
-MacTeX传送门：http://tug.org/mactex/
 
-TeXStudio for Mac传送门：
-https://sourceforge.net/projects/texstudio/
+效果如下：
 
+![段落设置](http://upload-images.jianshu.io/upload_images/2787497-1023c4d538af63cf.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+可以看出，默认段首是缩进两格的，如果想取消缩进，可以在该段落前面添加`\noindent`语句。如：
+    
+```latex
+\documentclass[UTF8]{ctexart}
+\begin{document}
+   \noindent
+   Hello World
+\end{document}
 ```
 
-$LaTeX$的【入门篇】就讲到这里，看完这篇文章你的任务就是：下载好编译系统和编辑器，并熟悉熟悉，下一期会推送$LaTeX$的语法，就要进入正题了！
+### 章节
+
+如果文档类型为`article`，我们采用`\section{章节名}`、`\subsection{章节名}`开启一个**章节**或者**次级章节**。代码如下：
+    
+```latex
+\documentclass[UTF8]{ctexart}
+\begin{document}
+   \section{这是第一章节}
+   Hello World
+   \subsection{这是次级章节}
+   Hello World
+   \section{这是第二章节}
+   Hello World
+\end{document}
+```
+
+效果如下：
+
+![章节设置](http://upload-images.jianshu.io/upload_images/2787497-923ea625f136af70.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+正如大家看到的，默认情况下，第一级章节标题是**居中显示**的(注意，上图预览视图的第一行是**页眉**)，显然这不符合大多数需要，为此在导言区添加一些设置章节格式的代码即可，如下：
+    
+```latex
+\documentclass[UTF8]{ctexart}
+\CTEXsetup[name={第,章}]{section}
+\CTEXsetup[format={\zihao{-3}\raggedright\bfseries}]{section}
+\begin{document}
+   \section{这是第一章节}
+   Hello World
+   \subsection{这是次级章节}
+   Hello World
+   \section{这是第二章节}
+   Hello World
+\end{document}
+```
+
+得到：
+
+![章节修正](http://upload-images.jianshu.io/upload_images/2787497-7a26df583269b6f6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### 字体设置
+#### 字体选择
+
+$LaTeX$的字体蔟非常复杂，这里不多叙述，大家可以查查资料。下面代码是用于设置正文部分中英文的默认字体分别为`Roman Times New`和`楷体-简`（`Windows`上写**楷体**即可）。其中，`xeCJK`宏包用于设置中文字体，`fontspec`宏包用于设置英文字体，将其添加到导言区即可。
+
+```latex
+\usepackage{xeCJK}
+\setCJKmainfont[BoldFont={黑体-简}]{楷体-简}
+
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+```
+
+#### 字体大小
+
+$LaTeX$中设置字体大小的方式比较多。在文档类型为**中文论文**的情况下，我通常使用`\zihao{数字}`的方式来改变字体大小，**数字**的大小表示该部分文字为**几号字体**。如下所示：
+
+```latex
+\documentclass[UTF8]{ctexart}
+\CTEXsetup[name={第,章}]{section}
+\CTEXsetup[format={\zihao{-3}\raggedright\bfseries}]{section}
+\begin{document}
+     \section{这是第一章节}
+     \zihao{2}
+     Hello World
+     \subsection{这是次级章节}
+     Hello World
+     \section{这是第二章节}
+     Hello World
+ \end{document}
+```
+效果如下所示：
+
+![字体大小设置](http://upload-images.jianshu.io/upload_images/2787497-c69db956f5e2538b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 如果只想改变某部分文字的大小，可以用一对大括号`{}`括住`\zihao{数字}`和**文字**，$LaTeX$中一对大括号`{}`表示一个**环境**，环境内的**格式控制语句**只对环境中的文字起作用。如：
+    
+
+```latex
+{\zihao{3} Hello World}
+```
 
 
-> 所以，你入门了吗？希望你不要从入门到放弃哦😯
+### 页面设置
+#### 纸张设置
+
+$LaTeX$中可以通过**可选项**来设置页面纸张的大小（默认为`A4`）。代码如下：
+
+```latex
+\documentclass[UTF8,a4paper]{ctexart}   
+```
+
+#### 页边距
+
+此外，$LaTeX$可以用`geometry`宏包来设置页边距，代码如下：
+
+```latex
+\usepackage{geometry}
+\geometry{left=2.5cm,right=2.5cm,top=2.0cm,bottom=2cm}
+```
+
+#### 页眉页脚
+
+$LaTeX$中用`\pagestyle`来设置**页眉页脚**，默认为页眉显示**章节标题**和**页码**，**页脚**为空。默认风格用下面的代码表示：
+
+```latex
+\pagestyle{headings}
+```
+
+如果要取消页眉页脚，用代码：
+
+```latex
+\pagestyle{empty}
+```
+
+> $LaTeX$的【文本篇】就到这里啦，更多丰富的格式设置需要大家多**查阅资料**来学习，这里推荐大家看看**刘洋海**的《LaTeX 入门》，一本很经典的$LaTeX$参考资料！
