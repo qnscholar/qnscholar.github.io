@@ -21,6 +21,7 @@ title: 青柠学术导航
 
 - [沃客学术导航](https://www.waysto.work)
 - [虫部落](https://www.chongbuluo.com)
-- http://www.20009.net
+- [格桑花学术导航](http://www.20009.net)
 - [大木虫学术导航](http://www.4243.net)
 - [龙轩导航](http://ilxdh.com)
+
