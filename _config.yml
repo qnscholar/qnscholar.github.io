@@ -68,7 +68,7 @@ nav:
     #- {title: 标签, description: tags, url: '/tags'}
     - {title: 标签, description: tags, url: '/tags'}   
     - {title: 搜索, description: search, url: '/search'}   
-    - {title: 学术导航, description: Scholar-Navi, url: '/Scholar-Navi'}   
+    - {title: 学术导航, description: Scholar-Navi, url: '/scholar-navi'}   
     
 
 # Pagination
