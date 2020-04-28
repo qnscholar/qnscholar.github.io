@@ -10,7 +10,6 @@ title: 软件/工具下载渠道
 - [稀缺资源统一下载地址页](https://ldqk.org/misc/5)🌟🌟🌟🌟🌟
 - [Macstore.info](https://macstore.info)
 - [Mac毒](https://www.macdu.org/)
-
 - [MacWK](https://www.macwk.com)
 - [Xclient](https://xclient.info)
 - [胡萝卜周](http://www.carrotchou.blog/category/mac)
@@ -19,7 +18,6 @@ title: 软件/工具下载渠道
 ### Windows平台
 
 - [懒得勤快](http://183.91.54.237:7080/masuit/soft/tree/master)🌟🌟🌟🌟🌟
-
 - [稀缺资源统一下载地址页](https://ldqk.org/misc/5)🌟🌟🌟🌟🌟
 - [吾爱破解](https://www.52pojie.cn/)
 - [软件缘](https://www.appcgn.com/)
