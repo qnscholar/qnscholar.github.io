@@ -1,6 +1,6 @@
 ---
 layout: page
-type: navigation
+type: ScholarNavi
 title: 青柠学术导航
 ---
 
