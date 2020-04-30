@@ -15,7 +15,6 @@ published: true
 
 - [为了更好地跟踪文献，我把邮箱“改造”成了Rss阅读器！](https://mp.weixin.qq.com/s/s2g6sJRZg4UvWTvChezBgA)🌟🌟🌟🌟🌟
 - [如何使用Zotero Rss跟踪最新文献（含关键词文献）？](https://mp.weixin.qq.com/s/eOvHbqvnSmtUYcAF4ao-yw)
-
 - [如何查找和跟踪本领域内的学术会议？](https://mp.weixin.qq.com/s/t1eWoaLBboGtvWIAhQUXvg)🌟🌟🌟🌟🌟
 - [重磅 \| Zotero如何一次抓取某个作者发表的全部论文，并显示引用量？](https://mp.weixin.qq.com/s/WDWANTx9FS3C8aGEE2bLXA)
 - [每个科研工作者都值得创建的学术主页！](https://mp.weixin.qq.com/s/_XNynnM4rJKgjQ7wbcSSww)🌟🌟🌟🌟🌟
