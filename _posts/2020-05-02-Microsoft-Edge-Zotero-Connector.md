@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft Edge浏览器，在Mac/Windows上使用Zotero Connector的绝佳选择！
+title: Microsoft Edge浏览器，使用Zotero Connector的绝佳选择！
 date: 2020-05-02 22:36:00
 tags: 
 - Zotero
