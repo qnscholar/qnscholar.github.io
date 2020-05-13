@@ -15,7 +15,8 @@ title: 青柠学术导航
 
 ### 百度文库免费下载
 
-[网页转换助手](http://www.html22.com/zh/)。
+1. [网页转换助手](http://www.html22.com/zh/)。
+2. http://wk.yaersen.com。（只能下载“百度文库下载券”文档）
 
 ### 自由飞翔
 
