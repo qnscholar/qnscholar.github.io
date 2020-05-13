@@ -13,6 +13,10 @@ title: 青柠学术导航
 
 [点击此处](https://iseex.github.io/scihub/)访问Sci-Hub最新可用网址。
 
+### 百度文库免费下载
+
+[网页转换助手](http://www.html22.com/zh/)。
+
 ### 自由飞翔
 
 [点击此处](https://iseex.github.io/gifts/)了解如何访问更大的世界（仅供学习科研用）。
