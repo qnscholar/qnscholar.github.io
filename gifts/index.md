@@ -31,13 +31,15 @@ typora-root-url: ../../iseex.github.io
 [点击这里获取](https://iseex.github.io/gifts/V2ray.pdf)免费V2ray节点。如若失效请及时反馈。
 
 
+### <i class="fa fa-wrench"></i> 代理客户端及使用教程
+
 #### <i class="fa fa-wrench"></i> 代理客户端
 
 Windows、macOS、Linux、iOS、Android代理客户端下载：[https://ausers.github.io](https://ausers.github.io)。或者直接下载精选的[代理客户端安装包（VPN Clients）](https://github.com/iseex/iseex.github.io/releases)。
 
 #### <i class="fa fa-unlock"></i> 使用教程
 
-S账号和代理客户端都有了，那么该怎么用它们实现上网呢？[点击这里](https://github.com/Shadowsocks-Wiki/shadowsocks)或者[点击这里](https://www.nb33.vip/fjs/)你便能找到答案。
+节点和代理客户端都有了，那么该怎么用它们实现上网呢？[点击这里](https://github.com/Shadowsocks-Wiki/shadowsocks)或者[点击这里](https://www.nb33.vip/fjs/)你便能找到答案。
 
 
 
