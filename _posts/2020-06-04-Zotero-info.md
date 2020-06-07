@@ -9,8 +9,6 @@ published: true
 
 
 
-![提示：文末有会员优惠](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20200603000511.jpg)
-
 **为什么你导入的Zotero文献题目信息总是不够完整？**
 
 前前后后，向大家介绍过很多种Zotero导入文献的方式，比如Zotero Connector、拖拽PDF等方式。相信大家也都用过了。
