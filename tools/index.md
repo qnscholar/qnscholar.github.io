@@ -10,6 +10,7 @@ title: 软件/工具下载渠道
 - [稀缺资源统一下载地址页](https://ldqk.org/misc/5)🌟🌟🌟🌟🌟
 - [Macstore.info](https://macstore.info)
 - [Mac毒](https://www.macdu.org/)
+- [麦氪派](https://www.waitsun.com/topics/os)
 - [MacWK](https://www.macwk.com)
 - [Xclient](https://xclient.info)
 - [胡萝卜周](http://www.carrotchou.blog/category/mac)
