@@ -9,7 +9,7 @@ typora-root-url: ../../iseex.github.io
 
 
 
-# （一）免费方式看世界
+## （一）免费方式看世界
 
 ### <i class="fa fa-google"></i> 谷歌访问助手
 
@@ -37,13 +37,13 @@ Windows、macOS、Linux、iOS、Android代理客户端下载：[https://ausers.g
 
 
 
-# （二）付费方式看世界（高速稳定）
+## （二）付费方式看世界（高速稳定）
 
 邀请链接：https://ssrssr.xyz/auth/register?code=ERJb
 
 有1元七天体验套餐，以及各类高级套餐，根据需要选择即可。
 
-# （三）免费看腾讯、爱奇艺VIP视频
+## （三）免费看腾讯、爱奇艺VIP视频
 
 推荐两个视频解析网站，各大视频网站（比如腾讯视频、爱奇艺、优酷、搜狐）的VIP视频、超前点播视频免费看。当然，如果你经济条件允许，还是建议大家支持正版，付费观看。
 
