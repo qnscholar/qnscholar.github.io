@@ -139,9 +139,10 @@ h3 {
 
 h4 {
   font-size: 1.2em; 
+  text-align:center;
   letter-spacing:0.1em;
   display:inline-block;
-  width: auto;
+  width: 0 auto;
   text-indent: 4px; 
   border-radius: 4px; 
   padding: 6px 15px;
