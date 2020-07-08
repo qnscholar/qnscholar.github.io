@@ -139,6 +139,8 @@ h3 {
 
 h4 {
   text-align:center;
+  display:inline-block;
+  width: auto;
   text-indent: 4px; 
   border-radius: 4px; 
   padding: 6px 15px;
