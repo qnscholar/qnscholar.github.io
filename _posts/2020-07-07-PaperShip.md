@@ -30,3 +30,4 @@ PaperShip是一款可以在`iOS`、`iPadOS`、`macOS`上同步Zotero文献的强
 如果你很需要PaperShip的批注功能，又不想花费那么多钱，不妨加入青柠学术会员，我已经为大家购买好了，并以共享Apple ID的形式供大家下载。
 
 👉[领券加入](https://mp.weixin.qq.com/s/qCtHNc8Vq4VPI0nyQtR85w)👈，只需35元即可加入会员。成为会员后，便可以下载价值68元的批注版PaperShip。当然，还不仅仅如此，共享Apple ID中还购买了多款其他App（价值100多元）。
+
