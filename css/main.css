@@ -107,11 +107,9 @@ h5 {
   -webkit-font-smoothing: antialiased; }
 
 h1 {
-  text-align: center;
-  font-size: 2em; 
   margin-top: 0;
   font-size: 2.0em;
-  line-height: 1.4em;
+  line-height: 1.2em;
   letter-spacing: .05em; 
 }
 
@@ -150,7 +148,8 @@ h4 {
 }
 
 h5 {
-  font-size: 0.8em; }
+  font-size: 0.8em; 
+}
 
 p {
   margin-bottom: 10px;
