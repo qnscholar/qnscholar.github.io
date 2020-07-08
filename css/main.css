@@ -141,7 +141,7 @@ h4 {
   font-size: 1.2em; 
   text-align:center;
   letter-spacing:0.1em;
-  display:inline-block;
+  display:block;
   width: 0 auto;
   text-indent: 4px; 
   border-radius: 4px; 
