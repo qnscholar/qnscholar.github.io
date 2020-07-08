@@ -139,7 +139,7 @@ h3 {
 
 h4 {
   text-align:center;
-  display:inline-block;
+  display:block;
   width: auto;
   text-indent: 4px; 
   border-radius: 4px; 
