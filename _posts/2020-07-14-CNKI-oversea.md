@@ -3,7 +3,7 @@ layout: post
 title: 海外版知网升级了！（全PDF下载），从此告别CAJ阅读器！
 date: 2020-07-14 22:36:00
 tags: 
-- Zotero
+- 效率工具
 published: true
 ---
 
