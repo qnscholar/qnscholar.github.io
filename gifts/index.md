@@ -41,7 +41,7 @@ Windows、macOS、Linux、iOS、Android代理客户端下载：[https://ausers.g
 
 ### 邀请链接
 
-邀请链接：https://ssrssr.xyz/auth/register?code=ERJb
+邀请链接：https://ssrssr.xyz/aff/ERJb
 
 有1元七天体验套餐，以及各类高级套餐，根据需要选择即可。
 
