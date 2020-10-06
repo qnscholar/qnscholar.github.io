@@ -29,7 +29,7 @@ published: true
 
 ![PDF命名](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20200926163244.png)
 
-尽管在[之前的文章中](https://mp.weixin.qq.com/s/9uwJHsO5u0gS6FCzv_q52w)，介绍了通过Zotfile通配符`{%g_}{%y_}{%t}`可以解决这个问题，但是在姓名之间会多一个**逗号**，很多人不是很喜欢。
+尽管在[之前的文章中](https://mp.weixin.qq.com/s/9uwJHsO5u0gS6FCzv_q52w)，介绍了通过Zotfile通配符可以解决这个问题，但是在姓名之间会多一个**逗号**，很多人不是很喜欢。
 
 ![姓名之间有逗号](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20200926163820.png)
 
