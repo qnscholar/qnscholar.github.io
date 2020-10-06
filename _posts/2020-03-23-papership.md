@@ -3,7 +3,6 @@ layout: post
 title: 付费版PaperShip的文献批注功能究竟好不好用？
 date: 2020-03-2 22:36:00
 tags: 
-- 文献管理与信息分析
 - Zotero
 published: false
 ---

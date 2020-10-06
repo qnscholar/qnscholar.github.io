@@ -3,7 +3,7 @@ layout: post
 title: 如何查找和跟踪本领域内的学术会议？
 date: 2020-03-05 23:1:00
 tags: 
-- 效率工具
+- 文献检索与跟踪
 published: true
 ---
 

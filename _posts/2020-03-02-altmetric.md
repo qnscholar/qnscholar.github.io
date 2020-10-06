@@ -3,7 +3,7 @@ layout: post
 title: 想知道你的论文的热度值吗？Altmetric it就知道了！
 date: 2020-03-02 12:37:00
 tags: 
-- 文献管理与信息分析
+- 文献分析
 published: true
 ---
 

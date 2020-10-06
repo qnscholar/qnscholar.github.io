@@ -3,7 +3,6 @@ layout: post
 title: 厉害了！Zotero的“Saved Search”功能竟然有如此妙用！
 date: 2020-03-12 23:1:00
 tags: 
-- 文献管理与信息分析
 - Zotero
 published: true
 ---

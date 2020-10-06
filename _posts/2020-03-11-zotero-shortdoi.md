@@ -3,7 +3,6 @@ layout: post
 title: zotero-shortdoi + Sci-Hub，让99%的文献都能被免费下载！
 date: 2020-03-11 23:1:00
 tags: 
-- 文献管理与信息分析
 - Zotero
 published: true
 ---

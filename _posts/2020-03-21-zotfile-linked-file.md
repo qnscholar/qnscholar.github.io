@@ -3,7 +3,6 @@ layout: post
 title: ZotFile + 同步盘，实现Zotero文献跨平台同步！
 date: 2020-03-21 22:36:00
 tags: 
-- 文献管理与信息分析
 - Zotero
 published: true
 ---

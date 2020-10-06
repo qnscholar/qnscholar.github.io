@@ -3,7 +3,7 @@ layout: post
 title: 如何实时跟踪一个学者的最新学术成果？
 date: 2020-04-30 22:36:00
 tags: 
-- 文献管理与信息分析
+- 文献检索与追踪
 published: true
 ---
 

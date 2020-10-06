@@ -3,9 +3,8 @@ layout: post
 title: 重磅｜Zotero Scholar Citations插件中国定制版来了！
 date: 2020-03-13 23:1:00
 tags: 
-- 文献管理与信息分析
 - Zotero
-published: true
+published: false
 ---
 
 ### Zotero Scholar Citations插件中国版

@@ -3,7 +3,7 @@ layout: post
 title: 如何「由点到面」进行发散性阅读？
 date: 2020-07-29 22:36:00
 tags: 
-- Zotero
+- 论文写作
 published: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 新冠肺炎的最新论文都在这了！nCoV2019 Zotero公开小组欢迎您的加入！
 date: 2020-03-26 22:36:00
 tags: 
-- 闲谈
+- Zotero
 published: true
 ---
 

@@ -4,7 +4,6 @@ title: 重磅｜Zotero + Tablet，跨平台文献同步的新姿势！
 date: 2020-03-02 12:37:00
 tags: 
 - Zotero
-- 文献管理与信息分析
 published: true
 ---
 

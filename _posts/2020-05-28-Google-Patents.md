@@ -3,7 +3,7 @@ layout: post
 title: Google Patents，免费检索和下载中英文专利的最佳工具！
 date: 2020-05-28 22:36:00
 tags: 
-- 文献管理与信息分析
+- 专利申请攻略
 published: true
 ---
 

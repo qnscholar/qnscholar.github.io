@@ -3,7 +3,6 @@ layout: post
 title: GBT 7714参考文献著录规则的2015版和2005版有哪些区别？
 date: 2020-03-15 23:1:00
 tags: 
-- 文献管理与信息分析
 - Zotero
 published: true
 ---

@@ -4,7 +4,6 @@ title: Zotero Connector保存知网文献时，如何解决作者的“姓”和
 date: 2020-03-04 12:25:00
 tags: 
 - Zotero
-- 文献管理与信息分析
 published: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 我为什么喜欢用Mac【预览】阅读文献？
 date: 2020-02-22 20:00:00
 tag: 
-- Mac菌搞科研
+- Mac生产力
 ---
 
 好用的文献阅读软件有很多，比如大名鼎鼎的PDF Expert和GoodNotes！

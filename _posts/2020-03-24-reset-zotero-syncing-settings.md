@@ -3,7 +3,6 @@ layout: post
 title: 【ZotFile+同步盘】方式如何切换到【Zotero+坚果云WebDAV】同步方式？
 date: 2020-03-24 22:36:00
 tags: 
-- 文献管理与信息分析
 - Zotero
 published: true
 ---

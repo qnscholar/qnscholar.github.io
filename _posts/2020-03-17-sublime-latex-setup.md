@@ -3,7 +3,8 @@ layout: post
 title: Sublime + LaTeX + 代码自动补全，走起！
 date: 2020-03-17 09:30:00
 tags: 
-- 效率工具
+- Mac生产力
+- LaTeX
 published: true
 ---
 

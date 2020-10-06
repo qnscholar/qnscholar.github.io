@@ -3,7 +3,8 @@ layout: post
 title: 沙拉查词 + Alfred，打造最佳文献翻译体验！
 date: 2020-03-17 09:30:00
 tags: 
-- 效率工具
+- Mac生产力
+- 文献阅读与翻译
 published: true
 ---
 

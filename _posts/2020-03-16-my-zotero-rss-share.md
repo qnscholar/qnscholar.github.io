@@ -3,7 +3,6 @@ layout: post
 title: Zotero｜推荐几个非常不错的Rss订阅源
 date: 2020-03-16 10:44:00
 tags: 
-- 文献管理与信息分析
 - Zotero
 published: true
 ---

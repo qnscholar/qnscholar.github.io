@@ -3,7 +3,7 @@ layout: post
 title: 有个这个神器，制作LaTeX/Markdown表格变得如此简单！
 date: 2020-04-16 22:36:00
 tags: 
-- 效率工具
+- LaTeX
 published: true
 ---
 

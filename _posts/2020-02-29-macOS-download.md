@@ -3,7 +3,7 @@ layout: post
 title: Mac菌搞科研｜macOS如何快速定位到下载的文件？
 date: 2020-02-29 11:07:00
 tags: 
-- Mac菌搞科研
+- Mac生产力
 published: true
 ---
 

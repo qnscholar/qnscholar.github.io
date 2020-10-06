@@ -3,7 +3,7 @@ layout: post
 title: 这样布置电脑，你的文献阅读效率会加倍！
 date: 2020-03-21 22:36:00
 tags: 
-- 效率工具
+- 文献阅读与翻译
 published: true
 ---
 
