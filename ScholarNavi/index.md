@@ -16,6 +16,7 @@ title: 青柠学术导航
 ### 百度文库免费下载
 
 - [网页转换助手](http://www.html22.com/zh/)
+- [油猴插件破解百度文库](https://mp.weixin.qq.com/s/JOZNhS0n8x_zNpGcc_NcXw)
 - [http://wk.yaersen.com](http://wk.yaersen.com)（只能下载“百度文库下载券”文档）
 
 ### 看外面的世界
