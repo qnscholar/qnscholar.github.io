@@ -18,6 +18,10 @@ title: 青柠学术导航
 - [网页转换助手](http://www.html22.com/zh/)
 - [http://wk.yaersen.com](http://wk.yaersen.com)（只能下载“百度文库下载券”文档）
 
+### 看外面的世界
+
+[点击此处](ts/free_ss_direct-access.png)看更大的世界，上网搞科学。
+
 ### 其他学术导航
 
 - [沃客学术导航](https://www.waysto.work)
