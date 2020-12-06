@@ -4,7 +4,7 @@ title: SCI发表｜论文投稿，为什么要用tiff格式的图片？
 date: 2020-10-14 22:36:00
 tags: 
 - 论文写作
-- 科研做图
+- 科研作图
 published: true
 ---
 
