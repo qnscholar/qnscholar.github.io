@@ -21,7 +21,7 @@ title: 青柠学术导航
 
 ### 看外面的世界
 
-[点击此处](ts/free_ss_direct-access.png)看更大的世界，上网搞科学。
+[点击此处](http://iseex.github.io/gifts/)看更大的世界，上网搞科学。
 
 ### 其他学术导航
 
