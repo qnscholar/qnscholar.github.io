@@ -26,6 +26,7 @@ title: 软件/工具下载渠道
 - [落尘之木](https://www.luochenzhimu.com/)
 - [易破解](http://www.yipojie.cn/)
 - [奇客小栈](http://www.geekotg.com/)
+- [极客下载](https://www.geekdload.com)
 
 
 
