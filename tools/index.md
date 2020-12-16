@@ -27,6 +27,7 @@ title: 软件/工具下载渠道
 - [易破解](http://www.yipojie.cn/)
 - [奇客小栈](http://www.geekotg.com/)
 - [极客下载](https://www.geekdload.com)
+- [乐软博客](https://www.isharepc.com/)
 
 
 
