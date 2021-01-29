@@ -7,6 +7,7 @@ title: 软件/工具下载渠道
 ### Mac平台
 
 - [懒得勤快](https://masuit.com)🌟🌟🌟🌟🌟
+- [懒得勤快网盘](https://masuit.com/drive#/onedrive/softs)🌟🌟🌟🌟🌟
 - [稀缺资源统一下载地址页](https://masuit.com/c/6)🌟🌟🌟🌟🌟
 - [Macstore.info](https://macstore.info)
 - [Mac毒](https://www.macdu.org/)
@@ -19,6 +20,7 @@ title: 软件/工具下载渠道
 ### Windows平台
 
 - [懒得勤快](https://masuit.com)🌟🌟🌟🌟🌟
+- [懒得勤快网盘](https://masuit.com/drive#/onedrive/softs)🌟🌟🌟🌟🌟
 - [稀缺资源统一下载地址页](https://masuit.com/c/6)🌟🌟🌟🌟🌟
 - [吾爱破解](https://www.52pojie.cn/)
 - [软件缘](https://www.appcgn.com/)
