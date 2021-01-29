@@ -14,7 +14,6 @@ title: 软件/工具下载渠道
 - [麦氪派](https://www.waitsun.com/topics/os)
 - [MacWK](https://www.macwk.com)
 - [Xclient](https://xclient.info)
-- [胡萝卜周](http://www.carrotchou.blog/category/mac)
 - [https://www.xia1ge.com/category/mac-software](https://www.xia1ge.com/category/mac-software)
 
 ### Windows平台
