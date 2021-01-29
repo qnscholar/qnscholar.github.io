@@ -23,7 +23,6 @@ title: 软件/工具下载渠道
 - [稀缺资源统一下载地址页](https://masuit.com/c/6)🌟🌟🌟🌟🌟
 - [吾爱破解](https://www.52pojie.cn/)
 - [软件缘](https://www.appcgn.com/)
-- [胡罗卜周](http://www.carrotchou.blog/)
 - [落尘之木](https://www.luochenzhimu.com/)
 - [易破解](http://www.yipojie.cn/)
 - [奇客小栈](http://www.geekotg.com/)
