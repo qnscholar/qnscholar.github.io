@@ -41,9 +41,7 @@ Windows、macOS、Linux、iOS、Android代理客户端下载：[https://ausers.g
 
 ### 邀请链接
 
-邀请链接：[https://popocloud.xyz/register.html?from=fJzySiJqgUqX](https://popocloud.xyz/register.html?from=fJzySiJqgUqX)
-
-有1元七天体验套餐，以及各类高级套餐，根据需要选择即可。
+邀请链接：[https://2ups.xyz/register?aff=138125](https://2ups.xyz/register?aff=138125)
 
 # （三）免费看腾讯、爱奇艺VIP视频
 
@@ -51,3 +49,4 @@ Windows、macOS、Linux、iOS、Android代理客户端下载：[https://ausers.g
 
 1. [http://www.niuga.cn](http://www.niuga.cn)
 2. [http://www.588230.com/#v](http://www.588230.com/#v)
+
