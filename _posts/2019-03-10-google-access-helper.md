@@ -8,29 +8,21 @@ tags: 闲谈
 
 ### 下载和安装（针对Chrome浏览器）
 
-谷歌访问助手是由haotian-wang分享在GitHub上的，进入链接[https://github.com/haotian-wang/google-access-helper](https://github.com/haotian-wang/google-access-helper)，即可进入谷歌访问助手的下载页面，如下图所示。
+下载方法：
 
-如果你访问GitHub速度较慢，可以使用我提前下载好的版本。链接: [https://pan.baidu.com/s/1aTbxkP6o6EbjhTnxQR0zUg](https://pan.baidu.com/s/1aTbxkP6o6EbjhTnxQR0zUg) 提取码: c6s2
+谷歌访问助手是由haotian-wang分享在GitHub上的，[在此下载](https://raw.githubusercontent.com/iseex/iseex.github.io/master/gifts/Google-Helper.zip)。PS：谷歌访问助手的GitHub主页已经挂了。
 
-![](https://tva1.sinaimg.cn/large/0082zybply1gc6mvbmfwvj31hk0s7n2n.jpg)
+安装方法：
 
-在该网页上，是以在Chrome上安装谷歌访问助手为例进行讲解的，而且该谷歌访问助手是破解版的，其实就算不破解也不麻烦，只需将浏览器的主页设置成指定的推广链接即可无限期免费试用谷歌访问助手。
-
-下载和安装方法：
-
-1. 克隆或下载仓库到本地，不会弄的可以按照下图所示操作。
-
-![](https://tva1.sinaimg.cn/large/0082zybply1gc6mvacx8wj30t30o7q6t.jpg)
-
-2. 打开Chrome浏览器的扩展程序管理器，不知道怎么打开的可直接在浏览器访问`chrome://extensions`，然后勾选开发者模式。如下图所示。
+1. 打开Chrome浏览器的扩展程序管理器，不知道怎么打开的可直接在浏览器访问`chrome://extensions`，然后勾选开发者模式。如下图所示。
 
 ![](https://tva1.sinaimg.cn/large/0082zybply1gc6mvdn5urj31hk0s4dnb.jpg)
 
-3. 在左上角点击`加载已解压的扩展程序`，选在在第一步下载的谷歌访问助手文件夹，如下图所示。
+2. 在左上角点击`加载已解压的扩展程序`，选在在第一步下载的谷歌访问助手文件夹，如下图所示。
 
 ![](https://tva1.sinaimg.cn/large/0082zybply1gc6mvekxb8j30q70etwg2.jpg)
 
-4. 到此谷歌访问助手就安装成功，恭喜你可以访问Google、Google scholar、Gmail了，不需要其他任何破解步骤。
+3. 到此谷歌访问助手就安装成功，恭喜你可以访问Google、Google scholar、Gmail了，不需要其他任何破解步骤。
 
 ### 其他浏览器
 
