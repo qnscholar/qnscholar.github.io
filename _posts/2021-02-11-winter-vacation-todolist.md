@@ -115,8 +115,6 @@ Roam Research？Roam Edit？Obsidian？wolai？
 
 我建议从[wolai](https://www.wolai.com/product)和[Obsidian](https://obsidian.md)学起。（`青柠学术`公众号后台回复`双向链接`获取客户端）
 
-![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20210210202113.png =300x110)
-
 相关推文如下：
 
 - [重磅｜Zotero + wolai 双向联动教程](https://mp.weixin.qq.com/s/H8KOp4XkHta8C_48pzjzDA)
