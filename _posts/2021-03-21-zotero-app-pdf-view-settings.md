@@ -13,7 +13,7 @@ published: true
 
 > PDF的默认滚动方向为**水平**，而非平时常用的**垂直**滚动，尽管可以设置，但是只对当前PDF有效，换一篇文献又恢复了...
 
-尚处于Beta版，有些功能不完善也能理解，所以我也是第一时间在TestFlight中反馈了意见。<span style="line-height:1;padding:0px 20px;font-size:14px;display:block;text-align:center;color:gray;">（不能白当Beta tester🌝）</span>
+尚处于Beta版，有些功能不完善也能理解，所以我也是第一时间在TestFlight中反馈了意见。
 
 就在刚刚，Zotero iOS App推送了一个新版本，完善了该功能。
 
