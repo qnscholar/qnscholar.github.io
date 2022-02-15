@@ -1,6 +1,6 @@
 # Site settings
-title: 'Nice Shot'  # Your Title
-tagline: 'To find something interesting'  # A brief tagline for your site
+title: '青柠学术'  # Your Title
+tagline: '学术成长'  # A brief tagline for your site
 timezone: 'Asia/Shanghai'
 destination: ./_site
 
@@ -12,16 +12,16 @@ markdown: kramdown
 #for local
 #highlighter: true
 baseurl: # the subpath of your site, e.g. /blog/
-codeurl: https://github.com/zchen9/code/issues
+codeurl: https://github.com/qnscholar/code/issues
 fragmenturl: /fragment/
 
 # Personal info
 avatar: ./images/zchen9_spring.png
 photo: ./images/hey.jpg
-email: zhao.zchen9@gmail.com
-github: https://github.com/zchen9
-twitter: https://twitter.com/ch1oechao
-ins: https://www.instagram.com/ch1oechao
+email: iseexuhs@icloud.com
+github: https://github.com/qnscholar
+twitter: https://twitter.com/qnscholar
+ins: https://www.instagram.com/qnscholar
 
 # Logo setting
 logocolor: '#000'
