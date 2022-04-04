@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://qnscholar.github.io/</loc>
+  <lastmod>2021-11-23T12:23:43+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/archive/</loc>
+  <lastmod>2021-11-23T12:23:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/tags/</loc>
+  <lastmod>2021-11-23T12:23:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/search/</loc>
+  <lastmod>2021-11-23T12:23:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/ScholarNavi/</loc>
+  <lastmod>2021-11-23T12:23:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-11/zotero-save-with-tag-advanced/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-11/zotero-save-with-tag/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-10/mac-translation-vs-others/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-10/macOS-Monterey-translation/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-10/LaTeX/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-10/Apple-logo-light-touch-bar/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-10/wolai-new-features/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-10/Safari-extension/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-09/papers-download-tips/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-09/iOS-iPadOS-15-Scholar-Productivity/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-09/LaTeX-Experiments-Notes-template/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-09/Apple-Events/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-09/hapigo-zotero/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-09/zotero-beta-back-to-production/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-09/scihub-zotero/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-09/SciHub-back/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-09/MarkdownNice/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-09/WeChat-OpenOnPC/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-08/Zotero-App-updates/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-08/paper-check/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/page/2/</loc>
+  <lastmod>2021-11-23T12:23:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-08/refs-check/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-08/eudic/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-08/PhD-02/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-08/qnscholar-rss/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-08/PhD/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-08/beta-zotero/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-08/my-Apple-products/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-08/wolai-to-do-list/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-08/summer-vacation-to-do-list/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-07/SCI-submitting-status/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-07/PicGo-gitee/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-07/PDF-Expert/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-05/iPhone-iPad-Screen-to-Mac/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-05/Convertio/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-05/template-plan/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-03/iJournal-journal-relationships/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-03/zotero-app-pdf-view-settings/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-03/Word-shortcuts/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-03/wolai-template/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-03/wolai-widget/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-02/Zotero-iOS-App/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-02/modify-zotero-plugin-yourself/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-02/clear-zotero-extra/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-02/winter-vacation-todolist/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-02/Word-skills/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-01/Obsidian-Theme/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2021-01/wolai-updates/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-12/Zotero-engines-setting/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-12/Zotero-Connected-Papers/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-12/submitting-experience/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-12/Jasminum-updates/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-12/Mac-menu-shortcuts/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-11/Does-it-ARM/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-11/iPhone12-mockup/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-11/origin-shortcuts/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-11/macOS-Big-Sur/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-11/typora-diagram/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-11/PaperShip-deleted-files/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-11/Greasy-Fork-Baidu-Wenku/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-11/simple-allow-copy/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-11/zotero-read-already/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-10/typora-theme/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-10/zotero-item-links/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-10/NTFS-tool/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-10/update-zotero-item-info/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-10/word-insert-citation-shortcut/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-10/academic-phasebank/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-10/figure-export-default-settings/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-10/tif-figures/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-10/scidown/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-10/doi/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-10/zotfile-scihub/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-10/researcher-homepage/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-10/zotero-note/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-09/plagiarisma/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-09/zotero-cnki-author-name/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-09/zotero-wos/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-09/Karabiner-Elements/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-09/mac-automatic-operation-app/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-09/utools-web/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-09/mac-dict-KM/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-09/new-cnki/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-09/uPic/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-09/color-picker/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-08/freshman/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-08/iina/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-08/timer/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-08/zotero-researcher-app/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-08/ocr/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-08/utools/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-08/patent-paper/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-08/Windows10-spotlight/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-08/extract-refs-to-zotero/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-08/zotero-duplicated-refs/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-08/mac-dict-app/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-08/mac-apps/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-08/manuscript-pdf-quality/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-08/cnki-patents/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-07/right-click-menu/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-07/zotero-retrieving-cn-references/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-07/references/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-07/search-tool/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-07/win-tools/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-07/ShareX/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-07/longxuan/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-07/Zotero-group-library/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-07/Chrome-plugin-websites/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-07/CNKI-oversea/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-07/Zotero-tools-bag/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-07/PaperShip-Delete/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-07/CNKI-PDF/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-07/PaperShip/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-06/Zutilo/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-06/refereces/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-06/Zotero-info/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-06/Zotero-big-screen/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-05/Zotero-move-items/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-05/TikZ-Star/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-05/Google-Patents/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-05/Zotero-papers-recently-added/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-05/Zotero-paper-collection/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-05/Zotero-emoji-tags/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-05/Zotero-delete/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-05/Mac-QQ-OCR/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-05/Microsoft-Edge-Zotero-Connector/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-05/Win-Mac-softwares-download-websites/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-04/follow-reseacher-google-scholar/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-04/mail-as-rss-reader/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-04/zotero-rss-papers-subscription/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-04/LaTeX-tutorial-start/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-04/tables-generator/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-04/ebooks-website/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-04/powerpoint-drawing-skills/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-04/apple-style-mockup/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-03/nCoV2019-zotero-public-group/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-03/reset-zotero-syncing-settings/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-03/paper-reading-efficiently/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-03/zotfile-linked-file/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-03/sublime-text-theme/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-03/sublime-installation/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-03/sublime-tutorials/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-03/sublime-latex-setup/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-03/saladict-alfred/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-03/my-zotero-rss-share/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-03/GBT7714-Standard-PDF/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-03/zotero-saved-search/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-03/zotero-shortdoi/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-03/onedrive-education-approach/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-03/zotero-scihub/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-03/gesanghua-website/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-03/online-resume-making/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-03/conferences-search/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-03/zotero-cnki-author-fullname/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-03/zotero-send-to-tablet/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-03/altmetric/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-02/macOS-download/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-02/iThoughtsX/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-02/MarginNote3/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-02/NutStore-MindMap/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-02/Baidu-Naotu/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-02/TeXstudio-Chinese-Fonts-display/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-02/Mac-Preview-App/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-02/QNer-bigdata/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-02/macOS-app/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-02/longmao/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-02/damuchong/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2020-02/9178work/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2019-11/copytranslator/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2019-05/mathpix/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2019-05/HistCite/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2019-02/google-access-helper/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2018-08/LaTeX-tutorial-float/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2018-08/LaTeX-tutorial-equation/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2018-08/LaTeX-tutorial-text/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2018-08/images-website/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/2018-08/custom-domain/</loc>
+  <lastmod>2021-11-23T12:23:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/page/3/</loc>
+  <lastmod>2021-11-23T12:23:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/page/4/</loc>
+  <lastmod>2021-11-23T12:23:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/page/5/</loc>
+  <lastmod>2021-11-23T12:23:43+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/page/6/</loc>
+  <lastmod>2021-11-23T12:23:43+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/page/7/</loc>
+  <lastmod>2021-11-23T12:23:43+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/page/8/</loc>
+  <lastmod>2021-11-23T12:23:43+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://qnscholar.github.io/page/9/</loc>
+  <lastmod>2021-11-23T12:23:43+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+
+
+</urlset>

@@ -1,27 +1,79 @@
-# Site settings
-title: '青柠学术'  # Your Title
-tagline: '学术成长'  # A brief tagline for your site
-timezone: 'Asia/Shanghai'
-destination: ./_site
+# Basic
+title: 青柠学术
+subtitle: 个人站
+description: 每个科研小白都有成为大神的潜力。
+# 头像里面的标题
+avatarTitle: qnscholar
+# 头像里面的描述
+avatarDesc: 学术 / 成长
+url: "https://qnscholar.github.io/"
 
-# Build settings
-encoding: UTF-8
-markdown: kramdown
-#for publish
-#highlighter: pygments
-#for local
-#highlighter: true
-baseurl: # the subpath of your site, e.g. /blog/
-codeurl: https://github.com/qnscholar/code/issues
-fragmenturl: /fragment/
+# Comment
+comment:
+    # disqus: leopard
+    # uyan: 2143225  # 有言id,登录有言官网申请
 
-# Personal info
-avatar: ./images/qnscholar.png
-photo: ./images/hey.jpg
-email: iseexuhs@icloud.com
-blog: https://qnscholar.gitee.io
-github: https://github.com/qnscholar
-twitter: https://twitter.com/qnscholar
+# Social
+social:
+   # weibo: iseexuhs
+    weixin: 青柠学术 
+    zhihu:  qnscholar
+   # facebook: iseexuhs
+   # twitter: iseexuhs
+    #github: iseex
+    mail: iseexuhs@gmail.com
 
-# Logo setting
-logocolor: '#000'
+# 百度统计 
+# https://tongji.baidu.com/sc-web/10000034379/home/site/getjs?siteId=13753674
+baidu:
+    id: b0ecab2411ae3fdb11b239f4a68ade48
+
+# Google Analytics
+# 使用博客模板请去掉或者更换 id
+ga:
+   id: UA-124182047-1   
+   host: auto  
+
+
+# 《----------------- 添加 by xhs ---------------------------》
+
+
+# 《--------------- 添加 by xhs ------------------------》
+
+
+# 《----------------- 上面的信息修改成你自己的 ---------------------------》
+#
+# 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
+
+
+permalink: /:year-:month/:title/
+#permalink: /:year/:month/:title/
+# Format
+highlighter: rouge
+
+textColor: #FF0000
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: clear
+
+# The blog button should not be removed.
+blog_button:
+    title: 博客主页
+
+# Navigation buttons in the front page.s
+nav:
+    #文章过少，暂时不需要分标签和所有文章
+   # - {title: 福利, description: gifts, url: '/gifts'}
+    - {title: 归档, description: archive, url: '/archive'}
+    #- {title: 标签, description: tags, url: '/tags'}
+    - {title: 标签, description: tags, url: '/tags'}   
+    - {title: 搜索, description: search, url: '/search'}   
+    - {title: 学术导航, description: ScholarNavi, url: '/ScholarNavi'}   
+    
+
+# Pagination
+gems: [jekyll-paginate,jekyll-sitemap]
+paginate: 20
+paginate_path: "page/:num/"
+
+

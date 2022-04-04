@@ -1,0 +1,140 @@
+<section class="footer">
+    <footer>
+        <div class = "footer_div">  
+        <nav class="cover-navigation navigation--social">
+          <ul class="navigation">
+
+
+
+
+          <!--  xhs -->
+
+                      {% if site.social.weixin %}
+  <li class="navigation__item_social">
+    <a target="_blank" href="https://qnscholar.github.io/images/blog.png" title="@{{site.social.weixin}} 的 公众号">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-weixin fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+
+
+  {% if site.social.zhihu %}
+  <li class="navigation__item_social">
+    <a target="_blank" href="https://www.zhihu.com/people/{{ site.social.zhihu }}" title="@{{site.social.zhihu}} 的 知乎">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa  fa-stack-1x fa-inverse">知</i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+
+
+            {% if site.social.facebook %}
+  <li class="navigation__item_social">
+    <a target="_blank" href="https://www.facebook.com/{{ site.social.facebook }}" title="@{{site.social.facebook}} 的 facebok">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+
+    {% if site.social.twitter %}
+  <li class="navigation__item_social">
+    <a href="https://twitter.com/{{ site.social.twitter }}" title="@{{site.social.twitter}} 的 twiiter">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+
+
+      {% if site.social.mail %}
+  <li class="navigation__item_social">
+    <a href="mailto:{{site.social.mail}}" title="Contact me">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+
+
+            <!-- rss xhs 注意feed.xml前的/给删除，因为url末尾有/ -->
+
+           <li class="navigation__item_social">
+            <a href="{{ site.url }}feed.xml" title="订阅 @{{site.title}}" target="_blank">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+            </a>
+          </li>
+
+          <!-- rss xhs -->
+
+  <!--  xhs -->
+
+          <!-- zhihu xhs -->
+           
+          <!--
+          {% if site.social.zhihu %}
+          <li>
+            <a target="_blank" href="https://www.zhihu.com/people/{{ site.social.zhihu }}">
+              <span class="fa-stack fa-lg" style="margin:2px">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa  fa-stack-1x fa-inverse">知</i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+          
+           -->
+
+          <!-- zhihu xhs -->
+        
+
+
+
+
+          </ul>
+        </nav>
+
+        </div>
+
+        <div class = "footer_div">  
+           <p class="copyright text-muted">
+            Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }} Powered by Jekyll
+            <!--  
+            <iframe
+                style="margin-left: 2px; margin-bottom:-5px;"
+                frameborder="0" scrolling="0" width="91px" height="20px"
+                src="https://github.com/sirFive" >
+            </iframe>
+            -->
+            </p>
+        	<div align="right">
+    			<link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+          <!-- 访问统计 -->
+
+          <!--
+          <span id="busuanzi_container_site_pv">
+            本站总访问量
+            <span id="busuanzi_value_site_pv"></span>次
+          </span>
+          -->
+
+        </div>
+        <div>
+    </footer>
+</section>
